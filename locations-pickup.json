@@ -1,0 +1,681 @@
+[{
+    "iata": "SAO",
+    "id": "C30",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS SAO CAETANO "
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC30 UNIDAS SAO CAETANO R SENADOR VERGUEIRO 428",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN"
+    }, {
+        "day": "MON",
+        "openingTime": "08:00",
+        "closingTime": "20:00"
+    }, {
+        "day": "TUE",
+        "openingTime": "08:00",
+        "closingTime": "20:00"
+    }, {
+        "day": "WED",
+        "openingTime": "08:00",
+        "closingTime": "20:00"
+    }, {
+        "day": "THU",
+        "openingTime": "08:00",
+        "closingTime": "20:00"
+    }, {
+        "day": "FRI",
+        "openingTime": "08:00",
+        "closingTime": "20:00"
+    }, {
+        "day": "SAT",
+        "openingTime": "08:00",
+        "closingTime": "20:00"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C27",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS LEROY TAMBORE"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC27 UNIDAS LEROY TAMBORE AV FERNANDO CERQUEIRA CESAR COIMBRA 1000",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN",
+        "openingTime": "09:00",
+        "closingTime": "20:00"
+    }, {
+        "day": "MON",
+        "openingTime": "08:00",
+        "closingTime": "22:00"
+    }, {
+        "day": "TUE",
+        "openingTime": "08:00",
+        "closingTime": "22:00"
+    }, {
+        "day": "WED",
+        "openingTime": "08:00",
+        "closingTime": "22:00"
+    }, {
+        "day": "THU",
+        "openingTime": "08:00",
+        "closingTime": "22:00"
+    }, {
+        "day": "FRI",
+        "openingTime": "08:00",
+        "closingTime": "22:00"
+    }, {
+        "day": "SAT",
+        "openingTime": "08:00",
+        "closingTime": "22:00"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C25",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS LEROY JAGUARE"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC25 UNIDAS LEROY JAGUARE AVENIDA GONCALO MADEIRA 100",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN",
+        "openingTime": "09:00",
+        "closingTime": "19:45"
+    }, {
+        "day": "MON",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "TUE",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "WED",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "THU",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "FRI",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "SAT",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C23",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS PAULISTA"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC23 UNIDAS PAULISTA RUA CINCINATO BRAGA 388",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN"
+    }, {
+        "day": "MON",
+        "openingTime": "08:00",
+        "closingTime": "18:45"
+    }, {
+        "day": "TUE",
+        "openingTime": "08:00",
+        "closingTime": "18:45"
+    }, {
+        "day": "WED",
+        "openingTime": "08:00",
+        "closingTime": "18:45"
+    }, {
+        "day": "THU",
+        "openingTime": "08:00",
+        "closingTime": "18:45"
+    }, {
+        "day": "FRI",
+        "openingTime": "08:00",
+        "closingTime": "18:45"
+    }, {
+        "day": "SAT",
+        "openingTime": "08:00",
+        "closingTime": "12:45"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C22",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS SHOP TATUAPE"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC22 UNIDAS SHOP TATUAPE RUA GONCALVES CRESPO LOJA 78",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN",
+        "openingTime": "12:00",
+        "closingTime": "20:00"
+    }, {
+        "day": "MON",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "TUE",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "WED",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "THU",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "FRI",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "SAT",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C20",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS SHOP SANTA CRUZ"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC20 UNIDAS SHOP SANTA CRUZ RUA DOMINGOS DE MORAES 2564",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN",
+        "openingTime": "14:00",
+        "closingTime": "19:45"
+    }, {
+        "day": "MON",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "TUE",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "WED",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "THU",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "FRI",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "SAT",
+        "openingTime": "10:00",
+        "closingTime": "21:45"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C19",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS SANTO ANDRE - DOM PEDRO II 1909"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC19 UNIDAS SANTO ANDRE AV DOM PEDRO II 1909",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN"
+    }, {
+        "day": "MON",
+        "openingTime": "09:00",
+        "closingTime": "18:00"
+    }, {
+        "day": "TUE",
+        "openingTime": "09:00",
+        "closingTime": "18:00"
+    }, {
+        "day": "WED",
+        "openingTime": "09:00",
+        "closingTime": "18:00"
+    }, {
+        "day": "THU",
+        "openingTime": "09:00",
+        "closingTime": "18:00"
+    }, {
+        "day": "FRI",
+        "openingTime": "09:00",
+        "closingTime": "18:00"
+    }, {
+        "day": "SAT"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C18",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS SHOP JARDIM SUL"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC18 UNIDAS SHOP JARDIM SUL AV GIOVANNI GRONCHI 5819",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN",
+        "openingTime": "14:00",
+        "closingTime": "20:00"
+    }, {
+        "day": "MON",
+        "openingTime": "10:00",
+        "closingTime": "22:00"
+    }, {
+        "day": "TUE",
+        "openingTime": "10:00",
+        "closingTime": "22:00"
+    }, {
+        "day": "WED",
+        "openingTime": "10:00",
+        "closingTime": "22:00"
+    }, {
+        "day": "THU",
+        "openingTime": "10:00",
+        "closingTime": "22:00"
+    }, {
+        "day": "FRI",
+        "openingTime": "10:00",
+        "closingTime": "22:00"
+    }, {
+        "day": "SAT",
+        "openingTime": "10:00",
+        "closingTime": "22:00"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C17",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS JUSCELINO KUBITSCHEK"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC17 UNIDAS JUSCELINO K RUA JOAO CAHOEIRA 899",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN"
+    }, {
+        "day": "MON",
+        "openingTime": "08:00",
+        "closingTime": "18:45"
+    }, {
+        "day": "TUE",
+        "openingTime": "08:00",
+        "closingTime": "18:45"
+    }, {
+        "day": "WED",
+        "openingTime": "08:00",
+        "closingTime": "18:45"
+    }, {
+        "day": "THU",
+        "openingTime": "08:00",
+        "closingTime": "18:45"
+    }, {
+        "day": "FRI",
+        "openingTime": "08:00",
+        "closingTime": "18:45"
+    }, {
+        "day": "SAT",
+        "openingTime": "08:00",
+        "closingTime": "13:00"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C15",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS TERMINAL TIETE"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC15 UNIDAS TERMINAL TIETE AV CRUZEIRO DO SUL 1800",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN",
+        "openingTime": "10:00",
+        "closingTime": "19:45"
+    }, {
+        "day": "MON",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "TUE",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "WED",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "THU",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "FRI",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "SAT",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C14",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS BARRA FUNDA"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC14 UNIDAS BARRA FUNDA RUA TOMAS EDSON 103",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN",
+        "openingTime": "10:00",
+        "closingTime": "19:45"
+    }, {
+        "day": "MON",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "TUE",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "WED",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "THU",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "FRI",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }, {
+        "day": "SAT",
+        "openingTime": "08:00",
+        "closingTime": "21:45"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C06",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS ZONA NORTE"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC06 UNIDAS ZONA NORTE AV ENGENHEIRO CAETANO ALVARES 1700",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN"
+    }, {
+        "day": "MON",
+        "openingTime": "08:00",
+        "closingTime": "17:45"
+    }, {
+        "day": "TUE",
+        "openingTime": "08:00",
+        "closingTime": "17:45"
+    }, {
+        "day": "WED",
+        "openingTime": "08:00",
+        "closingTime": "17:45"
+    }, {
+        "day": "THU",
+        "openingTime": "08:00",
+        "closingTime": "17:45"
+    }, {
+        "day": "FRI",
+        "openingTime": "08:00",
+        "closingTime": "17:45"
+    }, {
+        "day": "SAT"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C05",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS ANHAIA MELO"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC05 UNIDAS ANHAIA MELO AV PROF LUIZ IGNACIO ANHAIA MELO 4470",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN"
+    }, {
+        "day": "MON",
+        "openingTime": "09:00",
+        "closingTime": "18:00"
+    }, {
+        "day": "TUE",
+        "openingTime": "09:00",
+        "closingTime": "18:00"
+    }, {
+        "day": "WED",
+        "openingTime": "09:00",
+        "closingTime": "18:00"
+    }, {
+        "day": "THU",
+        "openingTime": "09:00",
+        "closingTime": "18:00"
+    }, {
+        "day": "FRI",
+        "openingTime": "09:00",
+        "closingTime": "18:00"
+    }, {
+        "day": "SAT"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C04",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS ALPHAVILLE"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC04 UNIDAS ALPHAVILLE ESTRADA DA ALDEINHA 181",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN"
+    }, {
+        "day": "MON",
+        "openingTime": "08:30",
+        "closingTime": "17:45"
+    }, {
+        "day": "TUE",
+        "openingTime": "08:30",
+        "closingTime": "17:45"
+    }, {
+        "day": "WED",
+        "openingTime": "08:30",
+        "closingTime": "17:45"
+    }, {
+        "day": "THU",
+        "openingTime": "08:30",
+        "closingTime": "17:45"
+    }, {
+        "day": "FRI",
+        "openingTime": "08:30",
+        "closingTime": "17:45"
+    }, {
+        "day": "SAT"
+    }]
+}, {
+    "iata": "SAO",
+    "id": "C01",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS CONSOLACAO"
+    },
+    "type": "C",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "SAOC01 UNIDAS CONSOLACAO RUA DA CONSOLACAO 323 LOJA 1",
+        "type": "CITY"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN"
+    }, {
+        "day": "MON",
+        "openingTime": "08:00",
+        "closingTime": "19:45"
+    }, {
+        "day": "TUE",
+        "openingTime": "08:00",
+        "closingTime": "19:45"
+    }, {
+        "day": "WED",
+        "openingTime": "08:00",
+        "closingTime": "19:45"
+    }, {
+        "day": "THU",
+        "openingTime": "08:00",
+        "closingTime": "19:45"
+    }, {
+        "day": "FRI",
+        "openingTime": "08:00",
+        "closingTime": "19:45"
+    }, {
+        "day": "SAT",
+        "openingTime": "08:00",
+        "closingTime": "12:45"
+    }]
+}, {
+    "iata": "CGH",
+    "id": "CGH",
+    "name": "UNIDAS",
+    "description": {
+        "DS_LOCAL_RETIRADA": "UNIDAS AEROPORTO DE CONGONHAS"
+    },
+    "type": "T",
+    "player": {
+        "code": "UN"
+    },
+    "location": {
+        "address": "UNIDAS AEROPORTO CONGONHAS PRACA COMANDANTE LINEU GOMES 100",
+        "type": "AIRPORT"
+    },
+    "hoursOfOperation": [{
+        "day": "SUN",
+        "openingTime": "05:00",
+        "closingTime": "23:59"
+    }, {
+        "day": "MON",
+        "openingTime": "05:00",
+        "closingTime": "23:59"
+    }, {
+        "day": "TUE",
+        "openingTime": "05:00",
+        "closingTime": "23:59"
+    }, {
+        "day": "WED",
+        "openingTime": "05:00",
+        "closingTime": "23:59"
+    }, {
+        "day": "THU",
+        "openingTime": "05:00",
+        "closingTime": "23:59"
+    }, {
+        "day": "FRI",
+        "openingTime": "05:00",
+        "closingTime": "23:59"
+    }, {
+        "day": "SAT",
+        "openingTime": "05:00",
+        "closingTime": "23:59"
+    }]
+}]
