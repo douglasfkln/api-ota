@@ -1,0 +1,81 @@
+{
+    "id": "Hotel Hilton Plaza",
+    "name": "Hotel Hilton Plaza",
+    "description": "O Hotel São Paulo Inn fica no Largo Santa Efigênia, 44, Santa Efigênia. Ele está a poucos minutos da Estação de Metrô São Bento, do Theatro Municipal, do Vale do Anhangabaú, da Pinacoteca do Estado, do Palácio de Convenções Anhembi, do Expo Center Norte e do Centro de Convenções Imigrantes.\r\rA hospedagem tem 112 apartamentos, cinco andares, três elevadores, estacionamento sujeito a disponibilidade de vagas, serviço de lavanderia terceirizado e Room Service. A internet Wi-Fi e o café da manhã são cortesias. O Hotel São Paulo Inn possui três salas para a realização de eventos, com capacidade total para receber até 250 pessoas. Consulte nossas tarifas e faça a sua reserva!\r\rGRUPOS E EVENTOS\rAlém de oferecer apartamentos amplos e confortáveis, serviços diversos e café da manhã rico em opções, o Hotel São Paulo Inn também possui salas para a realização de eventos. No total, são três espaços:\r\r- Sala 1: capacidade para receber até 50 pessoas.\r\r- Sala 2: capacidade para receber até 100 pessoas.\r\r- Sala 3: capacidade para receber até 100 pessoas, num espaço em formato de auditório.\r\r- Total: 250 pessoas.\r\rO Hotel em São Paulo conta com equipe de profissionais que irá atender todos os objetivos do seu encontro, reunião, assembleia, entre outros! Consulte as tarifas!\r",
+    "contents": [{
+        "code": "XXX",
+        "name": "Description Agreement",
+        "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - (RÉVEILLON E CARNAVAL GARANTIA DE NO-SHOW IRREVOGÁVEL)- BRASIL FÁCIL"
+    }],
+    "images": {
+        "thumbnailImage": [{
+            "image": "http://server.domain:port/resources?item=a.png",
+            "title": "Quarto 342",
+            "alt": "Quarto 342"
+        }],
+        "smallImages": [{
+            "image": "http://server.domain:port/resources?item=a.png",
+            "title": "Quarto 342",
+            "alt": "Quarto 342"
+        }]
+    },
+    "address": "avenida paulista 1001",
+    "rooms": [{
+        "id": "1",
+        "description": "Quarto com beliche e ar condicionado",
+        "mealPlan": "Café da Manhã",
+        "category": "Classico",
+        "minGuests": 1,
+        "maxGuests": 2,
+        "quantityAvailable": 2,
+        "available": true,
+        "qntd": 1,
+        "guests": 2,
+        "rates": [{
+            "id": ".aa15449184b8Osw4HCq3A==",
+            "currency": "PTS",
+            "priceWithTax": 1657.34,
+            "priceWithoutTax": 1726.87,
+            "pricePerDayWithTax": 1657.34,
+            "pricePerDayWithoutTax": 1726.87,
+            "pricePerGuestWithTax": 1657.34,
+            "pricePerGuestWithoutTax": 1726.87,
+            "contents": [{
+                "items": {
+                    "code": "XXX",
+                    "name": "Description Agreement",
+                    "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - (RÉVEILLON E CARNAVAL GARANTIA DE NO-SHOW IRREVOGÁVEL)- BRASIL FÁCIL"
+                }
+            }]
+        }]
+    }, {
+        "id": "1",
+        "description": "Quarto com beliche e ar condicionado",
+        "mealPlan": "Café da Manhã",
+        "category": "Economico",
+        "minGuests": 1,
+        "maxGuests": 2,
+        "quantityAvailable": 2,
+        "available": true,
+        "qntd": 1,
+        "guests": 1,
+        "rates": [{
+            "id": ".aa15449184b8Osw4HCq3A==",
+            "currency": "PTS",
+            "priceWithTax": 1657.34,
+            "priceWithoutTax": 1726.87,
+            "pricePerDayWithTax": 1657.34,
+            "pricePerDayWithoutTax": 1726.87,
+            "pricePerGuestWithTax": 1657.34,
+            "pricePerGuestWithoutTax": 1726.87,
+            "contents": [{
+                "items": {
+                    "code": "XXX",
+                    "name": "Description Agreement",
+                    "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - (RÉVEILLON E CARNAVAL GARANTIA DE NO-SHOW IRREVOGÁVEL)- BRASIL FÁCIL"
+                }
+            }]
+        }]
+    }],
+    "partnerCode": "CVC"
+}
