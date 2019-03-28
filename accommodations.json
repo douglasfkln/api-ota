@@ -8,15 +8,59 @@
         "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - (RÉVEILLON E CARNAVAL GARANTIA DE NO-SHOW IRREVOGÁVEL)- BRASIL FÁCIL"
     }],
     "images": {
-        "thumbnailImage": [{
-            "image": "http://server.domain:port/resources?item=a.png",
-            "title": "Quarto 342",
-            "alt": "Quarto 342"
-        }],
+        "thumbnailImage": {
+            "image": "http://media.omnibees.com/Images/2085/Property/58955.jpg",
+            "title": "fachada",
+            "alt": "fachada"
+        },
         "smallImages": [{
-            "image": "http://server.domain:port/resources?item=a.png",
-            "title": "Quarto 342",
-            "alt": "Quarto 342"
+            "image": "http://media.omnibees.com/Images/2085/Property/58955.jpg",
+            "title": "fachada",
+            "alt": "fachada"
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/58957.jpg",
+            "title": "frente",
+            "alt": "frente"
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/58976.jpg",
+            "title": "sala de eventos",
+            "alt": "sala de eventos"
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/58977.jpg",
+            "title": "loby hotel",
+            "alt": "loby hotel"
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/58980.jpg",
+            "title": "salas para convençao",
+            "alt": "salas para convençao"
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/58981.jpg",
+            "title": "looby",
+            "alt": "looby"
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/58982.jpg",
+            "title": "fachada.",
+            "alt": "fachada."
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/136483.jpg",
+            "title": "1.JPG",
+            "alt": "1.JPG"
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/136484.jpg",
+            "title": "2.JPG",
+            "alt": "2.JPG"
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/136485.jpg",
+            "title": "3.JPG",
+            "alt": "3.JPG"
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/136487.jpg",
+            "title": "4.JPG",
+            "alt": "4.JPG"
+        }, {
+            "image": "http://media.omnibees.com/Images/2085/Property/199996.jpg",
+            "title": "Café da Manhã",
+            "alt": "Café da Manhã"
         }]
     },
     "address": "avenida paulista 1001",
