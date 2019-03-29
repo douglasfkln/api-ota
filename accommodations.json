@@ -73,8 +73,6 @@
         "maxGuests": 2,
         "quantityAvailable": 2,
         "available": true,
-        "qntd": 1,
-        "guests": 2,
         "rates": [{
             "id": ".aa15449184b8Osw4HCq3A==",
             "currency": "PTS",
@@ -101,8 +99,6 @@
         "maxGuests": 2,
         "quantityAvailable": 2,
         "available": true,
-        "qntd": 1,
-        "guests": 1,
         "rates": [{
             "id": ".aa15449184b8Osw4HCq3A==",
             "currency": "PTS",
