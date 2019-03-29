@@ -1,121 +1,81 @@
 {
-    "id": "Hotel Hilton Plaza",
-    "name": "Hotel Hilton Plaza",
-    "description": "O Hotel São Paulo Inn fica no Largo Santa Efigênia, 44, Santa Efigênia. Ele está a poucos minutos da Estação de Metrô São Bento, do Theatro Municipal, do Vale do Anhangabaú, da Pinacoteca do Estado, do Palácio de Convenções Anhembi, do Expo Center Norte e do Centro de Convenções Imigrantes.\r\rA hospedagem tem 112 apartamentos, cinco andares, três elevadores, estacionamento sujeito a disponibilidade de vagas, serviço de lavanderia terceirizado e Room Service. A internet Wi-Fi e o café da manhã são cortesias. O Hotel São Paulo Inn possui três salas para a realização de eventos, com capacidade total para receber até 250 pessoas. Consulte nossas tarifas e faça a sua reserva!\r\rGRUPOS E EVENTOS\rAlém de oferecer apartamentos amplos e confortáveis, serviços diversos e café da manhã rico em opções, o Hotel São Paulo Inn também possui salas para a realização de eventos. No total, são três espaços:\r\r- Sala 1: capacidade para receber até 50 pessoas.\r\r- Sala 2: capacidade para receber até 100 pessoas.\r\r- Sala 3: capacidade para receber até 100 pessoas, num espaço em formato de auditório.\r\r- Total: 250 pessoas.\r\rO Hotel em São Paulo conta com equipe de profissionais que irá atender todos os objetivos do seu encontro, reunião, assembleia, entre outros! Consulte as tarifas!\r",
-    "contents": [{
-        "code": "XXX",
-        "name": "Description Agreement",
-        "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - (RÉVEILLON E CARNAVAL GARANTIA DE NO-SHOW IRREVOGÁVEL)- BRASIL FÁCIL"
-    }],
+    "id": "4512291924",
+    "name": "ARAMAR PRAIA HOTEL",
+    "description": "O Ara Mar Praia Hotel está localizado na Praia de Iracema a 50 metros da praia. \r\nPossui apartamentos recém-reformados, equipados com camas box, ar condicionado, ducha quente, frigobar, telefone, tv à cabo e internet wi-fi gratuito.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "contents": [
+        {
+            "code": "hotel-resort-fee",
+            "name": null,
+            "description": "          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          "
+        }
+    ],
     "images": {
-        "thumbnailImage": {
-            "image": "http://media.omnibees.com/Images/2085/Property/58955.jpg",
-            "title": "fachada",
-            "alt": "fachada"
-        },
-        "smallImages": [{
-            "image": "http://media.omnibees.com/Images/2085/Property/58955.jpg",
-            "title": "fachada",
-            "alt": "fachada"
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/58957.jpg",
-            "title": "frente",
-            "alt": "frente"
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/58976.jpg",
-            "title": "sala de eventos",
-            "alt": "sala de eventos"
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/58977.jpg",
-            "title": "loby hotel",
-            "alt": "loby hotel"
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/58980.jpg",
-            "title": "salas para convençao",
-            "alt": "salas para convençao"
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/58981.jpg",
-            "title": "looby",
-            "alt": "looby"
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/58982.jpg",
-            "title": "fachada.",
-            "alt": "fachada."
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/136483.jpg",
-            "title": "1.JPG",
-            "alt": "1.JPG"
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/136484.jpg",
-            "title": "2.JPG",
-            "alt": "2.JPG"
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/136485.jpg",
-            "title": "3.JPG",
-            "alt": "3.JPG"
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/136487.jpg",
-            "title": "4.JPG",
-            "alt": "4.JPG"
-        }, {
-            "image": "http://media.omnibees.com/Images/2085/Property/199996.jpg",
-            "title": "Café da Manhã",
-            "alt": "Café da Manhã"
-        }]
+        "thumbnailImage": [],
+        "smallImages": [
+            {
+                "href": "https://img.services.cvc.com.br/images/447425.jpg",
+                "description": null
+            },
+            {
+                "href": "https://img.services.cvc.com.br/images/413530.jpg",
+                "description": null
+            },
+            {
+                "href": "https://img.services.cvc.com.br/images/413479.jpg",
+                "description": null
+            },
+            {
+                "href": "https://img.services.cvc.com.br/images/413509.jpg",
+                "description": null
+            },
+            {
+                "href": "https://img.services.cvc.com.br/images/413531.jpg",
+                "description": null
+            },
+            {
+                "href": "https://img.services.cvc.com.br/images/413532.jpg",
+                "description": null
+            },
+            {
+                "href": "https://img.services.cvc.com.br/images/413533.jpg",
+                "description": null
+            }
+        ]
     },
-    "address": "avenida paulista 1001",
-    "rooms": [{
-        "id": "1",
-        "description": "Quarto com beliche e ar condicionado",
-        "mealPlan": "Café da Manhã",
-        "category": "Classico",
-        "minGuests": 1,
-        "maxGuests": 2,
-        "quantityAvailable": 2,
-        "available": true,
-        "rates": [{
-            "id": ".aa15449184b8Osw4HCq3A==",
-            "currency": "PTS",
-            "priceWithTax": 1657.34,
-            "priceWithoutTax": 1726.87,
-            "pricePerDayWithTax": 1657.34,
-            "pricePerDayWithoutTax": 1726.87,
-            "pricePerGuestWithTax": 1657.34,
-            "pricePerGuestWithoutTax": 1726.87,
-            "contents": [{
-                "items": {
-                    "code": "XXX",
-                    "name": "Description Agreement",
-                    "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - (RÉVEILLON E CARNAVAL GARANTIA DE NO-SHOW IRREVOGÁVEL)- BRASIL FÁCIL"
+    "address": "Avenida Historiador Raimundo Girão, 430, Fortaleza, CE, Brasil",
+    "rooms": [
+        {
+            "id": "1",
+            "token": "1",
+            "description": "APTO STANDARD - COMPRE JÁ|DIÁRIA(S) COM CAFÉ DA MANHÃ|10613942",
+            "mealPlan": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+            "category": "APTO STANDARD - COMPRE JÁ",
+            "name": "APTO STANDARD - COMPRE JÁ DIÁRIA(S) COM CAFÉ DA MANHÃ",
+            "minGuests": 1,
+            "maxGuests": 3,
+            "available": true,
+            "quantityAvailable": 1,
+            "rates": [
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IkFQVE8gU1RBTkRBUkQgLSBDT01QUkUgSsOBIiBjaWQ9IjQ1MDAxIiBjbWk9IjQ1IiBjbXo9IjE0NjMiIGNwcD0iMCIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0wMiIgZHRpPSIyMDE5LTA0LTAxIiBlYms9IiIgZWN0PSJCUiIgZXN0PSJDRSIgZXppPSIxNDYzIiBmZWI9ImZhbHNlIiBob3Q9IjQ1MTIyOTE5MjQiIGxhbj0icHRfQlIiIG1raT0iNjQyMTUzOCIgbWtwPSIwLjY5MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iNDUxMjI5MTkyNCIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjQ1IiBwbGM9IkJSTCIgcG90PSIxMTgiIHBwdD0iVm91Y2hlciIgcHB5PSIxMjI5MTkyNCIgcHJkPSJIT1QiIHB3dD0iMTE4IiBweHM9IjMwIiByb209IjEwNjEzOTQyIiBycGg9IjEiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMy0yOS0wMzowMCIgc290PSIxNzEuMDEiIHNzdD0iU1AiIHN3dD0iMTcxLjAxIiBzemk9IjEwNCIvPg==",
+                    "packageGroup": "STANDALONE",
+                    "currency": "BRL",
+                    "priceWithTax": 171.01,
+                    "priceWithoutTax": 171.01,
+                    "pricePerDayWithTax": 171.01,
+                    "pricePerDayWithoutTax": 171.01,
+                    "pricePerGuestWithTax": 171.01,
+                    "pricePerGuestWithoutTax": 171.01
                 }
-            }]
-        }]
-    }, {
-        "id": "1",
-        "description": "Quarto com beliche e ar condicionado",
-        "mealPlan": "Café da Manhã",
-        "category": "Economico",
-        "minGuests": 1,
-        "maxGuests": 2,
-        "quantityAvailable": 2,
-        "available": true,
-        "rates": [{
-            "id": ".aa15449184b8Osw4HCq3A==",
-            "currency": "PTS",
-            "priceWithTax": 1657.34,
-            "priceWithoutTax": 1726.87,
-            "pricePerDayWithTax": 1657.34,
-            "pricePerDayWithoutTax": 1726.87,
-            "pricePerGuestWithTax": 1657.34,
-            "pricePerGuestWithoutTax": 1726.87,
-            "contents": [{
-                "items": {
-                    "code": "XXX",
+            ],
+            "contents": [
+                {
+                    "code": "description-agreement",
                     "name": "Description Agreement",
-                    "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - (RÉVEILLON E CARNAVAL GARANTIA DE NO-SHOW IRREVOGÁVEL)- BRASIL FÁCIL"
+                    "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - (RÉVEILLON E CARNAVAL GARANTIA DE NO-SHOW IRREVOGÁVEL)\nAcomodação máxima 3 pessoas (3 ADULTOS OU 2 ADULTOS + 1 CRIANÇA DE ATÉ 07 ANOS)- BRASIL FÁCIL"
                 }
-            }]
-        }]
-    }],
-    "partnerCode": "CVC"
+            ]
+        }
+    ],
+    "partner": "CVC"
 }
