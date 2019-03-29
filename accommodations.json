@@ -1,78 +1,900 @@
 {
-    "id": "4512291924",
-    "name": "ARAMAR PRAIA HOTEL",
-    "description": "O Ara Mar Praia Hotel está localizado na Praia de Iracema a 50 metros da praia. \r\nPossui apartamentos recém-reformados, equipados com camas box, ar condicionado, ducha quente, frigobar, telefone, tv à cabo e internet wi-fi gratuito.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-    "contents": [
-        {
-            "code": "hotel-resort-fee",
-            "name": null,
-            "description": "          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          "
-        }
-    ],
+    "id": "361852541",
+    "name": "Aquidabã Praia Hotel",
+    "description": null,
+    "contents": [],
     "images": {
         "thumbnailImage": [],
         "smallImages": [
             {
-                "href": "https://img.services.cvc.com.br/images/447425.jpg",
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/249940f3_b.jpg",
+                "description": "Featured Image"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/0da82c88_b.jpg",
+                "description": "Reception"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/127e9e5d_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/44aae034_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/65e105e7_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/69a41fad_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/6d73a0f2_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/737b4506_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/89a0f423_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/ad529227_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/ae49a4f0_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/d5b18ac7_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/f50d8e01_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/fb5b9b02_b.jpg",
+                "description": "Guestroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/feb97a48_b.jpg",
+                "description": "Television"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/24ab1891_b.jpg",
+                "description": "Bathroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/35123195_b.jpg",
+                "description": "Bathroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/db11ccb2_b.jpg",
+                "description": "Bathroom"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/02021471_b.jpg",
+                "description": "Pool"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/8e15d567_b.jpg",
+                "description": "Pool"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/935a9b7c_b.jpg",
+                "description": "Outdoor Pool"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/b1be365e_b.jpg",
+                "description": "Breakfast Area"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/1ba718cf_b.jpg",
+                "description": "Restaurant"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/3144639b_b.jpg",
+                "description": "Restaurant"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/056b525b_b.jpg",
+                "description": "Breakfast buffet"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/1209d6d8_b.jpg",
+                "description": "Breakfast buffet"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/a8e8ab4f_b.jpg",
+                "description": "Breakfast buffet"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/0600fbee_b.jpg",
+                "description": "Breakfast Meal"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/79d4f0da_b.jpg",
+                "description": "Breakfast Meal"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/b35e5fe8_b.jpg",
+                "description": "Breakfast Meal"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/34146502_b.jpg",
+                "description": "Hallway"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/ae267d7c_b.jpg",
+                "description": "Hotel Front"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/e3134a1b_b.jpg",
+                "description": "Hotel Front"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/f468572c_b.jpg",
+                "description": "Sundeck"
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/f50d8e01_s.jpg",
                 "description": null
             },
             {
-                "href": "https://img.services.cvc.com.br/images/413530.jpg",
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/d5b18ac7_s.jpg",
                 "description": null
             },
             {
-                "href": "https://img.services.cvc.com.br/images/413479.jpg",
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/127e9e5d_s.jpg",
                 "description": null
             },
             {
-                "href": "https://img.services.cvc.com.br/images/413509.jpg",
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/fb5b9b02_s.jpg",
                 "description": null
             },
             {
-                "href": "https://img.services.cvc.com.br/images/413531.jpg",
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/35123195_s.jpg",
                 "description": null
             },
             {
-                "href": "https://img.services.cvc.com.br/images/413532.jpg",
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/ae49a4f0_s.jpg",
                 "description": null
             },
             {
-                "href": "https://img.services.cvc.com.br/images/413533.jpg",
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/737b4506_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/44aae034_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/d5b18ac7_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/fb5b9b02_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/24ab1891_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/6d73a0f2_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/89a0f423_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/d5b18ac7_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/fb5b9b02_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/feb97a48_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/db11ccb2_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/65e105e7_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/ad529227_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/d5b18ac7_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/69a41fad_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/fb5b9b02_s.jpg",
+                "description": null
+            },
+            {
+                "href": "https://i.travelapi.com/hotels/34000000/34000000/33996500/33996437/db11ccb2_s.jpg",
                 "description": null
             }
         ]
     },
-    "address": "Avenida Historiador Raimundo Girão, 430, Fortaleza, CE, Brasil",
+    "address": "Rua Carlos Vasconcelos, 137 Fortaleza BR",
     "rooms": [
         {
             "id": "1",
             "token": "1",
-            "description": "APTO STANDARD - COMPRE JÁ|DIÁRIA(S) COM CAFÉ DA MANHÃ|10613942",
-            "mealPlan": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
-            "category": "APTO STANDARD - COMPRE JÁ",
-            "name": "APTO STANDARD - COMPRE JÁ DIÁRIA(S) COM CAFÉ DA MANHÃ",
-            "minGuests": 1,
-            "maxGuests": 3,
-            "available": true,
-            "quantityAvailable": 1,
+            "description": "288181380|Sem Café da Manhã|true",
+            "mealPlan": "Sem Café da Manhã",
+            "category": "Quarto casal luxo, 1 cama de casal, para não fumantes",
+            "name": null,
+            "minGuests": null,
+            "maxGuests": null,
+            "available": null,
+            "quantityAvailable": 2,
             "rates": [
                 {
-                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IkFQVE8gU1RBTkRBUkQgLSBDT01QUkUgSsOBIiBjaWQ9IjQ1MDAxIiBjbWk9IjQ1IiBjbXo9IjE0NjMiIGNwcD0iMCIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0wMiIgZHRpPSIyMDE5LTA0LTAxIiBlYms9IiIgZWN0PSJCUiIgZXN0PSJDRSIgZXppPSIxNDYzIiBmZWI9ImZhbHNlIiBob3Q9IjQ1MTIyOTE5MjQiIGxhbj0icHRfQlIiIG1raT0iNjQyMTUzOCIgbWtwPSIwLjY5MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iNDUxMjI5MTkyNCIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjQ1IiBwbGM9IkJSTCIgcG90PSIxMTgiIHBwdD0iVm91Y2hlciIgcHB5PSIxMjI5MTkyNCIgcHJkPSJIT1QiIHB3dD0iMTE4IiBweHM9IjMwIiByb209IjEwNjEzOTQyIiBycGg9IjEiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMy0yOS0wMzowMCIgc290PSIxNzEuMDEiIHNzdD0iU1AiIHN3dD0iMTcxLjAxIiBzemk9IjEwNCIvPg==",
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmV0PSIxMyIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBjYXNhbCBsdXhvLCAxIGNhbWEgZGUgY2FzYWwsIHBhcmEgbsOjbyBmdW1hbnRlcyIgY2lkPSIzNjAwMSIgY21pPSIzNiIgY216PSI2MTQyODMyIiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDQtMDIiIGR0aT0iMjAxOS0wNC0wMSIgZWN0PSJCUiIgZXN0PSJDRSIgZXppPSIxNDYzIiBob3Q9IjM2MTg1MjU0MSIgbGFuPSJwdF9CUiIgbWtpPSI2NDIxNzYiIG1rcD0iMC43NDkiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM2MTg1MjU0MSIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjM2IiBwbGM9IkJSTCIgcG90PSIyMDUiIHBwdD0iVm91Y2hlciIgcHB5PSIxMTU0MjYzMyIgcHJkPSJIT1QiIHByZj0iMjAuMDYiIHBybz0iMzUuNTEiIHB3dD0iMjE1LjI1IiBweHM9IjMwLDMwIiByb209IjIyMDIzOTc0OCIgcnBoPSIxIiBydGM9IjI4ODE4MTM4MHwzMCwzMCIgcnRrPSIwYWM4NGQzNi02ZGFlLTQ5MDgtYWQzNy1kYTAxMWQxYjM0OTMtNTAwMy0wMjQiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMy0yOS0wMzowMCIgc290PSIyNzIuMzciIHNzdD0iU1AiIHN3dD0iMjg3LjQ3IiBzemk9IjEwNCIvPg==",
                     "packageGroup": "STANDALONE",
                     "currency": "BRL",
-                    "priceWithTax": 171.01,
-                    "priceWithoutTax": 171.01,
-                    "pricePerDayWithTax": 171.01,
-                    "pricePerDayWithoutTax": 171.01,
-                    "pricePerGuestWithTax": 171.01,
-                    "pricePerGuestWithoutTax": 171.01
+                    "priceWithTax": 287.47,
+                    "priceWithoutTax": 272.37,
+                    "pricePerDayWithTax": 287.47,
+                    "pricePerDayWithoutTax": 272.37,
+                    "pricePerGuestWithTax": 143.74,
+                    "pricePerGuestWithoutTax": 136.18
+                },
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmV0PSIxMyIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBjYXNhbCBsdXhvLCAxIGNhbWEgZGUgY2FzYWwsIHBhcmEgbsOjbyBmdW1hbnRlcyIgY2lkPSIzNjAwMSIgY21pPSIzNiIgY216PSI2MTQyODMyIiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDQtMDIiIGR0aT0iMjAxOS0wNC0wMSIgZWN0PSJCUiIgZXN0PSJDRSIgZXppPSIxNDYzIiBob3Q9IjM2MTg1MjU0MSIgbGFuPSJwdF9CUiIgbWtpPSI2NDIxNzUiIG1rcD0iMC43OTYiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM2MTg1MjU0MSIgcGtnPSJWSEkiIHBsYT0iMzYiIHBsYz0iQlJMIiBwb3Q9IjIwNSIgcHB0PSJWb3VjaGVyIiBwcHk9IjExNTQyNjMzIiBwcmQ9IkhPVCIgcHJmPSIyMC4wNiIgcHJvPSIzNS41MSIgcHd0PSIyMTUuMjUiIHB4cz0iMzAsMzAiIHJvbT0iMjIwMjM5NzQ4IiBycGg9IjEiIHJ0Yz0iMjg4MTgxMzgwfDMwLDMwIiBydGs9IjBhYzg0ZDM2LTZkYWUtNDkwOC1hZDM3LWRhMDExZDFiMzQ5My01MDAzLTAyNCIgc2N0PSJCUiIgc2R0PSIyMDE5LTAzLTI5LTAzOjAwIiBzb3Q9IjI1Ni4xNSIgc3N0PSJTUCIgc3d0PSIyNzAuMzUiIHN6aT0iMTA0Ii8+",
+                    "packageGroup": "VHI",
+                    "currency": "BRL",
+                    "priceWithTax": 270.35,
+                    "priceWithoutTax": 256.15,
+                    "pricePerDayWithTax": 270.35,
+                    "pricePerDayWithoutTax": 256.15,
+                    "pricePerGuestWithTax": 135.18,
+                    "pricePerGuestWithoutTax": 128.08
                 }
             ],
             "contents": [
                 {
-                    "code": "description-agreement",
-                    "name": "Description Agreement",
-                    "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - (RÉVEILLON E CARNAVAL GARANTIA DE NO-SHOW IRREVOGÁVEL)\nAcomodação máxima 3 pessoas (3 ADULTOS OU 2 ADULTOS + 1 CRIANÇA DE ATÉ 07 ANOS)- BRASIL FÁCIL"
+                    "code": "2166",
+                    "name": "Apenas chuveiro",
+                    "description": null
+                },
+                {
+                    "code": "1",
+                    "name": "Ar-condicionado",
+                    "description": null
+                },
+                {
+                    "code": "141",
+                    "name": "Banheiro privativo",
+                    "description": null
+                },
+                {
+                    "code": "146",
+                    "name": "Cofre no quarto",
+                    "description": null
+                },
+                {
+                    "code": "2150",
+                    "name": "Cortinas blackout",
+                    "description": null
+                },
+                {
+                    "code": "1073743371",
+                    "name": "Lençóis fornecidos",
+                    "description": null
+                },
+                {
+                    "code": "131",
+                    "name": "Minibar",
+                    "description": null
+                },
+                {
+                    "code": "1073743379",
+                    "name": "Número de banheiros: 1",
+                    "description": null
+                },
+                {
+                    "code": "6176",
+                    "name": "Para não fumantes",
+                    "description": null
+                },
+                {
+                    "code": "143",
+                    "name": "Produtos de toalete grátis",
+                    "description": null
+                },
+                {
+                    "code": "144",
+                    "name": "Secador de cabelo",
+                    "description": null
+                },
+                {
+                    "code": "2398",
+                    "name": "Serviço de TV a cabo",
+                    "description": null
+                },
+                {
+                    "code": "2015",
+                    "name": "Serviço de quarto (24 horas)",
+                    "description": null
+                },
+                {
+                    "code": "133",
+                    "name": "Serviço diário de arrumação",
+                    "description": null
+                },
+                {
+                    "code": "2575",
+                    "name": "TV LCD",
+                    "description": null
+                },
+                {
+                    "code": "136",
+                    "name": "Telefone",
+                    "description": null
+                },
+                {
+                    "code": "1073743370",
+                    "name": "Toalhas fornecidas",
+                    "description": null
+                },
+                {
+                    "code": "2403",
+                    "name": "Wi-Fi grátis",
+                    "description": null
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "token": "1",
+            "description": "288181379|Sem Café da Manhã|true",
+            "mealPlan": "Sem Café da Manhã",
+            "category": "Quarto Duplo Luxo, 2 camas  de solteiro",
+            "name": null,
+            "minGuests": null,
+            "maxGuests": null,
+            "available": null,
+            "quantityAvailable": 2,
+            "rates": [
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmV0PSIyNSIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBEdXBsbyBMdXhvLCAyIGNhbWFzICBkZSBzb2x0ZWlybyIgY2lkPSIzNjAwMSIgY21pPSIzNiIgY216PSI2MTQyODMyIiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDQtMDIiIGR0aT0iMjAxOS0wNC0wMSIgZWN0PSJCUiIgZXN0PSJDRSIgZXppPSIxNDYzIiBob3Q9IjM2MTg1MjU0MSIgbGFuPSJwdF9CUiIgbWtpPSI2NDIxNzYiIG1rcD0iMC43NDkiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM2MTg1MjU0MSIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjM2IiBwbGM9IkJSTCIgcG90PSIyMDUiIHBwdD0iVm91Y2hlciIgcHB5PSIxMTU0MjYzMyIgcHJkPSJIT1QiIHByZj0iMjAuMDYiIHBybz0iMzUuNTEiIHB3dD0iMjE1LjI1IiBweHM9IjMwLDMwIiByb209IjIyMDIzOTc0NiIgcnBoPSIxIiBydGM9IjI4ODE4MTM3OXwzMCwzMCIgcnRrPSI0MzM2NTg4ZC0xMzYwLTQzYzgtODA1My05MTdkYzIwNDRiY2QtNTAwMy0wMjQiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMy0yOS0wMzowMCIgc290PSIyNzIuMzciIHNzdD0iU1AiIHN3dD0iMjg3LjQ3IiBzemk9IjEwNCIvPg==",
+                    "packageGroup": "STANDALONE",
+                    "currency": "BRL",
+                    "priceWithTax": 287.47,
+                    "priceWithoutTax": 272.37,
+                    "pricePerDayWithTax": 287.47,
+                    "pricePerDayWithoutTax": 272.37,
+                    "pricePerGuestWithTax": 143.74,
+                    "pricePerGuestWithoutTax": 136.18
+                },
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmV0PSIyNSIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBEdXBsbyBMdXhvLCAyIGNhbWFzICBkZSBzb2x0ZWlybyIgY2lkPSIzNjAwMSIgY21pPSIzNiIgY216PSI2MTQyODMyIiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDQtMDIiIGR0aT0iMjAxOS0wNC0wMSIgZWN0PSJCUiIgZXN0PSJDRSIgZXppPSIxNDYzIiBob3Q9IjM2MTg1MjU0MSIgbGFuPSJwdF9CUiIgbWtpPSI2NDIxNzUiIG1rcD0iMC43OTYiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM2MTg1MjU0MSIgcGtnPSJWSEkiIHBsYT0iMzYiIHBsYz0iQlJMIiBwb3Q9IjIwNSIgcHB0PSJWb3VjaGVyIiBwcHk9IjExNTQyNjMzIiBwcmQ9IkhPVCIgcHJmPSIyMC4wNiIgcHJvPSIzNS41MSIgcHd0PSIyMTUuMjUiIHB4cz0iMzAsMzAiIHJvbT0iMjIwMjM5NzQ2IiBycGg9IjEiIHJ0Yz0iMjg4MTgxMzc5fDMwLDMwIiBydGs9IjQzMzY1ODhkLTEzNjAtNDNjOC04MDUzLTkxN2RjMjA0NGJjZC01MDAzLTAyNCIgc2N0PSJCUiIgc2R0PSIyMDE5LTAzLTI5LTAzOjAwIiBzb3Q9IjI1Ni4xNSIgc3N0PSJTUCIgc3d0PSIyNzAuMzUiIHN6aT0iMTA0Ii8+",
+                    "packageGroup": "VHI",
+                    "currency": "BRL",
+                    "priceWithTax": 270.35,
+                    "priceWithoutTax": 256.15,
+                    "pricePerDayWithTax": 270.35,
+                    "pricePerDayWithoutTax": 256.15,
+                    "pricePerGuestWithTax": 135.18,
+                    "pricePerGuestWithoutTax": 128.08
+                }
+            ],
+            "contents": [
+                {
+                    "code": "2166",
+                    "name": "Apenas chuveiro",
+                    "description": null
+                },
+                {
+                    "code": "1",
+                    "name": "Ar-condicionado",
+                    "description": null
+                },
+                {
+                    "code": "141",
+                    "name": "Banheiro privativo",
+                    "description": null
+                },
+                {
+                    "code": "146",
+                    "name": "Cofre no quarto",
+                    "description": null
+                },
+                {
+                    "code": "2150",
+                    "name": "Cortinas blackout",
+                    "description": null
+                },
+                {
+                    "code": "1073743371",
+                    "name": "Lençóis fornecidos",
+                    "description": null
+                },
+                {
+                    "code": "131",
+                    "name": "Minibar",
+                    "description": null
+                },
+                {
+                    "code": "1073743379",
+                    "name": "Número de banheiros: 1",
+                    "description": null
+                },
+                {
+                    "code": "6176",
+                    "name": "Para não fumantes",
+                    "description": null
+                },
+                {
+                    "code": "143",
+                    "name": "Produtos de toalete grátis",
+                    "description": null
+                },
+                {
+                    "code": "144",
+                    "name": "Secador de cabelo",
+                    "description": null
+                },
+                {
+                    "code": "2398",
+                    "name": "Serviço de TV a cabo",
+                    "description": null
+                },
+                {
+                    "code": "2015",
+                    "name": "Serviço de quarto (24 horas)",
+                    "description": null
+                },
+                {
+                    "code": "133",
+                    "name": "Serviço diário de arrumação",
+                    "description": null
+                },
+                {
+                    "code": "2575",
+                    "name": "TV LCD",
+                    "description": null
+                },
+                {
+                    "code": "136",
+                    "name": "Telefone",
+                    "description": null
+                },
+                {
+                    "code": "1073743370",
+                    "name": "Toalhas fornecidas",
+                    "description": null
+                },
+                {
+                    "code": "2403",
+                    "name": "Wi-Fi grátis",
+                    "description": null
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "token": "1",
+            "description": "288162982|Café da Manhã|true",
+            "mealPlan": "Café da Manhã",
+            "category": "Quarto casal luxo, 1 cama de casal, para não fumantes",
+            "name": null,
+            "minGuests": null,
+            "maxGuests": null,
+            "available": null,
+            "quantityAvailable": 2,
+            "rates": [
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmV0PSIxMyIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBjYXNhbCBsdXhvLCAxIGNhbWEgZGUgY2FzYWwsIHBhcmEgbsOjbyBmdW1hbnRlcyIgY2lkPSIzNjAwMSIgY21pPSIzNiIgY216PSI2MTQyODMyIiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDQtMDIiIGR0aT0iMjAxOS0wNC0wMSIgZWN0PSJCUiIgZXN0PSJDRSIgZXppPSIxNDYzIiBob3Q9IjM2MTg1MjU0MSIgbGFuPSJwdF9CUiIgbWtpPSI2NDIxNzYiIG1rcD0iMC43NDkiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM2MTg1MjU0MSIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjM2IiBwbGM9IkJSTCIgcG90PSIyMjcuNzgiIHBwdD0iVm91Y2hlciIgcHB5PSIxMTU0MjYzMyIgcHJkPSJIT1QiIHByZj0iMjIuMjkiIHBybz0iMzkuNDYiIHB3dD0iMjM5LjE3IiBweHM9IjMwLDMwIiByb209IjIyMDIzOTc0OCIgcnBoPSIxIiBydGM9IjI4ODE2Mjk4MnwzMCwzMCIgcnRrPSJkMGQ2YzBiNy1mZmE1LTRkMTQtYTU2Yi04ODBhN2U3ZWQwZWYtNTAwMy0wMjQiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMy0yOS0wMzowMCIgc290PSIzMDIuNjQiIHNzdD0iU1AiIHN3dD0iMzE5LjQxIiBzemk9IjEwNCIvPg==",
+                    "packageGroup": "STANDALONE",
+                    "currency": "BRL",
+                    "priceWithTax": 319.41,
+                    "priceWithoutTax": 302.64,
+                    "pricePerDayWithTax": 319.41,
+                    "pricePerDayWithoutTax": 302.64,
+                    "pricePerGuestWithTax": 159.7,
+                    "pricePerGuestWithoutTax": 151.32
+                },
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmV0PSIxMyIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBjYXNhbCBsdXhvLCAxIGNhbWEgZGUgY2FzYWwsIHBhcmEgbsOjbyBmdW1hbnRlcyIgY2lkPSIzNjAwMSIgY21pPSIzNiIgY216PSI2MTQyODMyIiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDQtMDIiIGR0aT0iMjAxOS0wNC0wMSIgZWN0PSJCUiIgZXN0PSJDRSIgZXppPSIxNDYzIiBob3Q9IjM2MTg1MjU0MSIgbGFuPSJwdF9CUiIgbWtpPSI2NDIxNzUiIG1rcD0iMC43OTYiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM2MTg1MjU0MSIgcGtnPSJWSEkiIHBsYT0iMzYiIHBsYz0iQlJMIiBwb3Q9IjIyNy43OCIgcHB0PSJWb3VjaGVyIiBwcHk9IjExNTQyNjMzIiBwcmQ9IkhPVCIgcHJmPSIyMi4yOSIgcHJvPSIzOS40NiIgcHd0PSIyMzkuMTciIHB4cz0iMzAsMzAiIHJvbT0iMjIwMjM5NzQ4IiBycGg9IjEiIHJ0Yz0iMjg4MTYyOTgyfDMwLDMwIiBydGs9ImQwZDZjMGI3LWZmYTUtNGQxNC1hNTZiLTg4MGE3ZTdlZDBlZi01MDAzLTAyNCIgc2N0PSJCUiIgc2R0PSIyMDE5LTAzLTI5LTAzOjAwIiBzb3Q9IjI4NC42MSIgc3N0PSJTUCIgc3d0PSIzMDAuMzkiIHN6aT0iMTA0Ii8+",
+                    "packageGroup": "VHI",
+                    "currency": "BRL",
+                    "priceWithTax": 300.39,
+                    "priceWithoutTax": 284.61,
+                    "pricePerDayWithTax": 300.39,
+                    "pricePerDayWithoutTax": 284.61,
+                    "pricePerGuestWithTax": 150.2,
+                    "pricePerGuestWithoutTax": 142.3
+                }
+            ],
+            "contents": [
+                {
+                    "code": "2192",
+                    "name": "Wi-Fi grátis",
+                    "description": null
+                },
+                {
+                    "code": "1073742786",
+                    "name": "Café da manhã incluído",
+                    "description": null
+                },
+                {
+                    "code": "2166",
+                    "name": "Apenas chuveiro",
+                    "description": null
+                },
+                {
+                    "code": "1",
+                    "name": "Ar-condicionado",
+                    "description": null
+                },
+                {
+                    "code": "141",
+                    "name": "Banheiro privativo",
+                    "description": null
+                },
+                {
+                    "code": "146",
+                    "name": "Cofre no quarto",
+                    "description": null
+                },
+                {
+                    "code": "2150",
+                    "name": "Cortinas blackout",
+                    "description": null
+                },
+                {
+                    "code": "1073743371",
+                    "name": "Lençóis fornecidos",
+                    "description": null
+                },
+                {
+                    "code": "131",
+                    "name": "Minibar",
+                    "description": null
+                },
+                {
+                    "code": "1073743379",
+                    "name": "Número de banheiros: 1",
+                    "description": null
+                },
+                {
+                    "code": "6176",
+                    "name": "Para não fumantes",
+                    "description": null
+                },
+                {
+                    "code": "143",
+                    "name": "Produtos de toalete grátis",
+                    "description": null
+                },
+                {
+                    "code": "144",
+                    "name": "Secador de cabelo",
+                    "description": null
+                },
+                {
+                    "code": "2398",
+                    "name": "Serviço de TV a cabo",
+                    "description": null
+                },
+                {
+                    "code": "2015",
+                    "name": "Serviço de quarto (24 horas)",
+                    "description": null
+                },
+                {
+                    "code": "133",
+                    "name": "Serviço diário de arrumação",
+                    "description": null
+                },
+                {
+                    "code": "2575",
+                    "name": "TV LCD",
+                    "description": null
+                },
+                {
+                    "code": "136",
+                    "name": "Telefone",
+                    "description": null
+                },
+                {
+                    "code": "1073743370",
+                    "name": "Toalhas fornecidas",
+                    "description": null
+                },
+                {
+                    "code": "2403",
+                    "name": "Wi-Fi grátis",
+                    "description": null
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "token": "1",
+            "description": "288162977|Café da Manhã|true",
+            "mealPlan": "Café da Manhã",
+            "category": "Quarto Duplo Luxo, 2 camas  de solteiro",
+            "name": null,
+            "minGuests": null,
+            "maxGuests": null,
+            "available": null,
+            "quantityAvailable": 2,
+            "rates": [
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmV0PSIyNSIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBEdXBsbyBMdXhvLCAyIGNhbWFzICBkZSBzb2x0ZWlybyIgY2lkPSIzNjAwMSIgY21pPSIzNiIgY216PSI2MTQyODMyIiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDQtMDIiIGR0aT0iMjAxOS0wNC0wMSIgZWN0PSJCUiIgZXN0PSJDRSIgZXppPSIxNDYzIiBob3Q9IjM2MTg1MjU0MSIgbGFuPSJwdF9CUiIgbWtpPSI2NDIxNzYiIG1rcD0iMC43NDkiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM2MTg1MjU0MSIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjM2IiBwbGM9IkJSTCIgcG90PSIyMjcuNzgiIHBwdD0iVm91Y2hlciIgcHB5PSIxMTU0MjYzMyIgcHJkPSJIT1QiIHByZj0iMjIuMjkiIHBybz0iMzkuNDYiIHB3dD0iMjM5LjE3IiBweHM9IjMwLDMwIiByb209IjIyMDIzOTc0NiIgcnBoPSIxIiBydGM9IjI4ODE2Mjk3N3wzMCwzMCIgcnRrPSI0NzAxNTlmYS1mYTdhLTRlOTktYTllNi05YWRkZmJhZjcwYTMtNTAwMy0wMjQiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMy0yOS0wMzowMCIgc290PSIzMDIuNjQiIHNzdD0iU1AiIHN3dD0iMzE5LjQxIiBzemk9IjEwNCIvPg==",
+                    "packageGroup": "STANDALONE",
+                    "currency": "BRL",
+                    "priceWithTax": 319.41,
+                    "priceWithoutTax": 302.64,
+                    "pricePerDayWithTax": 319.41,
+                    "pricePerDayWithoutTax": 302.64,
+                    "pricePerGuestWithTax": 159.7,
+                    "pricePerGuestWithoutTax": 151.32
+                },
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmV0PSIyNSIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBEdXBsbyBMdXhvLCAyIGNhbWFzICBkZSBzb2x0ZWlybyIgY2lkPSIzNjAwMSIgY21pPSIzNiIgY216PSI2MTQyODMyIiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDQtMDIiIGR0aT0iMjAxOS0wNC0wMSIgZWN0PSJCUiIgZXN0PSJDRSIgZXppPSIxNDYzIiBob3Q9IjM2MTg1MjU0MSIgbGFuPSJwdF9CUiIgbWtpPSI2NDIxNzUiIG1rcD0iMC43OTYiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM2MTg1MjU0MSIgcGtnPSJWSEkiIHBsYT0iMzYiIHBsYz0iQlJMIiBwb3Q9IjIyNy43OCIgcHB0PSJWb3VjaGVyIiBwcHk9IjExNTQyNjMzIiBwcmQ9IkhPVCIgcHJmPSIyMi4yOSIgcHJvPSIzOS40NiIgcHd0PSIyMzkuMTciIHB4cz0iMzAsMzAiIHJvbT0iMjIwMjM5NzQ2IiBycGg9IjEiIHJ0Yz0iMjg4MTYyOTc3fDMwLDMwIiBydGs9IjQ3MDE1OWZhLWZhN2EtNGU5OS1hOWU2LTlhZGRmYmFmNzBhMy01MDAzLTAyNCIgc2N0PSJCUiIgc2R0PSIyMDE5LTAzLTI5LTAzOjAwIiBzb3Q9IjI4NC42MSIgc3N0PSJTUCIgc3d0PSIzMDAuMzkiIHN6aT0iMTA0Ii8+",
+                    "packageGroup": "VHI",
+                    "currency": "BRL",
+                    "priceWithTax": 300.39,
+                    "priceWithoutTax": 284.61,
+                    "pricePerDayWithTax": 300.39,
+                    "pricePerDayWithoutTax": 284.61,
+                    "pricePerGuestWithTax": 150.2,
+                    "pricePerGuestWithoutTax": 142.3
+                }
+            ],
+            "contents": [
+                {
+                    "code": "2192",
+                    "name": "Wi-Fi grátis",
+                    "description": null
+                },
+                {
+                    "code": "1073742786",
+                    "name": "Café da manhã incluído",
+                    "description": null
+                },
+                {
+                    "code": "2166",
+                    "name": "Apenas chuveiro",
+                    "description": null
+                },
+                {
+                    "code": "1",
+                    "name": "Ar-condicionado",
+                    "description": null
+                },
+                {
+                    "code": "141",
+                    "name": "Banheiro privativo",
+                    "description": null
+                },
+                {
+                    "code": "146",
+                    "name": "Cofre no quarto",
+                    "description": null
+                },
+                {
+                    "code": "2150",
+                    "name": "Cortinas blackout",
+                    "description": null
+                },
+                {
+                    "code": "1073743371",
+                    "name": "Lençóis fornecidos",
+                    "description": null
+                },
+                {
+                    "code": "131",
+                    "name": "Minibar",
+                    "description": null
+                },
+                {
+                    "code": "1073743379",
+                    "name": "Número de banheiros: 1",
+                    "description": null
+                },
+                {
+                    "code": "6176",
+                    "name": "Para não fumantes",
+                    "description": null
+                },
+                {
+                    "code": "143",
+                    "name": "Produtos de toalete grátis",
+                    "description": null
+                },
+                {
+                    "code": "144",
+                    "name": "Secador de cabelo",
+                    "description": null
+                },
+                {
+                    "code": "2398",
+                    "name": "Serviço de TV a cabo",
+                    "description": null
+                },
+                {
+                    "code": "2015",
+                    "name": "Serviço de quarto (24 horas)",
+                    "description": null
+                },
+                {
+                    "code": "133",
+                    "name": "Serviço diário de arrumação",
+                    "description": null
+                },
+                {
+                    "code": "2575",
+                    "name": "TV LCD",
+                    "description": null
+                },
+                {
+                    "code": "136",
+                    "name": "Telefone",
+                    "description": null
+                },
+                {
+                    "code": "1073743370",
+                    "name": "Toalhas fornecidas",
+                    "description": null
+                },
+                {
+                    "code": "2403",
+                    "name": "Wi-Fi grátis",
+                    "description": null
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "token": "1",
+            "description": "288181381|Sem Café da Manhã|true",
+            "mealPlan": "Sem Café da Manhã",
+            "category": "Quarto triplo luxo, 3 camas de solteiro, para não fumantes",
+            "name": null,
+            "minGuests": null,
+            "maxGuests": null,
+            "available": null,
+            "quantityAvailable": 2,
+            "rates": [
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmV0PSIzMCIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byB0cmlwbG8gbHV4bywgMyBjYW1hcyBkZSBzb2x0ZWlybywgcGFyYSBuw6NvIGZ1bWFudGVzIiBjaWQ9IjM2MDAxIiBjbWk9IjM2IiBjbXo9IjYxNDI4MzIiIGNwcD0iMCIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0wMiIgZHRpPSIyMDE5LTA0LTAxIiBlY3Q9IkJSIiBlc3Q9IkNFIiBlemk9IjE0NjMiIGhvdD0iMzYxODUyNTQxIiBsYW49InB0X0JSIiBta2k9IjY0MjE3NiIgbWtwPSIwLjc0OSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMzYxODUyNTQxIiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iMzYiIHBsYz0iQlJMIiBwb3Q9IjI4MiIgcHB0PSJWb3VjaGVyIiBwcHk9IjExNTQyNjMzIiBwcmQ9IkhPVCIgcHJmPSIyNy42MSIgcHJvPSI0OC44NyIgcHd0PSIyOTYuMSIgcHhzPSIzMCwzMCIgcm9tPSIyMjAyMzk4NzgiIHJwaD0iMSIgcnRjPSIyODgxODEzODF8MzAsMzAiIHJ0az0iMGJkMjA0NzUtZTI0ZC00Nzc3LTg1NTUtYThmNzk4ZTZkNDVhLTUwMDMtMDI0IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDMtMjktMDM6MDAiIHNvdD0iMzc0LjY1IiBzc3Q9IlNQIiBzd3Q9IjM5NS40MiIgc3ppPSIxMDQiLz4=",
+                    "packageGroup": "STANDALONE",
+                    "currency": "BRL",
+                    "priceWithTax": 395.42,
+                    "priceWithoutTax": 374.65,
+                    "pricePerDayWithTax": 395.42,
+                    "pricePerDayWithoutTax": 374.65,
+                    "pricePerGuestWithTax": 197.71,
+                    "pricePerGuestWithoutTax": 187.32
+                },
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmV0PSIzMCIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byB0cmlwbG8gbHV4bywgMyBjYW1hcyBkZSBzb2x0ZWlybywgcGFyYSBuw6NvIGZ1bWFudGVzIiBjaWQ9IjM2MDAxIiBjbWk9IjM2IiBjbXo9IjYxNDI4MzIiIGNwcD0iMCIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0wMiIgZHRpPSIyMDE5LTA0LTAxIiBlY3Q9IkJSIiBlc3Q9IkNFIiBlemk9IjE0NjMiIGhvdD0iMzYxODUyNTQxIiBsYW49InB0X0JSIiBta2k9IjY0MjE3NSIgbWtwPSIwLjc5NiIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMzYxODUyNTQxIiBwa2c9IlZISSIgcGxhPSIzNiIgcGxjPSJCUkwiIHBvdD0iMjgyIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTE1NDI2MzMiIHByZD0iSE9UIiBwcmY9IjI3LjYxIiBwcm89IjQ4Ljg3IiBwd3Q9IjI5Ni4xIiBweHM9IjMwLDMwIiByb209IjIyMDIzOTg3OCIgcnBoPSIxIiBydGM9IjI4ODE4MTM4MXwzMCwzMCIgcnRrPSIwYmQyMDQ3NS1lMjRkLTQ3NzctODU1NS1hOGY3OThlNmQ0NWEtNTAwMy0wMjQiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMy0yOS0wMzowMCIgc290PSIzNTIuMzQiIHNzdD0iU1AiIHN3dD0iMzcxLjg3IiBzemk9IjEwNCIvPg==",
+                    "packageGroup": "VHI",
+                    "currency": "BRL",
+                    "priceWithTax": 371.87,
+                    "priceWithoutTax": 352.34,
+                    "pricePerDayWithTax": 371.87,
+                    "pricePerDayWithoutTax": 352.34,
+                    "pricePerGuestWithTax": 185.94,
+                    "pricePerGuestWithoutTax": 176.17
+                }
+            ],
+            "contents": [
+                {
+                    "code": "2166",
+                    "name": "Apenas chuveiro",
+                    "description": null
+                },
+                {
+                    "code": "1",
+                    "name": "Ar-condicionado",
+                    "description": null
+                },
+                {
+                    "code": "141",
+                    "name": "Banheiro privativo",
+                    "description": null
+                },
+                {
+                    "code": "146",
+                    "name": "Cofre no quarto",
+                    "description": null
+                },
+                {
+                    "code": "2150",
+                    "name": "Cortinas blackout",
+                    "description": null
+                },
+                {
+                    "code": "1073743371",
+                    "name": "Lençóis fornecidos",
+                    "description": null
+                },
+                {
+                    "code": "131",
+                    "name": "Minibar",
+                    "description": null
+                },
+                {
+                    "code": "1073743379",
+                    "name": "Número de banheiros: 1",
+                    "description": null
+                },
+                {
+                    "code": "6176",
+                    "name": "Para não fumantes",
+                    "description": null
+                },
+                {
+                    "code": "143",
+                    "name": "Produtos de toalete grátis",
+                    "description": null
+                },
+                {
+                    "code": "144",
+                    "name": "Secador de cabelo",
+                    "description": null
+                },
+                {
+                    "code": "2398",
+                    "name": "Serviço de TV a cabo",
+                    "description": null
+                },
+                {
+                    "code": "2015",
+                    "name": "Serviço de quarto (24 horas)",
+                    "description": null
+                },
+                {
+                    "code": "133",
+                    "name": "Serviço diário de arrumação",
+                    "description": null
+                },
+                {
+                    "code": "2575",
+                    "name": "TV LCD",
+                    "description": null
+                },
+                {
+                    "code": "136",
+                    "name": "Telefone",
+                    "description": null
+                },
+                {
+                    "code": "1073743370",
+                    "name": "Toalhas fornecidas",
+                    "description": null
+                },
+                {
+                    "code": "2403",
+                    "name": "Wi-Fi grátis",
+                    "description": null
                 }
             ]
         }
