@@ -1,0 +1,54 @@
+{
+  ".aa15449184b8Osw4HCq3A==": {
+    "category": {
+      "code": "9254",
+      "name": "ECONÔMICO COM AR",
+      "acrissCode": "ICAR",
+      "contents": [
+        {
+          "code": "optional-items",
+          "name": "Itens Opcionais",
+          "items": [
+            {
+              "code": "XXX",
+              "name": "1 Mala"
+            }
+          ]
+        }
+      ]
+    },
+    "carRentalAgency": {
+      "code": "MO",
+      "name": "MOVIDA",
+      "images": {
+        "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/337468.jpg"
+      }
+    },
+    "rates": [{
+        "id": "PHJhdGVUb2tlbiBhY3M9IkVDTVIiIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iQ2FyIiBjZG49IjEyNDExOTEiIGNnYz0iOTI1NCIgY2lkPSIyMDAwMSIgY21pPSIyIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0yNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTIwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IlNBTyIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTAwMiIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNTEwIiBwcmQ9IkNBUiIgcHJmPSIxNjMuMjAwMDAwMDAwMDAwMDIiIHByaWNlTmV0V2l0aFJldGVudGlvbj0iMzQ2LjgwIiBwcm89IjE2My4yMDAwMDAwMDAwMDAwMiIgcHVwPSJDR0giIHB3dD0iNTEwIiBweHM9IjMwIiBydGM9IkxJVkUxOCIgcnRrPSI0NzU3MDYzOTA5IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDQtMDktMDM6MDAiIHNpYz0iU0FPIiBzb3Q9IjUxMC4wMCIgc3N0PSJTUCIgc3d0PSI1MTAuMDAiIHN6aT0iOTYyNiIgdHJjPSIyMTExMTUiIHZjYz0iMjQ5IiB2cGY9Ik1PIi8+",
+        "currency": "BRL",
+        "priceWithTax": "510",
+        "priceWithoutTax": "510",
+        "pricePerDayWithTax": "102",
+        "pricePerDayWithoutTax": "102",
+        "description": "Km Livre",
+        "pickup": {
+            "name": "CGH",
+            "date": "2019-04-20T11:00:00"
+        },
+        "devolution": {
+            "name": "CGH",
+            "date": "2019-04-25T11:00:00"
+        },
+        "taxes": [
+          {
+            "code": "6321",
+            "description": "Rental tax",
+            "value": 1700,
+            "percent": 0.0638,
+            "currency": "PTS"
+          }
+        ]
+    }]
+  }
+}
