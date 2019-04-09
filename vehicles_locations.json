@@ -1,0 +1,100 @@
+{
+    "resultsList": [
+        {
+            "id": "GRU",
+            "iata": "GRU",
+            "carRentalAgencyName": "UNIDAS",
+            "carRentalAgencyCode": "UN",
+            "location": {
+                "address": "UNIDAS AEROPORTO GUARULHOS RODOVIA HELIO SMIDT TERMINAL 3 AEROPORTO",
+                "type": "AIRPORT"
+            },
+            "hoursOfOperation": [
+                {
+                    "day": "SUN",
+                    "openingTime": "00:01",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "MON",
+                    "openingTime": "00:01",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "TUE",
+                    "openingTime": "00:01",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "WED",
+                    "openingTime": "00:01",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "THU",
+                    "openingTime": "00:01",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "FRI",
+                    "openingTime": "00:01",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "SAT",
+                    "openingTime": "00:01",
+                    "closingTime": "23:59"
+                }
+            ],
+            "description": "UNIDAS AEROPORTO DE GUARULHOS"
+        },
+        {
+            "id": "CGH",
+            "iata": "CGH",
+            "carRentalAgencyName": "UNIDAS",
+            "carRentalAgencyCode": "UN",
+            "location": {
+                "address": "UNIDAS AEROPORTO CONGONHAS PRACA COMANDANTE LINEU GOMES 100",
+                "type": "AIRPORT"
+            },
+            "hoursOfOperation": [
+                {
+                    "day": "SUN",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "MON",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "TUE",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "WED",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "THU",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "FRI",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "SAT",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                }
+            ],
+            "description": "UNIDAS AEROPORTO DE CONGONHAS"
+        }
+    ]
+}
