@@ -1,6 +1,5 @@
 {
-    "resultsList": [
-        {
+    "resultsList": [{
             "id": "GRU",
             "iata": "GRU",
             "carRentalAgencyName": "UNIDAS",
@@ -9,8 +8,7 @@
                 "address": "UNIDAS AEROPORTO GUARULHOS RODOVIA HELIO SMIDT TERMINAL 3 AEROPORTO",
                 "type": "AIRPORT"
             },
-            "hoursOfOperation": [
-                {
+            "hoursOfOperation": [{
                     "day": "SUN",
                     "openingTime": "00:01",
                     "closingTime": "23:59"
@@ -55,10 +53,103 @@
             "carRentalAgencyCode": "UN",
             "location": {
                 "address": "UNIDAS AEROPORTO CONGONHAS PRACA COMANDANTE LINEU GOMES 100",
-                "type": "AIRPORT"
+                "type": "CITY"
             },
-            "hoursOfOperation": [
+            "hoursOfOperation": [{
+                    "day": "SUN",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
                 {
+                    "day": "MON",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "TUE",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "WED",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "THU",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "FRI",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "SAT",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                }
+            ],
+            "description": "UNIDAS AEROPORTO DE CONGONHAS"
+        },
+        {
+            "id": "CGH",
+            "iata": "CGH",
+            "carRentalAgencyName": "UNIDAS",
+            "carRentalAgencyCode": "UN",
+            "location": {
+                "address": "UNIDADE X LOCADORA UNIDAS AEROPORTO CONGONHAS PRACA COMANDANTE LINEU GOMES 100",
+                "type": "CITY"
+            },
+            "hoursOfOperation": [{
+                    "day": "SUN",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "MON",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "TUE",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "WED",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "THU",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "FRI",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                },
+                {
+                    "day": "SAT",
+                    "openingTime": "05:00",
+                    "closingTime": "23:59"
+                }
+            ],
+            "description": "UNIDAS AEROPORTO DE CONGONHAS"
+        },
+        {
+            "id": "CGH",
+            "iata": "CGH",
+            "carRentalAgencyName": "UNIDAS",
+            "carRentalAgencyCode": "UN",
+            "location": {
+                "address": "UNIDAS AEROPORTO CONGONHAS PRACA COMANDANTE LINEU GOMES 100",
+                "type": "CITY"
+            },
+            "hoursOfOperation": [{
                     "day": "SUN",
                     "openingTime": "05:00",
                     "closingTime": "23:59"
