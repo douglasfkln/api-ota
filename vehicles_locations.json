@@ -1,191 +1,196 @@
 {
-    "resultsList": [{
-            "id": "GRU",
-            "iata": "GRU",
-            "carRentalAgencyName": "UNIDAS",
-            "carRentalAgencyCode": "UN",
+    "resultsList": [
+        {
+            "id": "T01",
+            "iata": "CGH",
+            "carRentalAgencyName": "SANTOS",
+            "carRentalAgencyCode": "MO",
             "location": {
-                "address": "UNIDAS AEROPORTO GUARULHOS RODOVIA HELIO SMIDT TERMINAL 3 AEROPORTO",
+                "address": "SANTOS  DOWNTOWN",
                 "type": "AIRPORT"
             },
-            "hoursOfOperation": [{
-                    "day": "SUN",
-                    "openingTime": "00:01",
-                    "closingTime": "23:59"
+            "hoursOfOperation": [
+                {
+                    "day": "Domingo",
+                    "openingTime": "00:05",
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "MON",
-                    "openingTime": "00:01",
-                    "closingTime": "23:59"
+                    "day": "Segunda-Feira",
+                    "openingTime": "05:00",
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "TUE",
-                    "openingTime": "00:01",
-                    "closingTime": "23:59"
+                    "day": "Terça-Feira",
+                    "openingTime": "05:00",
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "WED",
-                    "openingTime": "00:01",
-                    "closingTime": "23:59"
+                    "day": "Quarta-Feira",
+                    "openingTime": "05:00",
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "THU",
-                    "openingTime": "00:01",
-                    "closingTime": "23:59"
+                    "day": "Quinta-Feira",
+                    "openingTime": "05:00",
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "FRI",
-                    "openingTime": "00:01",
-                    "closingTime": "23:59"
+                    "day": "Sexta-Feira",
+                    "openingTime": "05:00",
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "SAT",
-                    "openingTime": "00:01",
-                    "closingTime": "23:59"
+                    "day": "Sábado",
+                    "openingTime": "05:00",
+                    "closingTime": "23:45"
                 }
             ],
-            "description": "UNIDAS AEROPORTO DE GUARULHOS"
+            "description": "On Airport - SAO PAULO AIRPORT - Rua Otavio Tarquinio de Souza "
         },
         {
-            "id": "CGH",
-            "iata": "CGH",
-            "carRentalAgencyName": "UNIDAS",
-            "carRentalAgencyCode": "UN",
+            "id": "C01",
+            "iata": "SSZ",
+            "carRentalAgencyName": "SANTOS",
+            "carRentalAgencyCode": "MO",
             "location": {
-                "address": "UNIDAS AEROPORTO CONGONHAS PRACA COMANDANTE LINEU GOMES 100",
-                "type": "CITY"
+                "address": "SANTOS  DOWNTOWN",
+                "type": "AIRPORT"
             },
-            "hoursOfOperation": [{
-                    "day": "SUN",
-                    "openingTime": "05:00",
-                    "closingTime": "23:59"
+            "hoursOfOperation": [
+                {
+                    "day": "Domingo",
+                    "openingTime": "00:05",
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "MON",
+                    "day": "Segunda-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "TUE",
+                    "day": "Terça-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "WED",
+                    "day": "Quarta-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "THU",
+                    "day": "Quinta-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "FRI",
+                    "day": "Sexta-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "SAT",
+                    "day": "Sábado",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 }
             ],
-            "description": "UNIDAS AEROPORTO DE CONGONHAS"
+            "description": "City Center - SANTOS DOWNTOWN - Rua Bras Cubas "
         },
         {
-            "id": "CGH",
-            "iata": "CGH",
-            "carRentalAgencyName": "UNIDAS",
-            "carRentalAgencyCode": "UN",
+            "id": "T01",
+            "iata": "VCP",
+            "carRentalAgencyName": "SAO PAOLO VIRACOPOS CAMPINAS I",
+            "carRentalAgencyCode": "MO",
             "location": {
-                "address": "UNIDADE X LOCADORA UNIDAS AEROPORTO CONGONHAS PRACA COMANDANTE LINEU GOMES 100",
-                "type": "CITY"
+                "address": "CAMPINAS  AIRPORT",
+                "type": "AIRPORT"
             },
-            "hoursOfOperation": [{
-                    "day": "SUN",
-                    "openingTime": "05:00",
-                    "closingTime": "23:59"
+            "hoursOfOperation": [
+                {
+                    "day": "Domingo",
+                    "openingTime": "00:05",
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "MON",
+                    "day": "Segunda-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "TUE",
+                    "day": "Terça-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "WED",
+                    "day": "Quarta-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "THU",
+                    "day": "Quinta-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "FRI",
+                    "day": "Sexta-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "SAT",
+                    "day": "Sábado",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 }
             ],
-            "description": "UNIDAS AEROPORTO DE CONGONHAS"
+            "description": "On Airport - CAMPINAS AIRPORT - Rodovia Santos Dumont "
         },
         {
-            "id": "CGH",
-            "iata": "CGH",
-            "carRentalAgencyName": "UNIDAS",
-            "carRentalAgencyCode": "UN",
+            "id": "T01",
+            "iata": "GRU",
+            "carRentalAgencyName": "GUARULHOS ARPT",
+            "carRentalAgencyCode": "MO",
             "location": {
-                "address": "UNIDAS AEROPORTO CONGONHAS PRACA COMANDANTE LINEU GOMES 100",
-                "type": "CITY"
+                "address": "GUARULHOS  AIRPORT",
+                "type": "AIRPORT"
             },
-            "hoursOfOperation": [{
-                    "day": "SUN",
-                    "openingTime": "05:00",
-                    "closingTime": "23:59"
+            "hoursOfOperation": [
+                {
+                    "day": "Domingo",
+                    "openingTime": "00:05",
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "MON",
+                    "day": "Segunda-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "TUE",
+                    "day": "Terça-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "WED",
+                    "day": "Quarta-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "THU",
+                    "day": "Quinta-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "FRI",
+                    "day": "Sexta-Feira",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 },
                 {
-                    "day": "SAT",
+                    "day": "Sábado",
                     "openingTime": "05:00",
-                    "closingTime": "23:59"
+                    "closingTime": "23:45"
                 }
             ],
-            "description": "UNIDAS AEROPORTO DE CONGONHAS"
+            "description": "On Airport - GUARULHOS AIRPORT - Rodovia Helio Smidt "
         }
     ]
 }
