@@ -1,0 +1,957 @@
+{
+    "_comment": "http://api.k8s.pontoslivelo.com.br/catalog/v1/vehicles?itemsPerPage=10&pageNumber=1&sortBy=price%7CASC&pickupDate=2019-04-10T11%3A00%3A00&pickupLocationZone=9626&devolutionDate=2019-04-15T11%3A00%3A00&devolutionLocationZone=9626&partnersCode=CVC",
+    "resultsList": [{
+        "name": null,
+        "rates": [{
+            "id": "PHJhdGVUb2tlbiBhY3M9IkVDTU0iIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iRUNNTSIgY2RuPSIiIGNnYz0iOTI1NCIgY2lkPSIxMDAwMSIgY21pPSIxIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0xNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTEwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IkNHSCIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTE0MiIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNDM1IiBwcmQ9IkNBUiIgcHJmPSIxMzkuMjAwMDAwMDAwMDAwMDIiIHByaWNlTmV0V2l0aFJldGVudGlvbj0iMjk1LjgwIiBwcm89IjEzOS4yMDAwMDAwMDAwMDAwMiIgcHVwPSJDR0giIHB3dD0iNDM1IiBweHM9IjMwIiBydGM9IjEzNTIzNiIgc2N0PSJCUiIgc2R0PSIyMDE5LTA0LTAyLTAzOjAwIiBzaWM9IkNHSCIgc290PSI0MzUuMDAiIHNzdD0iU1AiIHN3dD0iNDM1LjAwIiBzemk9Ijk2MjYiIHRyYz0iMTU5NjIiIHZwZj0iVU4iLz4=",
+            "currency": "BRL",
+            "priceWithTax": "435",
+            "priceWithoutTax": "435",
+            "pricePerDayWithTax": "87",
+            "pricePerDayWithoutTax": "87",
+            "description": "Km Livre",
+            "pickup": {
+                "name": "CGH",
+                "date": "2019-04-10T11:00:00"
+            },
+            "devolution": {
+                "name": "CGH",
+                "date": "2019-04-15T11:00:00"
+            },
+            "taxes": null
+        }],
+        "category": {
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "accrissCode": "ECMM",
+            "contents": [{
+                "name": "Itens Opcionais",
+                "code": "optional-items",
+                "items": [{
+                    "code": "1 Mala",
+                    "name": "1 Mala"
+                }, {
+                    "code": "Direção Hidráulica",
+                    "name": "Direção Hidráulica"
+                }, {
+                    "code": "Ar Condicionado",
+                    "name": "Ar Condicionado"
+                }, {
+                    "code": "4 Portas",
+                    "name": "4 Portas"
+                }, {
+                    "code": "5 Pessoas",
+                    "name": "5 Pessoas"
+                }]
+            }]
+        },
+        "carRentalAgency": {
+            "code": "UN",
+            "name": "UNIDAS",
+            "images": {
+                "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/465373.jpg"
+            }
+        },
+        "images": {
+            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/462068.jpg"
+        },
+        "contents": [{
+            "code": "car-full-descriptions",
+            "name": "Descrição Completa",
+            "description": "Quilometragem livre (Máximo de 20 dias de Locação)- Proteção do veículo (PP)- Proteção a ocupantes e terceiros (POT)- Taxas de serviço inclusas",
+            "contents": [{
+                "description": "Quilometragem livre (Máximo de 20 dias de Locação)\n"
+            }, {
+                "description": "Proteção do veículo (PP)\n"
+            }, {
+                "description": "Proteção a ocupantes e terceiros (POT)\n"
+            }, {
+                "description": "Taxas de serviço inclusas"
+            }]
+        }],
+        "minimumAge": 21,
+        "minimumLicensePeriod": 2,
+        "partnerCode": "CVC"
+    }, {
+        "name": "NISSAN MARCH/SIMILAR",
+        "rates": [{
+            "id": "PHJhdGVUb2tlbiBhY3M9IkVDTVIiIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iQ2FyIiBjZG49Iks2MzQwMDAiIGNnYz0iOTI1NCIgY2lkPSIyMDAwMSIgY21pPSIyIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0xNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTEwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IlNBTyIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTQ4MiIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNTAwIiBwcmQ9IkNBUiIgcHJmPSIxNjAiIHByaWNlTmV0V2l0aFJldGVudGlvbj0iMzQwLjAwIiBwcm89IjE2MCIgcHVwPSJDR0giIHB3dD0iNTAwIiBweHM9IjMwIiBydGM9IlpJSSIgcnRrPSI2MjI2NTQ3OTUxIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDQtMDItMDM6MDAiIHNpYz0iU0FPIiBzb3Q9IjUwMC4wMCIgc3N0PSJTUCIgc3d0PSI1MDAuMDAiIHN6aT0iOTYyNiIgdHJjPSIiIHZjYz0iMzA5IiB2cGY9IlpEIi8+",
+            "currency": "BRL",
+            "priceWithTax": "500",
+            "priceWithoutTax": "500",
+            "pricePerDayWithTax": "100",
+            "pricePerDayWithoutTax": "100",
+            "description": "Km Livre",
+            "pickup": {
+                "name": "CGH",
+                "date": "2019-04-10T11:00:00"
+            },
+            "devolution": {
+                "name": "CGH",
+                "date": "2019-04-15T11:00:00"
+            },
+            "taxes": null
+        }],
+        "category": {
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "accrissCode": "ECMR",
+            "contents": [{
+                "name": "Itens Opcionais",
+                "code": "optional-items",
+                "items": [{
+                    "code": "1 Mala",
+                    "name": "1 Mala"
+                }, {
+                    "code": "Ar Condicionado",
+                    "name": "Ar Condicionado"
+                }, {
+                    "code": "4 Pessoas",
+                    "name": "4 Pessoas"
+                }]
+            }]
+        },
+        "carRentalAgency": {
+            "code": "ZD",
+            "name": "BUDGET",
+            "images": {
+                "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/375523.jpg"
+            }
+        },
+        "images": {
+            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/428154.jpg"
+        },
+        "contents": [{
+            "code": "car-full-descriptions",
+            "name": "Descrição Completa",
+            "description": "Quilometragem livre (Máximo de 27 dias de Locação)- Proteção do veículo (LDW)- Proteção a terceiros (ALI)- Taxas de serviço inclusas",
+            "contents": [{
+                "description": "Quilometragem livre (Máximo de 27 dias de Locação)\n"
+            }, {
+                "description": "Proteção do veículo (LDW)\n"
+            }, {
+                "description": "Proteção a terceiros (ALI)\n"
+            }, {
+                "description": "Taxas de serviço inclusas"
+            }]
+        }],
+        "minimumAge": 21,
+        "minimumLicensePeriod": 2,
+        "partnerCode": "CVC"
+    }, {
+        "name": "NISSAN MARCH/SIMILAR",
+        "rates": [{
+            "id": "PHJhdGVUb2tlbiBhY3M9IkVDTVIiIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iQ2FyIiBjZG49Iks2MzQwMDAiIGNnYz0iOTI1NCIgY2lkPSIyMDAwMSIgY21pPSIyIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0xNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTEwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IlNBTyIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTQ4MiIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNTAwIiBwcmQ9IkNBUiIgcHJmPSIxNjAiIHByaWNlTmV0V2l0aFJldGVudGlvbj0iMzQwLjAwIiBwcm89IjE2MCIgcHVwPSJDR0giIHB3dD0iNTAwIiBweHM9IjMwIiBydGM9IlpJSSIgcnRrPSI0NzMxMzI4NzQxIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDQtMDItMDM6MDAiIHNpYz0iU0FPIiBzb3Q9IjUwMC4wMCIgc3N0PSJTUCIgc3d0PSI1MDAuMDAiIHN6aT0iOTYyNiIgdHJjPSIiIHZjYz0iMzA5IiB2cGY9IlpEIi8+",
+            "currency": "BRL",
+            "priceWithTax": "500",
+            "priceWithoutTax": "500",
+            "pricePerDayWithTax": "100",
+            "pricePerDayWithoutTax": "100",
+            "description": "Km Livre",
+            "pickup": {
+                "name": "CGH",
+                "date": "2019-04-10T11:00:00"
+            },
+            "devolution": {
+                "name": "CGH",
+                "date": "2019-04-15T11:00:00"
+            },
+            "taxes": null
+        }],
+        "category": {
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "accrissCode": "ECMR",
+            "contents": [{
+                "name": "Itens Opcionais",
+                "code": "optional-items",
+                "items": [{
+                    "code": "1 Mala",
+                    "name": "1 Mala"
+                }, {
+                    "code": "Ar Condicionado",
+                    "name": "Ar Condicionado"
+                }, {
+                    "code": "4 Pessoas",
+                    "name": "4 Pessoas"
+                }]
+            }]
+        },
+        "carRentalAgency": {
+            "code": "ZD",
+            "name": "BUDGET",
+            "images": {
+                "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/375523.jpg"
+            }
+        },
+        "images": {
+            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/428154.jpg"
+        },
+        "contents": [{
+            "code": "car-full-descriptions",
+            "name": "Descrição Completa",
+            "description": "Quilometragem livre (Máximo de 27 dias de Locação)- Proteção do veículo (LDW)- Proteção a terceiros (ALI)- Taxas de serviço inclusas",
+            "contents": [{
+                "description": "Quilometragem livre (Máximo de 27 dias de Locação)\n"
+            }, {
+                "description": "Proteção do veículo (LDW)\n"
+            }, {
+                "description": "Proteção a terceiros (ALI)\n"
+            }, {
+                "description": "Taxas de serviço inclusas"
+            }]
+        }],
+        "minimumAge": 21,
+        "minimumLicensePeriod": 2,
+        "partnerCode": "CVC"
+    }, {
+        "name": "NISSAN MARCH/SIMILAR",
+        "rates": [{
+            "id": "PHJhdGVUb2tlbiBhY3M9IkVDTVIiIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iQ2FyIiBjZG49Iks2MzQwMDAiIGNnYz0iOTI1NCIgY2lkPSIyMDAwMSIgY21pPSIyIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0xNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTEwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IlNBTyIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTQ4MiIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNTAwIiBwcmQ9IkNBUiIgcHJmPSIxNjAiIHByaWNlTmV0V2l0aFJldGVudGlvbj0iMzQwLjAwIiBwcm89IjE2MCIgcHVwPSJDR0giIHB3dD0iNTAwIiBweHM9IjMwIiBydGM9IlpJSSIgcnRrPSI2MTk2MjU0NzU1IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDQtMDItMDM6MDAiIHNpYz0iU0FPIiBzb3Q9IjUwMC4wMCIgc3N0PSJTUCIgc3d0PSI1MDAuMDAiIHN6aT0iOTYyNiIgdHJjPSIiIHZjYz0iMzA5IiB2cGY9IlpEIi8+",
+            "currency": "BRL",
+            "priceWithTax": "500",
+            "priceWithoutTax": "500",
+            "pricePerDayWithTax": "100",
+            "pricePerDayWithoutTax": "100",
+            "description": "Km Livre",
+            "pickup": {
+                "name": "CGH",
+                "date": "2019-04-10T11:00:00"
+            },
+            "devolution": {
+                "name": "CGH",
+                "date": "2019-04-15T11:00:00"
+            },
+            "taxes": null
+        }],
+        "category": {
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "accrissCode": "ECMR",
+            "contents": [{
+                "name": "Itens Opcionais",
+                "code": "optional-items",
+                "items": [{
+                    "code": "1 Mala",
+                    "name": "1 Mala"
+                }, {
+                    "code": "Ar Condicionado",
+                    "name": "Ar Condicionado"
+                }, {
+                    "code": "4 Pessoas",
+                    "name": "4 Pessoas"
+                }]
+            }]
+        },
+        "carRentalAgency": {
+            "code": "ZD",
+            "name": "BUDGET",
+            "images": {
+                "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/375523.jpg"
+            }
+        },
+        "images": {
+            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/428154.jpg"
+        },
+        "contents": [{
+            "code": "car-full-descriptions",
+            "name": "Descrição Completa",
+            "description": "Quilometragem livre (Máximo de 27 dias de Locação)- Proteção do veículo (LDW)- Proteção a terceiros (ALI)- Taxas de serviço inclusas",
+            "contents": [{
+                "description": "Quilometragem livre (Máximo de 27 dias de Locação)\n"
+            }, {
+                "description": "Proteção do veículo (LDW)\n"
+            }, {
+                "description": "Proteção a terceiros (ALI)\n"
+            }, {
+                "description": "Taxas de serviço inclusas"
+            }]
+        }],
+        "minimumAge": 21,
+        "minimumLicensePeriod": 2,
+        "partnerCode": "CVC"
+    }, {
+        "name": "NISSAN MARCH/SIMILAR",
+        "rates": [{
+            "id": "PHJhdGVUb2tlbiBhY3M9IkVDTVIiIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iQ2FyIiBjZG49Iks2MzQwMDAiIGNnYz0iOTI1NCIgY2lkPSIyMDAwMSIgY21pPSIyIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0xNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTEwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IlNBTyIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTQ4MiIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNTAwIiBwcmQ9IkNBUiIgcHJmPSIxNjAiIHByaWNlTmV0V2l0aFJldGVudGlvbj0iMzQwLjAwIiBwcm89IjE2MCIgcHVwPSJDR0giIHB3dD0iNTAwIiBweHM9IjMwIiBydGM9IlpJSSIgcnRrPSI2MTg3NDIxMDY5IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDQtMDItMDM6MDAiIHNpYz0iU0FPIiBzb3Q9IjUwMC4wMCIgc3N0PSJTUCIgc3d0PSI1MDAuMDAiIHN6aT0iOTYyNiIgdHJjPSIiIHZjYz0iMzA5IiB2cGY9IlpEIi8+",
+            "currency": "BRL",
+            "priceWithTax": "500",
+            "priceWithoutTax": "500",
+            "pricePerDayWithTax": "100",
+            "pricePerDayWithoutTax": "100",
+            "description": "Km Livre",
+            "pickup": {
+                "name": "CGH",
+                "date": "2019-04-10T11:00:00"
+            },
+            "devolution": {
+                "name": "CGH",
+                "date": "2019-04-15T11:00:00"
+            },
+            "taxes": null
+        }],
+        "category": {
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "accrissCode": "ECMR",
+            "contents": [{
+                "name": "Itens Opcionais",
+                "code": "optional-items",
+                "items": [{
+                    "code": "1 Mala",
+                    "name": "1 Mala"
+                }, {
+                    "code": "Ar Condicionado",
+                    "name": "Ar Condicionado"
+                }, {
+                    "code": "4 Pessoas",
+                    "name": "4 Pessoas"
+                }]
+            }]
+        },
+        "carRentalAgency": {
+            "code": "ZD",
+            "name": "BUDGET",
+            "images": {
+                "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/375523.jpg"
+            }
+        },
+        "images": {
+            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/428154.jpg"
+        },
+        "contents": [{
+            "code": "car-full-descriptions",
+            "name": "Descrição Completa",
+            "description": "Quilometragem livre (Máximo de 27 dias de Locação)- Proteção do veículo (LDW)- Proteção a terceiros (ALI)- Taxas de serviço inclusas",
+            "contents": [{
+                "description": "Quilometragem livre (Máximo de 27 dias de Locação)\n"
+            }, {
+                "description": "Proteção do veículo (LDW)\n"
+            }, {
+                "description": "Proteção a terceiros (ALI)\n"
+            }, {
+                "description": "Taxas de serviço inclusas"
+            }]
+        }],
+        "minimumAge": 21,
+        "minimumLicensePeriod": 2,
+        "partnerCode": "CVC"
+    }, {
+        "name": "NISSAN MARCH/SIMILAR",
+        "rates": [{
+            "id": "PHJhdGVUb2tlbiBhY3M9IkVDTVIiIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iQ2FyIiBjZG49Iks2MzQwMDAiIGNnYz0iOTI1NCIgY2lkPSIyMDAwMSIgY21pPSIyIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0xNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTEwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IlNBTyIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTQ4MiIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNTAwIiBwcmQ9IkNBUiIgcHJmPSIxNjAiIHByaWNlTmV0V2l0aFJldGVudGlvbj0iMzQwLjAwIiBwcm89IjE2MCIgcHVwPSJDR0giIHB3dD0iNTAwIiBweHM9IjMwIiBydGM9IlpJSSIgcnRrPSI0NzEyNDE4NzgyIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDQtMDItMDM6MDAiIHNpYz0iU0FPIiBzb3Q9IjUwMC4wMCIgc3N0PSJTUCIgc3d0PSI1MDAuMDAiIHN6aT0iOTYyNiIgdHJjPSIiIHZjYz0iMzA5IiB2cGY9IlpEIi8+",
+            "currency": "BRL",
+            "priceWithTax": "500",
+            "priceWithoutTax": "500",
+            "pricePerDayWithTax": "100",
+            "pricePerDayWithoutTax": "100",
+            "description": "Km Livre",
+            "pickup": {
+                "name": "CGH",
+                "date": "2019-04-10T11:00:00"
+            },
+            "devolution": {
+                "name": "CGH",
+                "date": "2019-04-15T11:00:00"
+            },
+            "taxes": null
+        }],
+        "category": {
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "accrissCode": "ECMR",
+            "contents": [{
+                "name": "Itens Opcionais",
+                "code": "optional-items",
+                "items": [{
+                    "code": "1 Mala",
+                    "name": "1 Mala"
+                }, {
+                    "code": "Ar Condicionado",
+                    "name": "Ar Condicionado"
+                }, {
+                    "code": "4 Pessoas",
+                    "name": "4 Pessoas"
+                }]
+            }]
+        },
+        "carRentalAgency": {
+            "code": "ZD",
+            "name": "BUDGET",
+            "images": {
+                "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/375523.jpg"
+            }
+        },
+        "images": {
+            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/428154.jpg"
+        },
+        "contents": [{
+            "code": "car-full-descriptions",
+            "name": "Descrição Completa",
+            "description": "Quilometragem livre (Máximo de 27 dias de Locação)- Proteção do veículo (LDW)- Proteção a terceiros (ALI)- Taxas de serviço inclusas",
+            "contents": [{
+                "description": "Quilometragem livre (Máximo de 27 dias de Locação)\n"
+            }, {
+                "description": "Proteção do veículo (LDW)\n"
+            }, {
+                "description": "Proteção a terceiros (ALI)\n"
+            }, {
+                "description": "Taxas de serviço inclusas"
+            }]
+        }],
+        "minimumAge": 21,
+        "minimumLicensePeriod": 2,
+        "partnerCode": "CVC"
+    }, {
+        "name": "NISSAN MARCH/SIMILAR",
+        "rates": [{
+            "id": "PHJhdGVUb2tlbiBhY3M9IkVDTVIiIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iQ2FyIiBjZG49Iks2MzQwMDAiIGNnYz0iOTI1NCIgY2lkPSIyMDAwMSIgY21pPSIyIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0xNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTEwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IlNBTyIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTQ4MiIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNTAwIiBwcmQ9IkNBUiIgcHJmPSIxNjAiIHByaWNlTmV0V2l0aFJldGVudGlvbj0iMzQwLjAwIiBwcm89IjE2MCIgcHVwPSJDR0giIHB3dD0iNTAwIiBweHM9IjMwIiBydGM9IlpJSSIgcnRrPSI2MTk4ODI0Mzg5IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDQtMDItMDM6MDAiIHNpYz0iU0FPIiBzb3Q9IjUwMC4wMCIgc3N0PSJTUCIgc3d0PSI1MDAuMDAiIHN6aT0iOTYyNiIgdHJjPSIiIHZjYz0iMzA5IiB2cGY9IlpEIi8+",
+            "currency": "BRL",
+            "priceWithTax": "500",
+            "priceWithoutTax": "500",
+            "pricePerDayWithTax": "100",
+            "pricePerDayWithoutTax": "100",
+            "description": "Km Livre",
+            "pickup": {
+                "name": "CGH",
+                "date": "2019-04-10T11:00:00"
+            },
+            "devolution": {
+                "name": "CGH",
+                "date": "2019-04-15T11:00:00"
+            },
+            "taxes": null
+        }],
+        "category": {
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "accrissCode": "ECMR",
+            "contents": [{
+                "name": "Itens Opcionais",
+                "code": "optional-items",
+                "items": [{
+                    "code": "1 Mala",
+                    "name": "1 Mala"
+                }, {
+                    "code": "Ar Condicionado",
+                    "name": "Ar Condicionado"
+                }, {
+                    "code": "4 Pessoas",
+                    "name": "4 Pessoas"
+                }]
+            }]
+        },
+        "carRentalAgency": {
+            "code": "ZD",
+            "name": "BUDGET",
+            "images": {
+                "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/375523.jpg"
+            }
+        },
+        "images": {
+            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/428154.jpg"
+        },
+        "contents": [{
+            "code": "car-full-descriptions",
+            "name": "Descrição Completa",
+            "description": "Quilometragem livre (Máximo de 27 dias de Locação)- Proteção do veículo (LDW)- Proteção a terceiros (ALI)- Taxas de serviço inclusas",
+            "contents": [{
+                "description": "Quilometragem livre (Máximo de 27 dias de Locação)\n"
+            }, {
+                "description": "Proteção do veículo (LDW)\n"
+            }, {
+                "description": "Proteção a terceiros (ALI)\n"
+            }, {
+                "description": "Taxas de serviço inclusas"
+            }]
+        }],
+        "minimumAge": 21,
+        "minimumLicensePeriod": 2,
+        "partnerCode": "CVC"
+    }, {
+        "name": "NISSAN MARCH/SIMILAR",
+        "rates": [{
+            "id": "PHJhdGVUb2tlbiBhY3M9IkVDTVIiIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iQ2FyIiBjZG49IlMxOTU3MDAiIGNnYz0iOTI1NCIgY2lkPSIyMDAwMSIgY21pPSIyIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0xNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTEwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IlNBTyIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTM2NCIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNTA1IiBwcmQ9IkNBUiIgcHJmPSIxNjEuNiIgcHJpY2VOZXRXaXRoUmV0ZW50aW9uPSIzNDMuNDAiIHBybz0iMTYxLjYiIHB1cD0iQ0dIIiBwd3Q9IjUwNSIgcHhzPSIzMCIgcnRjPSJMTEkiIHJ0az0iNjIxMzEzNTQxOSIgc2N0PSJCUiIgc2R0PSIyMDE5LTA0LTAyLTAzOjAwIiBzaWM9IlNBTyIgc290PSI1MDUuMDAiIHNzdD0iU1AiIHN3dD0iNTA1LjAwIiBzemk9Ijk2MjYiIHRyYz0iIiB2Y2M9IjIiIHZwZj0iWkkiLz4=",
+            "currency": "BRL",
+            "priceWithTax": "505",
+            "priceWithoutTax": "505",
+            "pricePerDayWithTax": "101",
+            "pricePerDayWithoutTax": "101",
+            "description": "Km Livre",
+            "pickup": {
+                "name": "CGH",
+                "date": "2019-04-10T11:00:00"
+            },
+            "devolution": {
+                "name": "CGH",
+                "date": "2019-04-15T11:00:00"
+            },
+            "taxes": null
+        }],
+        "category": {
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "accrissCode": "ECMR",
+            "contents": [{
+                "name": "Itens Opcionais",
+                "code": "optional-items",
+                "items": [{
+                    "code": "1 Mala",
+                    "name": "1 Mala"
+                }, {
+                    "code": "Ar Condicionado",
+                    "name": "Ar Condicionado"
+                }, {
+                    "code": "4 Pessoas",
+                    "name": "4 Pessoas"
+                }, {
+                    "code": "Direção Elétrica",
+                    "name": "Direção Elétrica"
+                }, {
+                    "code": "Rádio AM/FM",
+                    "name": "Rádio AM/FM"
+                }]
+            }]
+        },
+        "carRentalAgency": {
+            "code": "ZI",
+            "name": "AVIS",
+            "images": {
+                "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/428535.jpg"
+            }
+        },
+        "images": {
+            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/406998.jpg"
+        },
+        "contents": [{
+            "code": "car-full-descriptions",
+            "name": "Descrição Completa",
+            "description": "Quilometragem livre (Máximo de 27 dias de Locação)- Proteção do veículo (LDW)- Proteção a terceiros (ALI)- Taxas de serviço inclusas",
+            "contents": [{
+                "description": "Quilometragem livre (Máximo de 27 dias de Locação)\n"
+            }, {
+                "description": "Proteção do veículo (LDW)\n"
+            }, {
+                "description": "Proteção a terceiros (ALI)\n"
+            }, {
+                "description": "Taxas de serviço inclusas"
+            }]
+        }],
+        "minimumAge": 21,
+        "minimumLicensePeriod": 2,
+        "partnerCode": "CVC"
+    }, {
+        "name": "NISSAN MARCH/SIMILAR",
+        "rates": [{
+            "id": "PHJhdGVUb2tlbiBhY3M9IkVDTVIiIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iQ2FyIiBjZG49IlMxOTU3MDAiIGNnYz0iOTI1NCIgY2lkPSIyMDAwMSIgY21pPSIyIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0xNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTEwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IlNBTyIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTM2NCIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNTA1IiBwcmQ9IkNBUiIgcHJmPSIxNjEuNiIgcHJpY2VOZXRXaXRoUmV0ZW50aW9uPSIzNDMuNDAiIHBybz0iMTYxLjYiIHB1cD0iQ0dIIiBwd3Q9IjUwNSIgcHhzPSIzMCIgcnRjPSJMTEkiIHJ0az0iNDcxNTQ0NTc1MiIgc2N0PSJCUiIgc2R0PSIyMDE5LTA0LTAyLTAzOjAwIiBzaWM9IlNBTyIgc290PSI1MDUuMDAiIHNzdD0iU1AiIHN3dD0iNTA1LjAwIiBzemk9Ijk2MjYiIHRyYz0iIiB2Y2M9IjIiIHZwZj0iWkkiLz4=",
+            "currency": "BRL",
+            "priceWithTax": "505",
+            "priceWithoutTax": "505",
+            "pricePerDayWithTax": "101",
+            "pricePerDayWithoutTax": "101",
+            "description": "Km Livre",
+            "pickup": {
+                "name": "CGH",
+                "date": "2019-04-10T11:00:00"
+            },
+            "devolution": {
+                "name": "CGH",
+                "date": "2019-04-15T11:00:00"
+            },
+            "taxes": null
+        }],
+        "category": {
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "accrissCode": "ECMR",
+            "contents": [{
+                "name": "Itens Opcionais",
+                "code": "optional-items",
+                "items": [{
+                    "code": "1 Mala",
+                    "name": "1 Mala"
+                }, {
+                    "code": "Ar Condicionado",
+                    "name": "Ar Condicionado"
+                }, {
+                    "code": "4 Pessoas",
+                    "name": "4 Pessoas"
+                }, {
+                    "code": "Direção Elétrica",
+                    "name": "Direção Elétrica"
+                }, {
+                    "code": "Rádio AM/FM",
+                    "name": "Rádio AM/FM"
+                }]
+            }]
+        },
+        "carRentalAgency": {
+            "code": "ZI",
+            "name": "AVIS",
+            "images": {
+                "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/428535.jpg"
+            }
+        },
+        "images": {
+            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/406998.jpg"
+        },
+        "contents": [{
+            "code": "car-full-descriptions",
+            "name": "Descrição Completa",
+            "description": "Quilometragem livre (Máximo de 27 dias de Locação)- Proteção do veículo (LDW)- Proteção a terceiros (ALI)- Taxas de serviço inclusas",
+            "contents": [{
+                "description": "Quilometragem livre (Máximo de 27 dias de Locação)\n"
+            }, {
+                "description": "Proteção do veículo (LDW)\n"
+            }, {
+                "description": "Proteção a terceiros (ALI)\n"
+            }, {
+                "description": "Taxas de serviço inclusas"
+            }]
+        }],
+        "minimumAge": 21,
+        "minimumLicensePeriod": 2,
+        "partnerCode": "CVC"
+    }, {
+        "name": "NISSAN MARCH/SIMILAR",
+        "rates": [{
+            "id": "PHJhdGVUb2tlbiBhY3M9IkVDTVIiIGFncz0iTElWIiBicmk9IjEwMDMiIGNhdD0iQ2FyIiBjZG49IlMxOTU3MDAiIGNnYz0iOTI1NCIgY2lkPSIyMDAwMSIgY21pPSIyIiBjcHA9IiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wNC0xNVQxMTowMDowMCIgZHRpPSIyMDE5LTA0LTEwVDExOjAwOjAwIiBlY3Q9IkJSIiBlaWM9IlNBTyIgZXN0PSJTUCIgZXppPSI5NjI2IiBta2k9IjQ5ODIiIG1rcD0iMC42ODAiIG5tdD0idHJ1ZSIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMTM2NCIgcGtnPSJTVEFOREFMT05FIiBwbGM9IkJSTCIgcG1jPSIiIHBvdD0iNTA1IiBwcmQ9IkNBUiIgcHJmPSIxNjEuNiIgcHJpY2VOZXRXaXRoUmV0ZW50aW9uPSIzNDMuNDAiIHBybz0iMTYxLjYiIHB1cD0iQ0dIIiBwd3Q9IjUwNSIgcHhzPSIzMCIgcnRjPSJMTEkiIHJ0az0iNDczMTMwMzk5MCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA0LTAyLTAzOjAwIiBzaWM9IlNBTyIgc290PSI1MDUuMDAiIHNzdD0iU1AiIHN3dD0iNTA1LjAwIiBzemk9Ijk2MjYiIHRyYz0iIiB2Y2M9IjIiIHZwZj0iWkkiLz4=",
+            "currency": "BRL",
+            "priceWithTax": "505",
+            "priceWithoutTax": "505",
+            "pricePerDayWithTax": "101",
+            "pricePerDayWithoutTax": "101",
+            "description": "Km Livre",
+            "pickup": {
+                "name": "CGH",
+                "date": "2019-04-10T11:00:00"
+            },
+            "devolution": {
+                "name": "CGH",
+                "date": "2019-04-15T11:00:00"
+            },
+            "taxes": null
+        }],
+        "category": {
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "accrissCode": "ECMR",
+            "contents": [{
+                "name": "Itens Opcionais",
+                "code": "optional-items",
+                "items": [{
+                    "code": "1 Mala",
+                    "name": "1 Mala"
+                }, {
+                    "code": "Ar Condicionado",
+                    "name": "Ar Condicionado"
+                }, {
+                    "code": "4 Pessoas",
+                    "name": "4 Pessoas"
+                }, {
+                    "code": "Direção Elétrica",
+                    "name": "Direção Elétrica"
+                }, {
+                    "code": "Rádio AM/FM",
+                    "name": "Rádio AM/FM"
+                }]
+            }]
+        },
+        "carRentalAgency": {
+            "code": "ZI",
+            "name": "AVIS",
+            "images": {
+                "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/428535.jpg"
+            }
+        },
+        "images": {
+            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/406998.jpg"
+        },
+        "contents": [{
+            "code": "car-full-descriptions",
+            "name": "Descrição Completa",
+            "description": "Quilometragem livre (Máximo de 27 dias de Locação)- Proteção do veículo (LDW)- Proteção a terceiros (ALI)- Taxas de serviço inclusas",
+            "contents": [{
+                "description": "Quilometragem livre (Máximo de 27 dias de Locação)\n"
+            }, {
+                "description": "Proteção do veículo (LDW)\n"
+            }, {
+                "description": "Proteção a terceiros (ALI)\n"
+            }, {
+                "description": "Taxas de serviço inclusas"
+            }]
+        }],
+        "minimumAge": 21,
+        "minimumLicensePeriod": 2,
+        "partnerCode": "CVC"
+    }],
+    "additionalInfo": {
+        "totalCars": 330,
+        "partnerCode": "CVC"
+    },
+    "filters": {
+        "price": {
+            "maxWithTax": 1799.5,
+            "maxWithoutTax": 1799.5,
+            "minWithTax": 435.0,
+            "minWithoutTax": 435.0,
+            "currency": "BRL"
+        },
+        "categories": [{
+            "currency": "BRL",
+            "code": "8733",
+            "name": "ECONÔMICO ",
+            "price": 534.6
+        }, {
+            "currency": "BRL",
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "price": 435.0
+        }, {
+            "currency": "BRL",
+            "code": "8734",
+            "name": "CARRO MÉDIO  INTERMEDIARIO",
+            "price": 590.0
+        }, {
+            "currency": "BRL",
+            "code": "7798",
+            "name": "SUV",
+            "price": 774.53
+        }, {
+            "currency": "BRL",
+            "code": "8745",
+            "name": "SUV LUXO",
+            "price": 1364.9
+        }, {
+            "currency": "BRL",
+            "code": "9169",
+            "name": "PICAPE",
+            "price": 1119.59
+        }, {
+            "currency": "BRL",
+            "code": "7795",
+            "name": "MINI VAN",
+            "price": 874.78
+        }, {
+            "currency": "BRL",
+            "code": "3158",
+            "name": "UTILITARIO",
+            "price": 690.65
+        }, {
+            "currency": "BRL",
+            "code": "8735",
+            "name": "COMPACTO",
+            "price": 590.0
+        }, {
+            "currency": "BRL",
+            "code": "3157",
+            "name": "CARRO LUXO",
+            "price": 1055.0
+        }, {
+            "currency": "BRL",
+            "code": "8738",
+            "name": "CARRO PREMIUM",
+            "price": 1799.5
+        }],
+        "rentalAgencies": [{
+            "code": "LL",
+            "name": "LOCALIZA",
+            "images": null
+        }, {
+            "code": "UN",
+            "name": "UNIDAS",
+            "images": null
+        }, {
+            "code": "ZD",
+            "name": "BUDGET",
+            "images": null
+        }, {
+            "code": "ZI",
+            "name": "AVIS",
+            "images": null
+        }, {
+            "code": "MO",
+            "name": "MOVIDA",
+            "images": null
+        }],
+        "features": [{
+            "code": "2 Malas",
+            "name": "2 Malas"
+        }, {
+            "code": "Rádio AM/FM",
+            "name": "Rádio AM/FM"
+        }, {
+            "code": "5 Pessoas",
+            "name": "5 Pessoas"
+        }],
+        "partnerCode": "CVC"
+    },
+    "comparativeMatrix": {
+        "categories": [{
+            "code": "9254",
+            "name": "ECONÔMICO COM AR",
+            "cars": [{
+                "acrissCode": "ECMM",
+                "price": "435",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "ECMR",
+                "price": "500",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "ECMR",
+                "price": "505",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "ECMR",
+                "price": "510",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "EDMR",
+                "price": "549.65",
+                "currency": "BRL"
+            }]
+        }, {
+            "code": "8733",
+            "name": "ECONÔMICO ",
+            "cars": [{
+                "acrissCode": "ECMN",
+                "price": "534.6",
+                "currency": "BRL"
+            }]
+        }, {
+            "code": "8734",
+            "name": "CARRO MÉDIO  INTERMEDIARIO",
+            "cars": [{
+                "acrissCode": "IDMR",
+                "price": "590",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "SDMR",
+                "price": "604.65",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "IDMR",
+                "price": "610",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "CDMR",
+                "price": "669",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "CDMR",
+                "price": "681.99",
+                "currency": "BRL"
+            }]
+        }, {
+            "code": "8735",
+            "name": "COMPACTO",
+            "cars": [{
+                "acrissCode": "CDMR",
+                "price": "590",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "CDMR",
+                "price": "640",
+                "currency": "BRL"
+            }]
+        }, {
+            "code": "3158",
+            "name": "UTILITARIO",
+            "cars": [{
+                "acrissCode": "MPMR",
+                "price": "690.65",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "MKMN",
+                "price": "879.68",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "MPMR",
+                "price": "1100",
+                "currency": "BRL"
+            }]
+        }, {
+            "code": "7798",
+            "name": "SUV",
+            "cars": [{
+                "acrissCode": "IFMR",
+                "price": "774.53",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "IFMR",
+                "price": "805",
+                "currency": "BRL"
+            }]
+        }, {
+            "code": "7795",
+            "name": "MINI VAN",
+            "cars": [{
+                "acrissCode": "MVMR",
+                "price": "874.78",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "MVMR",
+                "price": "895.5",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "MVAR",
+                "price": "1008.5",
+                "currency": "BRL"
+            }]
+        }, {
+            "code": "3157",
+            "name": "CARRO LUXO",
+            "cars": [{
+                "acrissCode": "PDAR",
+                "price": "1055",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "PDAR",
+                "price": "1188",
+                "currency": "BRL"
+            }]
+        }, {
+            "code": "9169",
+            "name": "PICAPE",
+            "cars": [{
+                "acrissCode": "PPAR",
+                "price": "1119.59",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "PPAR",
+                "price": "1125",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "FPMR",
+                "price": "1421.79",
+                "currency": "BRL"
+            }]
+        }, {
+            "code": "8745",
+            "name": "SUV LUXO",
+            "cars": [{
+                "acrissCode": "XFAR",
+                "price": "1364.9",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "PFAM",
+                "price": "1582.04",
+                "currency": "BRL"
+            }, {
+                "acrissCode": "GFAR",
+                "price": "1799.5",
+                "currency": "BRL"
+            }]
+        }, {
+            "code": "8738",
+            "name": "CARRO PREMIUM",
+            "cars": [{
+                "acrissCode": "LXAR",
+                "price": "1799.5",
+                "currency": "BRL"
+            }]
+        }],
+        "partnerCode": "CVC"
+    }
+}
