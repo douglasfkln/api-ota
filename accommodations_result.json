@@ -1,0 +1,2242 @@
+{
+  "resultsList": [{
+      "id": "4510602816",
+      "priority": 6,
+      "name": "HILTON BARRA RIO DE JANEIRO",
+      "description": "Situado no bairro da Barra, o hotel fica a apenas 2 quilômetros do Parque Olímpico da Barra, a 5 quilômetros do Centro de Convenções RioCentro e a 11 quilômetros do Parque Nacional da Floresta da Tijuca. Os aeroportos Galeão e Santos Dumont ficam a 30 quilômetros. Dispõe de piscina, terraço, academia, restaurante, bar, wi-fi em todas as áreas (custo adicional), serviço de quarto e concierge. Os quartos e suítes apresentam secador de cabelo, amenidades de banho gratuitas e TV.",
+      "isPreferential": true,
+      "location": {
+          "address": "Embaixador Abelardo Bueno 1430   205 Rio DE Janeiro RJ BR 22775040 - ",
+          "coordinates": {
+              "latitude": "-22.9721624",
+              "longitude": "-43.3750314"
+          }
+      },
+      "images": {
+          "thumbnailImage": null
+      },
+      "nearby": "Localizado a Barra da Tijuca no centro corporativo",
+      "rooms": [{
+          "id": "1",
+          "description": "STANDARD KING|DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "mealPlan": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "category": "STANDARD KING",
+          "minGuests": 1,
+          "maxGuests": 2,
+          "quantityAvailable": 4,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlNUQU5EQVJEIEtJTkciIGNpZD0iNDUwMDEiIGNtaT0iNDUiIGNtej0iNzExMCIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlYms9IiIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBmZWI9ImZhbHNlIiBob3Q9IjQ1MTA2MDI4MTYiIGxhbj0icHRfQlIiIG1raT0iNjI3MSIgbWtwPSIwLjY5MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iNDUxMDYwMjgxNiIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjQ1IiBwbGM9IkJSTCIgcG90PSI3MjAiIHBwdD0iVm91Y2hlciIgcHB5PSIxMDYwMjgxNiIgcHJkPSJIT1QiIHB3dD0iNzIwIiBweG89IjMwIiBweHM9IjMwIiByb209IjE2NjYzMjgwIiBycGg9IjEiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIxMDQzLjQ4IiBzc3Q9IlNQIiBzd3Q9IjEwNDMuNDgiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 36700,
+              "priceWithoutTax": 36700,
+              "pricePerDayWithTax": 12233.33,
+              "pricePerDayWithoutTax": 12233.33,
+              "pricePerGuestWithTax": 36700,
+              "pricePerGuestWithoutTax": 36700,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "TARIFA PROMOCIONAL - DIÁRIA(S) COM CAFÉ DA MANHÃ - ACOMODA  ATÉ 2 ADULTOS - No caso de cancelamento apos 24hs antes do check in será cobrado 1 diaria do periodo, e garantia irrevogavel para periodos de Reveillon, Carnaval ou NO Sow.O horário de check-in é a partir das 15h00; o horário de check-out é até 12h00."
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlNUQU5EQVJEIEtJTkciIGNpZD0iNDUwMDEiIGNtaT0iNDUiIGNtej0iNzExMCIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlYms9IiIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBmZWI9ImZhbHNlIiBob3Q9IjQ1MTA2MDI4MTYiIGxhbj0icHRfQlIiIG1raT0iNjI3MjA5OCIgbWtwPSIwLjc2MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iNDUxMDYwMjgxNiIgcGtnPSJWSEkiIHBsYT0iNDUiIHBsYz0iQlJMIiBwb3Q9IjcyMCIgcHB0PSJWb3VjaGVyIiBwcHk9IjEwNjAyODE2IiBwcmQ9IkhPVCIgcHd0PSI3MjAiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iMTY2NjMyODAiIHJwaD0iMSIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9Ijk0Ny4zNyIgc3N0PSJTUCIgc3d0PSI5NDcuMzciIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 33300,
+              "priceWithoutTax": 33300,
+              "pricePerDayWithTax": 11100,
+              "pricePerDayWithoutTax": 11100,
+              "pricePerGuestWithTax": 33300,
+              "pricePerGuestWithoutTax": 33300,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "TARIFA PROMOCIONAL - DIÁRIA(S) COM CAFÉ DA MANHÃ - ACOMODA  ATÉ 2 ADULTOS - No caso de cancelamento apos 24hs antes do check in será cobrado 1 diaria do periodo, e garantia irrevogavel para periodos de Reveillon, Carnaval ou NO Sow.O horário de check-in é a partir das 15h00; o horário de check-out é até 12h00."
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "4511522016",
+      "priority": 6,
+      "name": "COURTYARD BY MARRIOTT RJ BARRA DA TIJUCA",
+      "description": "O Courtyard proporciona maior flexibilidade e opções para os nossos clientes. O resataurante Bistro oferece deliciosas refeições desde o café da manhã, almoço, bebidas e jantar. Você também irá desfrutar de espaços flexíveis, onde pode trabalhar ou relaxar, Internet cortesia em todo o looby e com a tecnologia GoBoard será muito mais fácil acompanhar às últimas notícias, meteorologia e condições dos aeroporto. Além disso, o nosso centro de fitness possui equipamentos de última geração e uma piscina exterior vai ajudar você a ficar energizado. Seja viajando a negócios ou lazer, a sua estadia no Courtyard Barra da Tijuca com certeza será mais confortável, produtiva e agradável do que nunca!.",
+      "awards": 3,
+      "isPreferential": true,
+      "location": {
+          "address": "Embaixador Abelardo Bueno 5001   205 Rio DE Janeiro RJ BR 22775040 - ",
+          "coordinates": {
+              "latitude": "-22.9740457",
+              "longitude": "-43.4004405"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://www.cvc.com.br/images/409929.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "DELUXE ROOM|DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "mealPlan": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "category": "DELUXE ROOM",
+          "minGuests": 1,
+          "maxGuests": 2,
+          "quantityAvailable": 5,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IkRFTFVYRSBST09NIiBjaWQ9IjQ1MDAxIiBjbWk9IjQ1IiBjbXo9IjcxMTAiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWJrPSIiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI0NTExNTIyMDE2IiBsYW49InB0X0JSIiBta2k9IjYyNzEiIG1rcD0iMC42OTAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjQ1MTE1MjIwMTYiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI0NSIgcGxjPSJCUkwiIHBvdD0iNzU5IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTE1MjIwMTYiIHByZD0iSE9UIiBwd3Q9Ijc1OSIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIxODAyNDQ3NCIgcnBoPSIxIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMTEwMC4wMCIgc3N0PSJTUCIgc3d0PSIxMTAwLjAwIiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 38600,
+              "priceWithoutTax": 38600,
+              "pricePerDayWithTax": 12866.67,
+              "pricePerDayWithoutTax": 12866.67,
+              "pricePerGuestWithTax": 38600,
+              "pricePerGuestWithoutTax": 38600,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ TARIFA NÃO REEMBOLSÁVEL."
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IkRFTFVYRSBST09NIiBjaWQ9IjQ1MDAxIiBjbWk9IjQ1IiBjbXo9IjcxMTAiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWJrPSIiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI0NTExNTIyMDE2IiBsYW49InB0X0JSIiBta2k9IjYyNzIwOTgiIG1rcD0iMC43NjAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjQ1MTE1MjIwMTYiIHBrZz0iVkhJIiBwbGE9IjQ1IiBwbGM9IkJSTCIgcG90PSI3NTkiIHBwdD0iVm91Y2hlciIgcHB5PSIxMTUyMjAxNiIgcHJkPSJIT1QiIHB3dD0iNzU5IiBweG89IjMwIiBweHM9IjMwIiByb209IjE4MDI0NDc0IiBycGg9IjEiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSI5OTguNjgiIHNzdD0iU1AiIHN3dD0iOTk4LjY4IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 35100,
+              "priceWithoutTax": 35100,
+              "pricePerDayWithTax": 11700,
+              "pricePerDayWithoutTax": 11700,
+              "pricePerGuestWithTax": 35100,
+              "pricePerGuestWithoutTax": 35100,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ TARIFA NÃO REEMBOLSÁVEL."
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "4512220670",
+      "priority": 6,
+      "name": "GRAND MERCURE RIO DE JANEIRO COPACABANA",
+      "description": "O Grand Mercure Rio de Janeiro Copacabana está em frente à Praia de Copacabana, perto das Praias de Ipanema e Leblon. Possui fácil acesso aos principais pontos turísticos do Rio de Janeiro, além de centros comerciais, shoppings, teatros e restaurantes. Dispõe de quartos com ar-condicionado, TV a cabo e minibar, sendo alguns com uma vista impressionante do mar. Desfrute de um café da manhã com uma seleção de frutas frescas, além dos pratos internacionais do Restaurante Forno e Fogão.",
+      "awards": 3,
+      "isPreferential": true,
+      "location": {
+          "address": "Atlantica 3716   205 Rio DE Janeiro RJ BR 22070001 - ",
+          "coordinates": {
+              "latitude": "-22.9813375",
+              "longitude": "-43.1902618"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://www.cvc.com.br/images/442842.jpg"
+      },
+      "nearby": "Localizado em Frente a Praia de Copacabana",
+      "rooms": [{
+          "id": "1",
+          "description": "SUPERIOR CASAL|DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "mealPlan": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "category": "SUPERIOR CASAL",
+          "minGuests": 1,
+          "maxGuests": 3,
+          "quantityAvailable": 1,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlNVUEVSSU9SIENBU0FMIiBjaWQ9IjQ1MDAxIiBjbWk9IjQ1IiBjbXo9IjcxMTAiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWJrPSIiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI0NTEyMjIwNjcwIiBsYW49InB0X0JSIiBta2k9IjYyNzEiIG1rcD0iMC42OTAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjQ1MTIyMjA2NzAiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI0NSIgcGxjPSJCUkwiIHBvdD0iOTcwLjIiIHBwdD0iVm91Y2hlciIgcHB5PSIxMDYxNjk1MSIgcHJkPSJIT1QiIHB3dD0iOTcwLjIiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iMTYxNDMyNjIiIHJwaD0iMSIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjE0MDYuMDkiIHNzdD0iU1AiIHN3dD0iMTQwNi4wOSIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 49400,
+              "priceWithoutTax": 49400,
+              "pricePerDayWithTax": 16466.67,
+              "pricePerDayWithoutTax": 16466.67,
+              "pricePerGuestWithTax": 49400,
+              "pricePerGuestWithoutTax": 49400,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - CHECK IN AS 14:00 HRS E CHECK OUT AS 12:00 HRS - DIÁRIAS OU PACOTES EM RÉVEILLON, CARNAVAL NÃO SÃO REEMBOLSAVEIS EM CASO DE CANCELAMENTO OU NÃO COMPARECIMENTO. - 1 CRIANÇA GRATUITA NA MESMA CAMA DOS PAIS."
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlNVUEVSSU9SIENBU0FMIiBjaWQ9IjQ1MDAxIiBjbWk9IjQ1IiBjbXo9IjcxMTAiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWJrPSIiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI0NTEyMjIwNjcwIiBsYW49InB0X0JSIiBta2k9IjYyNzIwOTgiIG1rcD0iMC43NjAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjQ1MTIyMjA2NzAiIHBrZz0iVkhJIiBwbGE9IjQ1IiBwbGM9IkJSTCIgcG90PSI5NzAuMiIgcHB0PSJWb3VjaGVyIiBwcHk9IjEwNjE2OTUxIiBwcmQ9IkhPVCIgcHd0PSI5NzAuMiIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIxNjE0MzI2MiIgcnBoPSIxIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMTI3Ni41OCIgc3N0PSJTUCIgc3d0PSIxMjc2LjU4IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 44800,
+              "priceWithoutTax": 44800,
+              "pricePerDayWithTax": 14933.33,
+              "pricePerDayWithoutTax": 14933.33,
+              "pricePerGuestWithTax": 44800,
+              "pricePerGuestWithoutTax": 44800,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - CHECK IN AS 14:00 HRS E CHECK OUT AS 12:00 HRS - DIÁRIAS OU PACOTES EM RÉVEILLON, CARNAVAL NÃO SÃO REEMBOLSAVEIS EM CASO DE CANCELAMENTO OU NÃO COMPARECIMENTO. - 1 CRIANÇA GRATUITA NA MESMA CAMA DOS PAIS."
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "4511406227",
+      "priority": 6,
+      "name": "GRAND HYATT RIO DE JANEIRO",
+      "description": "O Grand Hyatt oferece sofisticação para você aproveitar a paisagem e as praias do Rio de Janeiro com muito conforto. O hotel fica na Barra da Tijuca e conta com vista para o mar e para a lagoa de Marapendi. Nos quartos você pode usufruir de wi-fi gratuito, ar-condicionado, minibar e varanda. Também estão disponíveis serviços de SPA, restaurantes e serviço de praia.",
+      "isPreferential": true,
+      "location": {
+          "address": "Lúcio Costa 9600   205 Rio DE Janeiro RJ BR 22795007 - ",
+          "coordinates": {
+              "latitude": "-23.0105591",
+              "longitude": "-43.3719558"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://www.cvc.com.br/images/390696.jpg"
+      },
+      "nearby": "Localizado em Frente a Praia de Copacabana",
+      "rooms": [{
+          "id": "1",
+          "description": "SUPERIOR CASAL|DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "mealPlan": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "category": "SUPERIOR CASAL",
+          "minGuests": 1,
+          "maxGuests": 3,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IkdSQU5EIFJPT00iIGNpZD0iNDUwMDEiIGNtaT0iNDUiIGNtej0iNzExMCIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlYms9IiIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBmZWI9ImZhbHNlIiBob3Q9IjQ1MTE0MDYyMjciIGxhbj0icHRfQlIiIG1raT0iNjI3MSIgbWtwPSIwLjY5MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iNDUxMTQwNjIyNyIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjQ1IiBwbGM9IkJSTCIgcG90PSIxMjY5IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTE0MDYyMjciIHByZD0iSE9UIiBwd3Q9IjEyNjkiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iODI4ODMzNiIgcnBoPSIxIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMTgzOS4xMyIgc3N0PSJTUCIgc3d0PSIxODM5LjEzIiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 64600,
+              "priceWithoutTax": 64600,
+              "pricePerDayWithTax": 21533.33,
+              "pricePerDayWithoutTax": 21533.33,
+              "pricePerGuestWithTax": 64600,
+              "pricePerGuestWithoutTax": 64600,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - HORÁRIO DE CHECK IN: 15:00, CHECK OUT 12:00  GRATIS 1 CRIANÇA ATÉ 5 ANOS NA CAMA DOS PAIS / CANCELAMENTO OU NÃO COMPARECIMENTO ATÉ COM 48 HORAS DE ANTECEDÊNCIA - PERIODOS DE REVEILLON, CARNAVAL E ROCK IN RIO - TARIFA NÃO REEMBOLSAVELApartamento de 37m² com varanda privativa, vista para o jardim do hotel, lagoa ou piscina, um espaçoso banheiro com banheira e chuveiro independentes e mesa de trabalho"
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IkdSQU5EIFJPT00iIGNpZD0iNDUwMDEiIGNtaT0iNDUiIGNtej0iNzExMCIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlYms9IiIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBmZWI9ImZhbHNlIiBob3Q9IjQ1MTE0MDYyMjciIGxhbj0icHRfQlIiIG1raT0iNjI3MjA5OCIgbWtwPSIwLjc2MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iNDUxMTQwNjIyNyIgcGtnPSJWSEkiIHBsYT0iNDUiIHBsYz0iQlJMIiBwb3Q9IjEyNjkiIHBwdD0iVm91Y2hlciIgcHB5PSIxMTQwNjIyNyIgcHJkPSJIT1QiIHB3dD0iMTI2OSIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSI4Mjg4MzM2IiBycGg9IjEiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIxNjY5Ljc0IiBzc3Q9IlNQIiBzd3Q9IjE2NjkuNzQiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 58600,
+              "priceWithoutTax": 58600,
+              "pricePerDayWithTax": 19533.33,
+              "pricePerDayWithoutTax": 19533.33,
+              "pricePerGuestWithTax": 58600,
+              "pricePerGuestWithoutTax": 58600,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - HORÁRIO DE CHECK IN: 15:00, CHECK OUT 12:00  GRATIS 1 CRIANÇA ATÉ 5 ANOS NA CAMA DOS PAIS / CANCELAMENTO OU NÃO COMPARECIMENTO ATÉ COM 48 HORAS DE ANTECEDÊNCIA - PERIODOS DE REVEILLON, CARNAVAL E ROCK IN RIO - TARIFA NÃO REEMBOLSAVELApartamento de 37m² com varanda privativa, vista para o jardim do hotel, lagoa ou piscina, um espaçoso banheiro com banheira e chuveiro independentes e mesa de trabalho"
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "4512565455",
+      "priority": 6,
+      "name": "HILTON RIO DE JANEIRO COPACABANA",
+      "description": "Todos os apartamentos são equipados com: ar condicionado central com controle individual (o ar condicionado desliga quando se abrem as janelas); frigobar, workstation com wi-fi e conexão a cabo, TVs de LCD entre 26 e 42 polegadas, TV por assinatura e cofre eletrônico privativo como cortesia.",
+      "isPreferential": true,
+      "location": {
+          "address": "Atlântica 1020   205 Rio DE Janeiro RJ BR 22010000 - ",
+          "coordinates": {
+              "latitude": "-22.9644311",
+              "longitude": "-43.1732856"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://www.cvc.com.br/images/449859.jpg"
+      },
+      "nearby": "Localizado em Frente a Praia de Copacabana",
+      "rooms": [{
+          "id": "1",
+          "description": "VISTA MAR|DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "mealPlan": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "category": "VISTA MAR",
+          "minGuests": 1,
+          "maxGuests": 3,
+          "quantityAvailable": 5,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlZJU1RBIE1BUiIgY2lkPSI0NTAwMSIgY21pPSI0NSIgY216PSI3MTEwIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGViaz0iIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGZlYj0iZmFsc2UiIGhvdD0iNDUxMjU2NTQ1NSIgbGFuPSJwdF9CUiIgbWtpPSI2MjcxIiBta3A9IjAuNjkwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSI0NTEyNTY1NDU1IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNDUiIHBsYz0iQlJMIiBwb3Q9IjE0NDAuMjEiIHBwdD0iVm91Y2hlciIgcHB5PSIxMjU2NTQ1NSIgcHJkPSJIT1QiIHB3dD0iMTQ0MC4yMSIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIxNTAwMDQ5MSIgcnBoPSIxIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMjA4Ny4yNiIgc3N0PSJTUCIgc3d0PSIyMDg3LjI2IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 73300,
+              "priceWithoutTax": 73300,
+              "pricePerDayWithTax": 24433.33,
+              "pricePerDayWithoutTax": 24433.33,
+              "pricePerGuestWithTax": 73300,
+              "pricePerGuestWithoutTax": 73300,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - TARIFA PROMOCIONAL - ACOMODA  ATÉ 2 ADULTOS - No caso de cancelamento apos 24hs antes do check in será cobrado 1 diaria do periodo, e garantia irrevogavel para periodos de Reveillon, Carnaval ou NO Sow.O horário de check-in é a partir das 15h00; o horário de check-out é até 12h00."
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlZJU1RBIE1BUiIgY2lkPSI0NTAwMSIgY21pPSI0NSIgY216PSI3MTEwIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGViaz0iIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGZlYj0iZmFsc2UiIGhvdD0iNDUxMjU2NTQ1NSIgbGFuPSJwdF9CUiIgbWtpPSI2MjcyMDk4IiBta3A9IjAuNzYwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSI0NTEyNTY1NDU1IiBwa2c9IlZISSIgcGxhPSI0NSIgcGxjPSJCUkwiIHBvdD0iMTQ0MC4yMSIgcHB0PSJWb3VjaGVyIiBwcHk9IjEyNTY1NDU1IiBwcmQ9IkhPVCIgcHd0PSIxNDQwLjIxIiBweG89IjMwIiBweHM9IjMwIiByb209IjE1MDAwNDkxIiBycGg9IjEiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIxODk1LjAxIiBzc3Q9IlNQIiBzd3Q9IjE4OTUuMDEiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 66500,
+              "priceWithoutTax": 66500,
+              "pricePerDayWithTax": 22166.67,
+              "pricePerDayWithoutTax": 22166.67,
+              "pricePerGuestWithTax": 66500,
+              "pricePerGuestWithoutTax": 66500,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - TARIFA PROMOCIONAL - ACOMODA  ATÉ 2 ADULTOS - No caso de cancelamento apos 24hs antes do check in será cobrado 1 diaria do periodo, e garantia irrevogavel para periodos de Reveillon, Carnaval ou NO Sow.O horário de check-in é a partir das 15h00; o horário de check-out é até 12h00."
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "385486",
+      "priority": 2,
+      "name": "Hotel Cruz de Ouro",
+      "isPreferential": false,
+      "awards": 3,
+      "location": {
+          "coordinates": {
+              "address": null,
+              "latitude": "-22,9110941",
+              "longitude": "-43,1911372"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://media.omnibees.com/Images/5486/Property/155056.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "41589|BedBreakfast|false|Hostel Single Banho/Compartilhado|Café da Manhã|false|115654|115654",
+          "mealPlan": "Café da Manhã",
+          "category": "Hostel Single Banho/Compartilhado",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": 3,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9Ikhvc3RlbCBTaW5nbGUgQmFuaG8vQ29tcGFydGlsaGFkbyIgY2lkPSIzODAwMSIgY21pPSIzOCIgY21wPSJCZWRCcmVha2Zhc3QiIGNtej0iNjcxMjcxMyIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGhvdD0iMzg1NDg2IiBsYW49InB0X0JSIiBta2k9IjYyNzEiIG1rcD0iMC42OTAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM4NTQ4NiIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjU2IiBwbGM9IkJSTCIgcG90PSIxMzEuNDAiIHBwdD0iVm91Y2hlciIgcHB5PSIxNDQwNjI0OSIgcHJkPSJIT1QiIHB3dD0iMTMxLjQwIiBweG89IjMwIiBweHM9IjMwIiByb209IjQxNTg5IiBycGg9IjEiIHJ0Yz0iMTE1NjU0IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMTkwLjQzIiBzc3Q9IlNQIiBzd3Q9IjE5MC40MyIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 6700,
+              "priceWithoutTax": 6700,
+              "pricePerDayWithTax": 2233.33,
+              "pricePerDayWithoutTax": 2233.33,
+              "pricePerGuestWithTax": 6700,
+              "pricePerGuestWithoutTax": 6700,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9Ikhvc3RlbCBTaW5nbGUgQmFuaG8vQ29tcGFydGlsaGFkbyIgY2lkPSIzODAwMSIgY21pPSIzOCIgY21wPSJCZWRCcmVha2Zhc3QiIGNtej0iNjcxMjcxMyIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGhvdD0iMzg1NDg2IiBsYW49InB0X0JSIiBta2k9IjYyNzIwOTgiIG1rcD0iMC43NjAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM4NTQ4NiIgcGtnPSJWSEkiIHBsYT0iNTYiIHBsYz0iQlJMIiBwb3Q9IjEzMS40MCIgcHB0PSJWb3VjaGVyIiBwcHk9IjE0NDA2MjQ5IiBwcmQ9IkhPVCIgcHd0PSIxMzEuNDAiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iNDE1ODkiIHJwaD0iMSIgcnRjPSIxMTU2NTQiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIxNzIuODkiIHNzdD0iU1AiIHN3dD0iMTcyLjg5IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 6100,
+              "priceWithoutTax": 6100,
+              "pricePerDayWithTax": 2033.33,
+              "pricePerDayWithoutTax": 2033.33,
+              "pricePerGuestWithTax": 6100,
+              "pricePerGuestWithoutTax": 6100,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "4510660023",
+      "priority": 6,
+      "name": "HOTEL AMERICANO",
+      "description": "Localizado no bairro da lapa, pertinho dos famosos Arcos da Lapa, no Rio Janeiro, o Hotel Americano fica a apenas 10 minutos de distância do Aeroporto Santos Dumont e a 15 minutinhos do pão de açúcar! A hospedagem oferece 24 quartos, que são divididos em 3 opções: triplo (que acomoda até três pessoas), individual (para uma ou duas pessoas) e duplo (para duas pessoas). Todos com ar-condicionado, TV a cabo, frigobar, cofre digital e mesa de trabalho. Além de ter estacionamento gratuito, ele oferece Wi-Fi grátis para você ficar sempre conectado.",
+      "isPreferential": false,
+      "awards": null,
+      "location": {
+          "address": "Joaquim Silva 69   205 Rio DE Janeiro RJ BR 20241110 - ",
+          "coordinates": {
+              "latitude": "-22.9158",
+              "longitude": "-43.1788066"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://www.cvc.com.br/images/451348.jpg"
+      },
+      "nearby": "Localizado no Bairro da Lapa",
+      "rooms": [{
+          "id": "1",
+          "description": "STANDARD - SINGLE|DIÁRIA(S) SEM CAFÉ DA MANHÃ",
+          "mealPlan": "DIÁRIA(S) SEM CAFÉ DA MANHÃ",
+          "category": "STANDARD - SINGLE",
+          "minGuests": 1,
+          "maxGuests": 1,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlNUQU5EQVJEIC0gU0lOR0xFIiBjaWQ9IjQ1MDAxIiBjbWk9IjQ1IiBjbXo9IjcxMTAiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWJrPSIiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI0NTEwNjYwMDIzIiBsYW49InB0X0JSIiBta2k9IjYyNzEiIG1rcD0iMC42OTAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjQ1MTA2NjAwMjMiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI0NSIgcGxjPSJCUkwiIHBvdD0iMTgwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTA2NjAwMjMiIHByZD0iSE9UIiBwd3Q9IjE4MCIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSI2MTQ2NjY1IiBycGg9IjEiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIyNjAuODciIHNzdD0iU1AiIHN3dD0iMjYwLjg3IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 9200,
+              "priceWithoutTax": 9200,
+              "pricePerDayWithTax": 3066.67,
+              "pricePerDayWithoutTax": 3066.67,
+              "pricePerGuestWithTax": 9200,
+              "pricePerGuestWithoutTax": 9200,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) SEM CAFÉ DA MANHÃ - CANCELAMENTO ATE 24 HORAS ANTES DO CHECK-IN, PACOTES, REVEILLON, CARNAVAL, FERIADOS NÃO REEMBOLSAVEL.  Check-in as 13:00 e Check-out até 12:00\n"
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlNUQU5EQVJEIC0gU0lOR0xFIiBjaWQ9IjQ1MDAxIiBjbWk9IjQ1IiBjbXo9IjcxMTAiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWJrPSIiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI0NTEwNjYwMDIzIiBsYW49InB0X0JSIiBta2k9IjYyNzIwOTgiIG1rcD0iMC43NjAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjQ1MTA2NjAwMjMiIHBrZz0iVkhJIiBwbGE9IjQ1IiBwbGM9IkJSTCIgcG90PSIxODAiIHBwdD0iVm91Y2hlciIgcHB5PSIxMDY2MDAyMyIgcHJkPSJIT1QiIHB3dD0iMTgwIiBweG89IjMwIiBweHM9IjMwIiByb209IjYxNDY2NjUiIHJwaD0iMSIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjIzNi44NCIgc3N0PSJTUCIgc3d0PSIyMzYuODQiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 8400,
+              "priceWithoutTax": 8400,
+              "pricePerDayWithTax": 2800,
+              "pricePerDayWithoutTax": 2800,
+              "pricePerGuestWithTax": 8400,
+              "pricePerGuestWithoutTax": 8400,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) SEM CAFÉ DA MANHÃ - CANCELAMENTO ATE 24 HORAS ANTES DO CHECK-IN, PACOTES, REVEILLON, CARNAVAL, FERIADOS NÃO REEMBOLSAVEL.  Check-in as 13:00 e Check-out até 12:00\n"
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "385490",
+      "priority": 2,
+      "name": "Downtown Santana Hotel",
+      "description": null,
+      "awards": 3,
+      "isPreferential": false,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,9084006",
+              "longitude": "-43,1936983"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://media.omnibees.com/Images/5490/Property/272350.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "34097|BedBreakfast|false|Quarto Individual Econômico|Café da Manhã|false|73620|73620",
+          "mealPlan": "Café da Manhã",
+          "category": "Quarto Individual Econômico",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": 3,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBJbmRpdmlkdWFsIEVjb27DtG1pY28iIGNpZD0iMzgwMDEiIGNtaT0iMzgiIGNtcD0iQmVkQnJlYWtmYXN0IiBjbXo9IjY3MTI3MTMiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBob3Q9IjM4NTQ5MCIgbGFuPSJwdF9CUiIgbWtpPSI2MjcxIiBta3A9IjAuNjkwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODU0OTAiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMTk3LjEwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQ0NDU2OTAiIHByZD0iSE9UIiBwd3Q9IjE5Ny4xMCIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIzNDA5NyIgcnBoPSIxIiBydGM9IjczNjIwIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMjg1LjY1IiBzc3Q9IlNQIiBzd3Q9IjI4NS42NSIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 10100,
+              "priceWithoutTax": 10100,
+              "pricePerDayWithTax": 3366.67,
+              "pricePerDayWithoutTax": 3366.67,
+              "pricePerGuestWithTax": 10100,
+              "pricePerGuestWithoutTax": 10100,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBJbmRpdmlkdWFsIEVjb27DtG1pY28iIGNpZD0iMzgwMDEiIGNtaT0iMzgiIGNtcD0iQmVkQnJlYWtmYXN0IiBjbXo9IjY3MTI3MTMiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBob3Q9IjM4NTQ5MCIgbGFuPSJwdF9CUiIgbWtpPSI2MjcyMDk4IiBta3A9IjAuNzYwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODU0OTAiIHBrZz0iVkhJIiBwbGE9IjU2IiBwbGM9IkJSTCIgcG90PSIxOTcuMTAiIHBwdD0iVm91Y2hlciIgcHB5PSIxNDQ0NTY5MCIgcHJkPSJIT1QiIHB3dD0iMTk3LjEwIiBweG89IjMwIiBweHM9IjMwIiByb209IjM0MDk3IiBycGg9IjEiIHJ0Yz0iNzM2MjAiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIyNTkuMzQiIHNzdD0iU1AiIHN3dD0iMjU5LjM0IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 9100,
+              "priceWithoutTax": 9100,
+              "pricePerDayWithTax": 3033.33,
+              "pricePerDayWithoutTax": 3033.33,
+              "pricePerGuestWithTax": 9100,
+              "pricePerGuestWithoutTax": 9100,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "594929",
+      "priority": 7,
+      "name": "Hotel Atlantico Avenida",
+      "description": null,
+      "awards": 3,
+      "isPreferential": false,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,8989591",
+              "longitude": "-43,1818689"
+          }
+      },
+      "images": {
+          "thumbnailImage": "https://omni-img-server-pull.services.cvc.com.br/Images/4929/Property/51510.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "12482|BedBreakfast|false|Standard Cama Solteiro|Café da Manhã|false|11465|11465",
+          "mealPlan": "Café da Manhã",
+          "category": "Standard Cama Solteiro",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": 1,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIENhbWEgU29sdGVpcm8iIGNpZD0iNTkwMDEiIGNtaT0iNTkiIGNtcD0iQmVkQnJlYWtmYXN0IiBjbXo9IjY3MTI3MTMiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBmZWI9ImZhbHNlIiBob3Q9IjU5NDkyOSIgbGFuPSJwdF9CUiIgbWtpPSI2Mjc0Mzg4IiBta3A9IjAuNjkwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSI1OTQ5MjkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMTk4LjQ1IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyOTA0MDAiIHByZD0iSE9UIiBwd3Q9IjE5OC40NSIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIxMjQ4MiIgcnBoPSIxIiBydGM9IjExNDY1IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMjg3LjYxIiBzc3Q9IlNQIiBzd3Q9IjI4Ny42MSIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 10100,
+              "priceWithoutTax": 10100,
+              "pricePerDayWithTax": 3366.67,
+              "pricePerDayWithoutTax": 3366.67,
+              "pricePerGuestWithTax": 10100,
+              "pricePerGuestWithoutTax": 10100,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIENhbWEgU29sdGVpcm8iIGNpZD0iNTkwMDEiIGNtaT0iNTkiIGNtcD0iQmVkQnJlYWtmYXN0IiBjbXo9IjY3MTI3MTMiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBmZWI9ImZhbHNlIiBob3Q9IjU5NDkyOSIgbGFuPSJwdF9CUiIgbWtpPSI2Mjc0Mzg5IiBta3A9IjAuNzYwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSI1OTQ5MjkiIHBrZz0iVkhJIiBwbGE9IjU2IiBwbGM9IkJSTCIgcG90PSIxOTguNDUiIHBwdD0iVm91Y2hlciIgcHB5PSIxNDI5MDQwMCIgcHJkPSJIT1QiIHB3dD0iMTk4LjQ1IiBweG89IjMwIiBweHM9IjMwIiByb209IjEyNDgyIiBycGg9IjEiIHJ0Yz0iMTE0NjUiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIyNjEuMTIiIHNzdD0iU1AiIHN3dD0iMjYxLjEyIiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 9200,
+              "priceWithoutTax": 9200,
+              "pricePerDayWithTax": 3066.67,
+              "pricePerDayWithoutTax": 3066.67,
+              "pricePerGuestWithTax": 9200,
+              "pricePerGuestWithoutTax": 9200,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "592852",
+      "priority": 7,
+      "name": "POMPEU RIO HOTEL",
+      "description": null,
+      "awards": 3,
+      "isPreferential": false,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,8993469",
+              "longitude": "-43,1873556"
+          }
+      },
+      "images": {
+          "thumbnailImage": "https://omni-img-server-pull.services.cvc.com.br/Images/2852/Property/60703.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "VISTA MAR|DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "mealPlan": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "category": "VISTA MAR",
+          "minGuests": 1,
+          "maxGuests": 3,
+          "quantityAvailable": 5,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIiBjaWQ9IjU5MDAxIiBjbWk9IjU5IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI1OTI4NTIiIGxhbj0icHRfQlIiIG1raT0iNjI3NDM4OCIgbWtwPSIwLjY5MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iNTkyODUyIiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTYiIHBsYz0iQlJMIiBwb3Q9IjIzNy4wMCIgcHB0PSJWb3VjaGVyIiBwcHk9IjkwNzcwMjUiIHByZD0iSE9UIiBwd3Q9IjIzNy4wMCIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIyMzYwNSIgcnBoPSIxIiBydGM9IjExNjE0IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMzQzLjQ4IiBzc3Q9IlNQIiBzd3Q9IjM0My40OCIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 12100,
+              "priceWithoutTax": 12100,
+              "pricePerDayWithTax": 4033.33,
+              "pricePerDayWithoutTax": 4033.33,
+              "pricePerGuestWithTax": 12100,
+              "pricePerGuestWithoutTax": 12100,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIiBjaWQ9IjU5MDAxIiBjbWk9IjU5IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI1OTI4NTIiIGxhbj0icHRfQlIiIG1raT0iNjI3NDM4OSIgbWtwPSIwLjc2MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iNTkyODUyIiBwa2c9IlZISSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjM3LjAwIiBwcHQ9IlZvdWNoZXIiIHBweT0iOTA3NzAyNSIgcHJkPSJIT1QiIHB3dD0iMjM3LjAwIiBweG89IjMwIiBweHM9IjMwIiByb209IjIzNjA1IiBycGg9IjEiIHJ0Yz0iMTE2MTQiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIzMTEuODQiIHNzdD0iU1AiIHN3dD0iMzExLjg0IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 11000,
+              "priceWithoutTax": 11000,
+              "pricePerDayWithTax": 3666.67,
+              "pricePerDayWithoutTax": 3666.67,
+              "pricePerGuestWithTax": 11000,
+              "pricePerGuestWithoutTax": 11000,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "383524",
+      "priority": 2,
+      "name": "Gamboa Rio Hotel",
+      "description": null,
+      "awards": 3,
+      "isPreferential": false,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,89944",
+              "longitude": "-43,18861"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://media.omnibees.com/Images/3524/Property/156501.jpg"
+      },
+      "nearby": "Localizado a Barra da Tijuca no centro corporativo",
+      "rooms": [{
+          "id": "1",
+          "description": "11616|BedBreakfast|false|Standard Duplo|Café da Manhã|false|55603|55603",
+          "mealPlan": "Café da Manhã",
+          "category": "Standard Duplo",
+          "minGuests": 1,
+          "maxGuests": 2,
+          "quantityAvailable": 2,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIER1cGxvIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgaG90PSIzODM1MjQiIGxhbj0icHRfQlIiIG1raT0iNjI3MSIgbWtwPSIwLjY5MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMzgzNTI0IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTYiIHBsYz0iQlJMIiBwb3Q9IjIyOC45MyIgcHB0PSJWb3VjaGVyIiBwcHk9IjkwNzc2MjUiIHByZD0iSE9UIiBwd3Q9IjI0MC4zOCIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIxMTYxNiIgcnBoPSIxIiBydGM9IjU1NjAzIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMzMxLjc4IiBzc3Q9IlNQIiBzd3Q9IjM0OC4zOCIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 12300,
+              "priceWithoutTax": 11700,
+              "pricePerDayWithTax": 4100,
+              "pricePerDayWithoutTax": 3900,
+              "pricePerGuestWithTax": 12300,
+              "pricePerGuestWithoutTax": 11700,
+              "taxes": [{
+                  "description": "Taxa de 5% de ISS",
+                  "percent": 5,
+                  "amount": 11.4465
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIER1cGxvIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgaG90PSIzODM1MjQiIGxhbj0icHRfQlIiIG1raT0iNjI3MjA5OCIgbWtwPSIwLjc2MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMzgzNTI0IiBwa2c9IlZISSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjI4LjkzIiBwcHQ9IlZvdWNoZXIiIHBweT0iOTA3NzYyNSIgcHJkPSJIT1QiIHB3dD0iMjQwLjM4IiBweG89IjMwIiBweHM9IjMwIiByb209IjExNjE2IiBycGg9IjEiIHJ0Yz0iNTU2MDMiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIzMDEuMjIiIHNzdD0iU1AiIHN3dD0iMzE2LjI5IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 11100,
+              "priceWithoutTax": 10600,
+              "pricePerDayWithTax": 3700,
+              "pricePerDayWithoutTax": 3533.33,
+              "pricePerGuestWithTax": 11100,
+              "pricePerGuestWithoutTax": 10600,
+              "taxes": [{
+                  "description": "Taxa de 5% de ISS",
+                  "percent": 5,
+                  "amount": 11.4465
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "383525",
+      "priority": 2,
+      "name": "Pompeu Rio Hotel",
+      "description": null,
+      "awards": 3,
+      "isPreferential": false,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,89944",
+              "longitude": "-43,1875"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://media.omnibees.com/Images/3525/Property/86919.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "11622|BedBreakfast|false|Standard Duplo|Café da Manhã|false|55601|55601",
+          "mealPlan": "Café da Manhã",
+          "category": "Standard Duplo",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": 5,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIER1cGxvIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgaG90PSIzODM1MjUiIGxhbj0icHRfQlIiIG1raT0iNjI3MSIgbWtwPSIwLjY5MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMzgzNTI1IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTYiIHBsYz0iQlJMIiBwb3Q9IjIyOC45MyIgcHB0PSJWb3VjaGVyIiBwcHk9IjkwNzcwMjUiIHByZD0iSE9UIiBwd3Q9IjI0MC4zOCIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIxMTYyMiIgcnBoPSIxIiBydGM9IjU1NjAxIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMzMxLjc4IiBzc3Q9IlNQIiBzd3Q9IjM0OC4zOCIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 12300,
+              "priceWithoutTax": 11700,
+              "pricePerDayWithTax": 4100,
+              "pricePerDayWithoutTax": 3900,
+              "pricePerGuestWithTax": 12300,
+              "pricePerGuestWithoutTax": 11700,
+              "taxes": [{
+                  "description": "Imposto sobre serviços",
+                  "percent": 5,
+                  "amount": 11.4465
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIER1cGxvIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgaG90PSIzODM1MjUiIGxhbj0icHRfQlIiIG1raT0iNjI3MjA5OCIgbWtwPSIwLjc2MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMzgzNTI1IiBwa2c9IlZISSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjI4LjkzIiBwcHQ9IlZvdWNoZXIiIHBweT0iOTA3NzAyNSIgcHJkPSJIT1QiIHB3dD0iMjQwLjM4IiBweG89IjMwIiBweHM9IjMwIiByb209IjExNjIyIiBycGg9IjEiIHJ0Yz0iNTU2MDEiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIzMDEuMjIiIHNzdD0iU1AiIHN3dD0iMzE2LjI5IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 11100,
+              "priceWithoutTax": 10600,
+              "pricePerDayWithTax": 3700,
+              "pricePerDayWithoutTax": 3533.33,
+              "pricePerGuestWithTax": 11100,
+              "pricePerGuestWithoutTax": 10600,
+              "taxes": [{
+                  "description": "Imposto sobre serviços",
+                  "percent": 5,
+                  "amount": 11.4465
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "4510663610",
+      "priority": 6,
+      "name": "HOTEL GALICIA",
+      "description": "Perto do centro da cidade, o Hotel Galicia oferece fácil acesso a empresas, centros de convenções e ao estádio do Maracanã. Aproveite a praticidade e o conforto dos quartos equipados com ar-condicionado, frigobar, cofre e internet wi-fi. Em cerca de 20 minutos de carro você chegará a pontos turísticos como o Pão de Açúcar e a praia de Copacabana.",
+      "isPreferential": false,
+      "awards": null,
+      "location": {
+          "address": "Rua Carlos DE Carvalho 6  Centro 205 Rio DE Janeiro RJ BR 20230180 - ",
+          "coordinates": {
+              "latitude": "-22.9105295",
+              "longitude": "-43.1872981"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://www.cvc.com.br/images/384029.jpg"
+      },
+      "nearby": "Situado no centro do Rio de Janeiro.",
+      "rooms": [{
+          "id": "1",
+          "description": "STANDARD TWIN|DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "mealPlan": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "category": "STANDARD TWIN",
+          "minGuests": 1,
+          "maxGuests": 4,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlNUQU5EQVJEIFRXSU4iIGNpZD0iNDUwMDEiIGNtaT0iNDUiIGNtej0iNzExMCIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlYms9IiIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBmZWI9ImZhbHNlIiBob3Q9IjQ1MTA2NjM2MTAiIGxhbj0icHRfQlIiIG1raT0iNjI3MSIgbWtwPSIwLjY5MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iNDUxMDY2MzYxMCIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjQ1IiBwbGM9IkJSTCIgcG90PSIyNDAiIHBwdD0iVm91Y2hlciIgcHB5PSIxMDY2MzYxMCIgcHJkPSJIT1QiIHB3dD0iMjQwIiBweG89IjMwIiBweHM9IjMwIiByb209IjYxMzg3MjMiIHJwaD0iMSIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjM0Ny44MyIgc3N0PSJTUCIgc3d0PSIzNDcuODMiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 12300,
+              "priceWithoutTax": 12300,
+              "pricePerDayWithTax": 4100,
+              "pricePerDayWithoutTax": 4100,
+              "pricePerGuestWithTax": 12300,
+              "pricePerGuestWithoutTax": 12300,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - CANCELAMENTO PERMITIDO ATE 24 HORAS DE ANTECEDENCIA EXCETO CARNAVAL E REVEILLON CANCELAMENTO PERMITIDO ATE 30 DIAS ANTES, APOS NAO REEMBOLSAVEL. UMA CRIANÇA CORTESIA ATE 3 ANOS NA MESMA CAMA DOS PAIS."
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlNUQU5EQVJEIFRXSU4iIGNpZD0iNDUwMDEiIGNtaT0iNDUiIGNtej0iNzExMCIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlYms9IiIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBmZWI9ImZhbHNlIiBob3Q9IjQ1MTA2NjM2MTAiIGxhbj0icHRfQlIiIG1raT0iNjI3MjA5OCIgbWtwPSIwLjc2MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iNDUxMDY2MzYxMCIgcGtnPSJWSEkiIHBsYT0iNDUiIHBsYz0iQlJMIiBwb3Q9IjI0MCIgcHB0PSJWb3VjaGVyIiBwcHk9IjEwNjYzNjEwIiBwcmQ9IkhPVCIgcHd0PSIyNDAiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iNjEzODcyMyIgcnBoPSIxIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMzE1Ljc5IiBzc3Q9IlNQIiBzd3Q9IjMxNS43OSIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 11100,
+              "priceWithoutTax": 11100,
+              "pricePerDayWithTax": 3700,
+              "pricePerDayWithoutTax": 3700,
+              "pricePerGuestWithTax": 11100,
+              "pricePerGuestWithoutTax": 11100,
+              "contents": [{
+                  "code": "description-agreement",
+                  "name": "Description Agreement",
+                  "description": "DIÁRIA(S) COM CAFÉ DA MANHÃ - CANCELAMENTO PERMITIDO ATE 24 HORAS DE ANTECEDENCIA EXCETO CARNAVAL E REVEILLON CANCELAMENTO PERMITIDO ATE 30 DIAS ANTES, APOS NAO REEMBOLSAVEL. UMA CRIANÇA CORTESIA ATE 3 ANOS NA MESMA CAMA DOS PAIS."
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "594130",
+      "priority": 7,
+      "name": "HOTEL MONTE CASTELO RIO DE JANEIRO",
+      "description": null,
+      "isPreferential": false,
+      "awards": 2,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,9197826",
+              "longitude": "-43,1790877"
+          }
+      },
+      "images": {
+          "thumbnailImage": "https://omni-img-server-pull.services.cvc.com.br/Images/4130/Property/34565.jpg"
+      },
+      "nearby": "Localizado em Frente a Praia de Copacabana",
+      "rooms": [{
+          "id": "1",
+          "description": "12253|BedBreakfast|false|Executivo Casal|Café da Manhã|false|12378|12378",
+          "mealPlan": "Café da Manhã",
+          "category": "Executivo Casal",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": 3,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IkV4ZWN1dGl2byBDYXNhbCIgY2lkPSI1OTAwMSIgY21pPSI1OSIgY21wPSJCZWRCcmVha2Zhc3QiIGNtej0iNjcxMjcxMyIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGZlYj0iZmFsc2UiIGhvdD0iNTk0MTMwIiBsYW49InB0X0JSIiBta2k9IjYyNzQzODgiIG1rcD0iMC42OTAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjU5NDEzMCIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjU2IiBwbGM9IkJSTCIgcG90PSIyNTUuMDAiIHBwdD0iVm91Y2hlciIgcHB5PSIxMDg0NTgwMSIgcHJkPSJIT1QiIHB3dD0iMjU1LjAwIiBweG89IjMwIiBweHM9IjMwIiByb209IjEyMjUzIiBycGg9IjEiIHJ0Yz0iMTIzNzgiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIzNjkuNTciIHNzdD0iU1AiIHN3dD0iMzY5LjU3IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 13000,
+              "priceWithoutTax": 13000,
+              "pricePerDayWithTax": 4333.33,
+              "pricePerDayWithoutTax": 4333.33,
+              "pricePerGuestWithTax": 13000,
+              "pricePerGuestWithoutTax": 13000,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IkV4ZWN1dGl2byBDYXNhbCIgY2lkPSI1OTAwMSIgY21pPSI1OSIgY21wPSJCZWRCcmVha2Zhc3QiIGNtej0iNjcxMjcxMyIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGZlYj0iZmFsc2UiIGhvdD0iNTk0MTMwIiBsYW49InB0X0JSIiBta2k9IjYyNzQzODkiIG1rcD0iMC43NjAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjU5NDEzMCIgcGtnPSJWSEkiIHBsYT0iNTYiIHBsYz0iQlJMIiBwb3Q9IjI1NS4wMCIgcHB0PSJWb3VjaGVyIiBwcHk9IjEwODQ1ODAxIiBwcmQ9IkhPVCIgcHd0PSIyNTUuMDAiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iMTIyNTMiIHJwaD0iMSIgcnRjPSIxMjM3OCIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjMzNS41MyIgc3N0PSJTUCIgc3d0PSIzMzUuNTMiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 11800,
+              "priceWithoutTax": 11800,
+              "pricePerDayWithTax": 3933.33,
+              "pricePerDayWithoutTax": 3933.33,
+              "pricePerGuestWithTax": 11800,
+              "pricePerGuestWithoutTax": 11800,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "382633",
+      "priority": 2,
+      "name": "Hotel Monte Alegre ",
+      "description": null,
+      "isPreferential": false,
+      "awards": null,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,9150865",
+              "longitude": "-43,1875239"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://media.omnibees.com/Images/2633/Property/200697.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "8507|BedBreakfast|false|STANDARD |Café da Manhã|false|46209|46209",
+          "mealPlan": "Café da Manhã",
+          "category": "STANDARD ",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlNUQU5EQVJEICIgY2lkPSIzODAwMSIgY21pPSIzOCIgY21wPSJCZWRCcmVha2Zhc3QiIGNtej0iNjcxMjcxMyIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGhvdD0iMzgyNjMzIiBsYW49InB0X0JSIiBta2k9IjYyNzEiIG1rcD0iMC42OTAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM4MjYzMyIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjU2IiBwbGM9IkJSTCIgcG90PSIyNTIuMDAiIHBwdD0iVm91Y2hlciIgcHB5PSI1MjM1NDA3IiBwcmQ9IkhPVCIgcHd0PSIyNjQuNjAiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iODUwNyIgcnBoPSIxIiBydGM9IjQ2MjA5IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMzY1LjIyIiBzc3Q9IlNQIiBzd3Q9IjM4My40OCIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 13500,
+              "priceWithoutTax": 12900,
+              "pricePerDayWithTax": 4500,
+              "pricePerDayWithoutTax": 4300,
+              "pricePerGuestWithTax": 13500,
+              "pricePerGuestWithoutTax": 12900,
+              "taxes": [{
+                  "description": "Será cobrada taxa de ISS de 5%",
+                  "percent": 5,
+                  "amount": 12.6
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlNUQU5EQVJEICIgY2lkPSIzODAwMSIgY21pPSIzOCIgY21wPSJCZWRCcmVha2Zhc3QiIGNtej0iNjcxMjcxMyIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGhvdD0iMzgyNjMzIiBsYW49InB0X0JSIiBta2k9IjYyNzIwOTgiIG1rcD0iMC43NjAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM4MjYzMyIgcGtnPSJWSEkiIHBsYT0iNTYiIHBsYz0iQlJMIiBwb3Q9IjI1Mi4wMCIgcHB0PSJWb3VjaGVyIiBwcHk9IjUyMzU0MDciIHByZD0iSE9UIiBwd3Q9IjI2NC42MCIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSI4NTA3IiBycGg9IjEiIHJ0Yz0iNDYyMDkiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIzMzEuNTgiIHNzdD0iU1AiIHN3dD0iMzQ4LjE2IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 12300,
+              "priceWithoutTax": 11700,
+              "pricePerDayWithTax": 4100,
+              "pricePerDayWithoutTax": 3900,
+              "pricePerGuestWithTax": 12300,
+              "pricePerGuestWithoutTax": 11700,
+              "taxes": [{
+                  "description": "Será cobrada taxa de ISS de 5%",
+                  "percent": 5,
+                  "amount": 12.6
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "386011",
+      "priority": 2,
+      "name": "Hotel Villa Rica ",
+      "description": null,
+      "isPreferential": false,
+      "awards": 3,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,9163811779485",
+              "longitude": "-43,1779365196447"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://media.omnibees.com/Images/6011/Property/199187.jpg"
+      },
+      "rooms": [{
+          "id": "1",
+          "description": "37707|BedBreakfast|false|Individual|Café da Manhã|false|100674|100674",
+          "mealPlan": "Café da Manhã",
+          "category": "Individual",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": 4,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IkluZGl2aWR1YWwiIGNpZD0iMzgwMDEiIGNtaT0iMzgiIGNtcD0iQmVkQnJlYWtmYXN0IiBjbXo9IjY3MTI3MTMiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBob3Q9IjM4NjAxMSIgbGFuPSJwdF9CUiIgbWtpPSI2MjcxIiBta3A9IjAuNjkwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODYwMTEiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjY3Ljc1IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTE1MzczOTQiIHByZD0iSE9UIiBwd3Q9IjI2Ny43NSIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIzNzcwNyIgcnBoPSIxIiBydGM9IjEwMDY3NCIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjM4OC4wNCIgc3N0PSJTUCIgc3d0PSIzODguMDQiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 13700,
+              "priceWithoutTax": 13700,
+              "pricePerDayWithTax": 4566.67,
+              "pricePerDayWithoutTax": 4566.67,
+              "pricePerGuestWithTax": 13700,
+              "pricePerGuestWithoutTax": 13700,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IkluZGl2aWR1YWwiIGNpZD0iMzgwMDEiIGNtaT0iMzgiIGNtcD0iQmVkQnJlYWtmYXN0IiBjbXo9IjY3MTI3MTMiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBob3Q9IjM4NjAxMSIgbGFuPSJwdF9CUiIgbWtpPSI2MjcyMDk4IiBta3A9IjAuNzYwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODYwMTEiIHBrZz0iVkhJIiBwbGE9IjU2IiBwbGM9IkJSTCIgcG90PSIyNjcuNzUiIHBwdD0iVm91Y2hlciIgcHB5PSIxMTUzNzM5NCIgcHJkPSJIT1QiIHB3dD0iMjY3Ljc1IiBweG89IjMwIiBweHM9IjMwIiByb209IjM3NzA3IiBycGg9IjEiIHJ0Yz0iMTAwNjc0IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMzUyLjMwIiBzc3Q9IlNQIiBzd3Q9IjM1Mi4zMCIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 12400,
+              "priceWithoutTax": 12400,
+              "pricePerDayWithTax": 4133.33,
+              "pricePerDayWithoutTax": 4133.33,
+              "pricePerGuestWithTax": 12400,
+              "pricePerGuestWithoutTax": 12400,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "59123",
+      "priority": 7,
+      "name": "Hotel Carioca",
+      "description": null,
+      "awards": 2,
+      "isPreferential": false,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,9106207",
+              "longitude": "-43,1840558"
+          }
+      },
+      "images": {
+          "thumbnailImage": "https://omni-img-server-pull.services.cvc.com.br/Images/123/Property/992.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "153|BedBreakfast|false|Apartamento|Café da Manhã|false|969|969",
+          "mealPlan": "Café da Manhã",
+          "category": "Apartamento",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IkFwYXJ0YW1lbnRvIiBjaWQ9IjU5MDAxIiBjbWk9IjU5IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI1OTEyMyIgbGFuPSJwdF9CUiIgbWtpPSI2Mjc0Mzg4IiBta3A9IjAuNjkwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSI1OTEyMyIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjU2IiBwbGM9IkJSTCIgcG90PSIyNzAuMDAiIHBwdD0iVm91Y2hlciIgcHB5PSIxMjk4MzkwMSIgcHJkPSJIT1QiIHB3dD0iMjcwLjAwIiBweG89IjMwIiBweHM9IjMwIiByb209IjE1MyIgcnBoPSIxIiBydGM9Ijk2OSIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjM5MS4zMCIgc3N0PSJTUCIgc3d0PSIzOTEuMzAiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 13800,
+              "priceWithoutTax": 13800,
+              "pricePerDayWithTax": 4600,
+              "pricePerDayWithoutTax": 4600,
+              "pricePerGuestWithTax": 13800,
+              "pricePerGuestWithoutTax": 13800,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IkFwYXJ0YW1lbnRvIiBjaWQ9IjU5MDAxIiBjbWk9IjU5IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI1OTEyMyIgbGFuPSJwdF9CUiIgbWtpPSI2Mjc0Mzg5IiBta3A9IjAuNzYwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSI1OTEyMyIgcGtnPSJWSEkiIHBsYT0iNTYiIHBsYz0iQlJMIiBwb3Q9IjI3MC4wMCIgcHB0PSJWb3VjaGVyIiBwcHk9IjEyOTgzOTAxIiBwcmQ9IkhPVCIgcHd0PSIyNzAuMDAiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iMTUzIiBycGg9IjEiIHJ0Yz0iOTY5IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMzU1LjI2IiBzc3Q9IlNQIiBzd3Q9IjM1NS4yNiIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 12500,
+              "priceWithoutTax": 12500,
+              "pricePerDayWithTax": 4166.67,
+              "pricePerDayWithoutTax": 4166.67,
+              "pricePerGuestWithTax": 12500,
+              "pricePerGuestWithoutTax": 12500,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "59107",
+      "priority": 7,
+      "name": "Pouso Real",
+      "description": null,
+      "awards": 3,
+      "isPreferential": false,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,9124272",
+              "longitude": "-43,1835785"
+          }
+      },
+      "images": {
+          "thumbnailImage": "https://omni-img-server-pull.services.cvc.com.br/Images/107/Property/878.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "131|BedBreakfast|false|Standard Cama de Solteiro|Café da Manhã|false|692|692",
+          "mealPlan": "Café da Manhã",
+          "category": "Standard Cama de Solteiro",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIENhbWEgZGUgU29sdGVpcm8iIGNpZD0iNTkwMDEiIGNtaT0iNTkiIGNtcD0iQmVkQnJlYWtmYXN0IiBjbXo9IjY3MTI3MTMiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBmZWI9ImZhbHNlIiBob3Q9IjU5MTA3IiBsYW49InB0X0JSIiBta2k9IjYyNzQzODgiIG1rcD0iMC42OTAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjU5MTA3IiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTYiIHBsYz0iQlJMIiBwb3Q9IjI3Mi4yNSIgcHB0PSJWb3VjaGVyIiBwcHk9IjUxMDEwNjgiIHByZD0iSE9UIiBwd3Q9IjI3Mi4yNSIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIxMzEiIHJwaD0iMSIgcnRjPSI2OTIiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIzOTQuNTciIHNzdD0iU1AiIHN3dD0iMzk0LjU3IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 13900,
+              "priceWithoutTax": 13900,
+              "pricePerDayWithTax": 4633.33,
+              "pricePerDayWithoutTax": 4633.33,
+              "pricePerGuestWithTax": 13900,
+              "pricePerGuestWithoutTax": 13900,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIENhbWEgZGUgU29sdGVpcm8iIGNpZD0iNTkwMDEiIGNtaT0iNTkiIGNtcD0iQmVkQnJlYWtmYXN0IiBjbXo9IjY3MTI3MTMiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBmZWI9ImZhbHNlIiBob3Q9IjU5MTA3IiBsYW49InB0X0JSIiBta2k9IjYyNzQzODkiIG1rcD0iMC43NjAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjU5MTA3IiBwa2c9IlZISSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjcyLjI1IiBwcHQ9IlZvdWNoZXIiIHBweT0iNTEwMTA2OCIgcHJkPSJIT1QiIHB3dD0iMjcyLjI1IiBweG89IjMwIiBweHM9IjMwIiByb209IjEzMSIgcnBoPSIxIiBydGM9IjY5MiIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjM1OC4yMiIgc3N0PSJTUCIgc3d0PSIzNTguMjIiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 12600,
+              "priceWithoutTax": 12600,
+              "pricePerDayWithTax": 4200,
+              "pricePerDayWithoutTax": 4200,
+              "pricePerGuestWithTax": 12600,
+              "pricePerGuestWithoutTax": 12600,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "384810",
+      "priority": 7,
+      "name": "Hotel Riazor Plaza",
+      "description": null,
+      "awards": 3,
+      "isPreferential": false,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,9263098",
+              "longitude": "-43,1768916"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://media.omnibees.com/Images/4810/Property/170729.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "28638|BedBreakfast|true|Quarto Solteiro|Café da Manhã|true|79855|79855",
+          "mealPlan": "Café da Manhã",
+          "category": "Quarto Solteiro",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBTb2x0ZWlybyIgY2lkPSIzODAwMSIgY21pPSIzOCIgY21wPSJCZWRCcmVha2Zhc3QiIGNtej0iNjcxMjcxMyIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGhvdD0iMzg0ODEwIiBsYW49InB0X0JSIiBta2k9IjYyNzEiIG1rcD0iMC42OTAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM4NDgxMCIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjU2IiBwbGM9IkJSTCIgcG90PSIyOTIuOTUiIHBwdD0iVm91Y2hlciIgcHB5PSIxMjM3MTcxNCIgcHJkPSJIT1QiIHB3dD0iMjkyLjk1IiBweG89IjMwIiBweHM9IjMwIiByb209IjI4NjM4IiBycGg9IjEiIHJ0Yz0iNzk4NTUiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSI0MjQuNTciIHNzdD0iU1AiIHN3dD0iNDI0LjU3IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 14900,
+              "priceWithoutTax": 14900,
+              "pricePerDayWithTax": 4966.67,
+              "pricePerDayWithoutTax": 4966.67,
+              "pricePerGuestWithTax": 14900,
+              "pricePerGuestWithoutTax": 14900,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBTb2x0ZWlybyIgY2lkPSIzODAwMSIgY21pPSIzOCIgY21wPSJCZWRCcmVha2Zhc3QiIGNtej0iNjcxMjcxMyIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGhvdD0iMzg0ODEwIiBsYW49InB0X0JSIiBta2k9IjYyNzIwOTgiIG1rcD0iMC43NjAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjM4NDgxMCIgcGtnPSJWSEkiIHBsYT0iNTYiIHBsYz0iQlJMIiBwb3Q9IjI5Mi45NSIgcHB0PSJWb3VjaGVyIiBwcHk9IjEyMzcxNzE0IiBwcmQ9IkhPVCIgcHd0PSIyOTIuOTUiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iMjg2MzgiIHJwaD0iMSIgcnRjPSI3OTg1NSIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjM4NS40NiIgc3N0PSJTUCIgc3d0PSIzODUuNDYiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 13600,
+              "priceWithoutTax": 13600,
+              "pricePerDayWithTax": 4533.33,
+              "pricePerDayWithoutTax": 4533.33,
+              "pricePerGuestWithTax": 13600,
+              "pricePerGuestWithoutTax": 13600,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "5954",
+      "priority": 7,
+      "name": "Hotel Vina Del Mar",
+      "description": null,
+      "awards": 3,
+      "isPreferential": false,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,9160778",
+              "longitude": "-43,1787018"
+          }
+      },
+      "images": {
+          "thumbnailImage": "https://omni-img-server-pull.services.cvc.com.br/Images/54/Property/423.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "66|BedBreakfast|false|Standard Casal|Café da Manhã|false|12621|12621",
+          "mealPlan": "Café da Manhã",
+          "category": "Standard Casal",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIENhc2FsIiBjaWQ9IjU5MDAxIiBjbWk9IjU5IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI1OTU0IiBsYW49InB0X0JSIiBta2k9IjYyNzQzODgiIG1rcD0iMC42OTAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjU5NTQiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjkyLjUwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTA2NjM1OTEiIHByZD0iSE9UIiBwd3Q9IjI5Mi41MCIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSI2NiIgcnBoPSIxIiBydGM9IjEyNjIxIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iNDIzLjkxIiBzc3Q9IlNQIiBzd3Q9IjQyMy45MSIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 14900,
+              "priceWithoutTax": 14900,
+              "pricePerDayWithTax": 4966.67,
+              "pricePerDayWithoutTax": 4966.67,
+              "pricePerGuestWithTax": 14900,
+              "pricePerGuestWithoutTax": 14900,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlN0YW5kYXJkIENhc2FsIiBjaWQ9IjU5MDAxIiBjbWk9IjU5IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgZmViPSJmYWxzZSIgaG90PSI1OTU0IiBsYW49InB0X0JSIiBta2k9IjYyNzQzODkiIG1rcD0iMC43NjAiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjU5NTQiIHBrZz0iVkhJIiBwbGE9IjU2IiBwbGM9IkJSTCIgcG90PSIyOTIuNTAiIHBwdD0iVm91Y2hlciIgcHB5PSIxMDY2MzU5MSIgcHJkPSJIT1QiIHB3dD0iMjkyLjUwIiBweG89IjMwIiBweHM9IjMwIiByb209IjY2IiBycGg9IjEiIHJ0Yz0iMTI2MjEiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSIzODQuODciIHNzdD0iU1AiIHN3dD0iMzg0Ljg3IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 13600,
+              "priceWithoutTax": 13600,
+              "pricePerDayWithTax": 4533.33,
+              "pricePerDayWithoutTax": 4533.33,
+              "pricePerGuestWithTax": 13600,
+              "pricePerGuestWithoutTax": 13600,
+              "contents": [{
+                  "code": "XXX",
+                  "name": "Description Agreement",
+                  "description": null
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "385621",
+      "priority": 2,
+      "name": "Best Western Rio Convention Suites",
+      "description": null,
+      "awards": 4,
+      "isPreferential": false,
+      "location": {
+          "address": null,
+          "coordinates": {
+              "latitude": "-22,9629825",
+              "longitude": "-43,4018761"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://media.omnibees.com/Images/5621/Property/169474.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "42987|BedBreakfast|true|STANDARD TWIN BED|Café da Manhã|true|80083|80083",
+          "mealPlan": "Café da Manhã",
+          "category": "STANDARD TWIN BED",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlNUQU5EQVJEIFRXSU4gQkVEIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgaG90PSIzODU2MjEiIGxhbj0icHRfQlIiIG1raT0iNjI3MSIgbWtwPSIwLjY5MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMzg1NjIxIiBwa2c9IlNUQU5EQUxPTkUiIHBsYT0iNTYiIHBsYz0iQlJMIiBwb3Q9IjI4MS40NiIgcHB0PSJWb3VjaGVyIiBwcHk9IjEyMzE4ODE0IiBwcmQ9IkhPVCIgcHd0PSIyOTUuNTMiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iNDI5ODciIHJwaD0iMSIgcnRjPSI4MDA4MyIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjQwNy45MSIgc3N0PSJTUCIgc3d0PSI0MjguMzAiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 15100,
+              "priceWithoutTax": 14400,
+              "pricePerDayWithTax": 5033.33,
+              "pricePerDayWithoutTax": 4800,
+              "pricePerGuestWithTax": 15100,
+              "pricePerGuestWithoutTax": 14400,
+              "taxes": [{
+                  "description": "IMPOSTO SOBRE SERVIÇO",
+                  "percent": 5,
+                  "amount": 14.073
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IlNUQU5EQVJEIFRXSU4gQkVEIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSI2NzEyNzEzIiBjcHA9IjM1LjA4NzcyIiBjdXI9IkJSTCIgZHRmPSIyMDE5LTAyLTA0IiBkdGk9IjIwMTktMDItMDEiIGVjdD0iQlIiIGVzdD0iUkoiIGV6aT0iNzExMCIgaG90PSIzODU2MjEiIGxhbj0icHRfQlIiIG1raT0iNjI3MjA5OCIgbWtwPSIwLjc2MCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMzg1NjIxIiBwa2c9IlZISSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjgxLjQ2IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTIzMTg4MTQiIHByZD0iSE9UIiBwd3Q9IjI5NS41MyIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSI0Mjk4NyIgcnBoPSIxIiBydGM9IjgwMDgzIiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMzcwLjM0IiBzc3Q9IlNQIiBzd3Q9IjM4OC44NiIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 13700,
+              "priceWithoutTax": 13000,
+              "pricePerDayWithTax": 4566.67,
+              "pricePerDayWithoutTax": 4333.33,
+              "pricePerGuestWithTax": 13700,
+              "pricePerGuestWithoutTax": 13000
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "36435121",
+      "priority": 1,
+      "name": "Gamboa Rio Hotel",
+      "description": "<p><b>Localização do estabelecimento</b> <br />Com excelente localização no centro de Rio de Janeiro, Gamboa Rio Hotel, fica a 10 minutos de caminhada de Saara Rio e a 14 minutos a pé de Museu do",
+      "awards": 4,
+      "isPreferential": false,
+      "location": {
+          "address": "Rua Alexandre Mackenzie, 122, Rio de Janeiro, BR",
+          "coordinates": {
+              "latitude": "-22.8995",
+              "longitude": "-43.18874"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://images.travelnow.com/hotels/6000000/5130000/5129800/5129706/d1e18152_l.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "201915948|Café da Manhã|true",
+          "mealPlan": "Café da Manhã",
+          "category": "Quarto Casal ou Twin Standard",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBDYXNhbCBvdSBUd2luIFN0YW5kYXJkIiBjaWQ9IjM2MDAxIiBjbWk9IjM2IiBjbXo9IjE3ODMwMSIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGhvdD0iMzY0MzUxMjEiIGxhbj0icHRfQlIiIG1raT0iNjI3MTc2IiBta3A9IjAuNzIzIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzNjQzNTEyMSIgcGtnPSJTVEFOREFMT05FIiBwbGE9IjM2IiBwbGM9IkJSTCIgcG90PSIzMDYiIHBwdD0iVm91Y2hlciIgcHB5PSIxMTU0MjYzMyIgcHJkPSJIT1QiIHByZj0iMzUuNDAiIHBybz0iNjIuNjUiIHB3dD0iMzIxLjMiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iMjAwMzA4OTY0IiBycGg9IjEiIHJ0Yz0iMjAxOTE1OTQ4fDMwIiBydGs9IjI4NjE4Njc4LTdiYmEtNGY0Zi1iZGYzLWQ0MTIyMzUxOTljZC01MDAzLTAyNCIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjQyMC44NCIgc3N0PSJTUCIgc3d0PSI0NDQuNjMiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 15700,
+              "priceWithoutTax": 14800,
+              "pricePerDayWithTax": 5233.33,
+              "pricePerDayWithoutTax": 4933.33,
+              "pricePerGuestWithTax": 15700,
+              "pricePerGuestWithoutTax": 14800,
+              "taxes": [{
+                  "description": "TaxAndServiceFee",
+                  "percent": 5,
+                  "amount": 15.3
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBDYXNhbCBvdSBUd2luIFN0YW5kYXJkIiBjaWQ9IjM2MDAxIiBjbWk9IjM2IiBjbXo9IjE3ODMwMSIgY3BwPSIzNS4wODc3MiIgY3VyPSJCUkwiIGR0Zj0iMjAxOS0wMi0wNCIgZHRpPSIyMDE5LTAyLTAxIiBlY3Q9IkJSIiBlc3Q9IlJKIiBlemk9IjcxMTAiIGhvdD0iMzY0MzUxMjEiIGxhbj0icHRfQlIiIG1raT0iNjI3MTc1IiBta3A9IjAuODExIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzNjQzNTEyMSIgcGtnPSJWSEkiIHBsYT0iMzYiIHBsYz0iQlJMIiBwb3Q9IjMwNiIgcHB0PSJWb3VjaGVyIiBwcHk9IjExNTQyNjMzIiBwcmQ9IkhPVCIgcHJmPSIzNS40MCIgcHJvPSI2Mi42NSIgcHd0PSIzMjEuMyIgcHhvPSIzMCIgcHhzPSIzMCIgcm9tPSIyMDAzMDg5NjQiIHJwaD0iMSIgcnRjPSIyMDE5MTU5NDh8MzAiIHJ0az0iMjg2MTg2NzgtN2JiYS00ZjRmLWJkZjMtZDQxMjIzNTE5OWNkLTUwMDMtMDI0IiBzY3Q9IkJSIiBzZHQ9IjIwMTktMDEtMjItMDI6MDAiIHNvdD0iMzc0Ljc5IiBzc3Q9IlNQIiBzd3Q9IjM5NS45OCIgc3ppPSIxMDQiLz4=",
+              "currency": "PTS",
+              "priceWithTax": 13900,
+              "priceWithoutTax": 13200,
+              "pricePerDayWithTax": 4633.33,
+              "pricePerDayWithoutTax": 4400,
+              "pricePerGuestWithTax": 13900,
+              "pricePerGuestWithoutTax": 13200
+          }]
+      }],
+      "partnerCode": "CVC"
+  }, {
+      "id": "36434910",
+      "priority": 1,
+      "name": "Pompeu Rio Hotel",
+      "description": "<p><b>Localização do estabelecimento</b> <br />Com excelente localização no centro de Rio de Janeiro, Pompeu Rio Hotel, fica a 9 minutos de caminhada de Saara Rio e a 13 minutos a pé de Museu do",
+      "awards": 3,
+      "isPreferential": false,
+      "location": {
+          "address": "Rua Camerino, 15, Rio de Janeiro, BR",
+          "coordinates": {
+              "latitude": "-22.89946",
+              "longitude": "-43.18758"
+          }
+      },
+      "images": {
+          "thumbnailImage": "http://images.travelnow.com/hotels/5000000/4950000/4947900/4947854/9c57c736_l.jpg"
+      },
+      "nearby": null,
+      "rooms": [{
+          "id": "1",
+          "description": "201915948|Café da Manhã|true",
+          "mealPlan": "Café da Manhã",
+          "category": "Quarto Casal ou Twin Standard",
+          "minGuests": null,
+          "maxGuests": null,
+          "quantityAvailable": null,
+          "available": true,
+          "rates": [{
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBTb2x0ZWlybyBTdGFuZGFyZCIgY2lkPSIzNjAwMSIgY21pPSIzNiIgY216PSIxNzgzMDEiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBob3Q9IjM2NDM0OTEwIiBsYW49InB0X0JSIiBta2k9IjYyNzE3NiIgbWtwPSIwLjcwMCIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMzY0MzQ5MTAiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSIzNiIgcGxjPSJCUkwiIHBvdD0iMzA2IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTE1NDI2MzMiIHByZD0iSE9UIiBwcmY9IjI2LjMzIiBwcm89IjQ2LjYiIHB3dD0iMzIxLjMzIiBweG89IjMwIiBweHM9IjMwIiByb209IjIwMDMxMTQ4MiIgcnBoPSIxIiBydGM9IjIwMTkxNTkzNHwzMCIgcnRrPSIyM2JlY2Q4Zi1iODY5LTRiYTUtYjhjNC04ODk4YzNmZmY4NzItNTAwMy0wMjQiIHNjdD0iQlIiIHNkdD0iMjAxOS0wMS0yMi0wMjowMCIgc290PSI0MzQuOTUiIHNzdD0iU1AiIHN3dD0iNDU4Ljc5IiBzemk9IjEwNCIvPg==",
+              "currency": "PTS",
+              "priceWithTax": 16100,
+              "priceWithoutTax": 15300,
+              "pricePerDayWithTax": 5366.67,
+              "pricePerDayWithoutTax": 5100,
+              "pricePerGuestWithTax": 16100,
+              "pricePerGuestWithoutTax": 15300,
+              "taxes": [{
+                  "description": "TaxAndServiceFee",
+                  "percent": 5.01,
+                  "amount": 15.33
+              }]
+          }, {
+              "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYnJpPSIxMDAzIiBjYXQ9IlF1YXJ0byBTb2x0ZWlybyBTdGFuZGFyZCIgY2lkPSIzNjAwMSIgY21pPSIzNiIgY216PSIxNzgzMDEiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDItMDQiIGR0aT0iMjAxOS0wMi0wMSIgZWN0PSJCUiIgZXN0PSJSSiIgZXppPSI3MTEwIiBob3Q9IjM2NDM0OTEwIiBsYW49InB0X0JSIiBta2k9IjYyNzE3NSIgbWtwPSIwLjc4NiIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMzY0MzQ5MTAiIHBrZz0iVkhJIiBwbGE9IjM2IiBwbGM9IkJSTCIgcG90PSIzMDYiIHBwdD0iVm91Y2hlciIgcHB5PSIxMTU0MjYzMyIgcHJkPSJIT1QiIHByZj0iMjYuMzMiIHBybz0iNDYuNiIgcHd0PSIzMjEuMzMiIHB4bz0iMzAiIHB4cz0iMzAiIHJvbT0iMjAwMzExNDgyIiBycGg9IjEiIHJ0Yz0iMjAxOTE1OTM0fDMwIiBydGs9IjIzYmVjZDhmLWI4NjktNGJhNS1iOGM0LTg4OThjM2ZmZjg3Mi01MDAzLTAyNCIgc2N0PSJCUiIgc2R0PSIyMDE5LTAxLTIyLTAyOjAwIiBzb3Q9IjM4Ny4zNSIgc3N0PSJTUCIgc3d0PSI0MDguNTkiIHN6aT0iMTA0Ii8+",
+              "currency": "PTS",
+              "priceWithTax": 14400,
+              "priceWithoutTax": 13600,
+              "pricePerDayWithTax": 4800,
+              "pricePerDayWithoutTax": 4533.33,
+              "pricePerGuestWithTax": 14400,
+              "pricePerGuestWithoutTax": 13600,
+              "taxes": [{
+                  "description": "TaxAndServiceFee",
+                  "percent": 5.01,
+                  "amount": 15.33
+              }]
+          }]
+      }],
+      "partnerCode": "CVC"
+  }],
+  "filters": {
+      "price": {
+          "currency": "PTS",
+          "maxWithTax": 3174500,
+          "maxWithoutTax": 2836000,
+          "minWithTax": 142100,
+          "minWithoutTax": 82800
+      },
+      "mealPlan": [{
+          "name": "Sem Café da Manhã",
+          "quantity": 2
+      }, {
+          "name": "Café da Manhã",
+          "quantity": 1
+      }, {
+          "name": "DIÁRIA(S) SEM CAFÉ DA MANHÃ",
+          "quantity": 7
+      }, {
+          "name": "DIÁRIA(S) COM CAFÉ DA MANHÃ CONTINENTAL",
+          "quantity": 3
+      }, {
+          "name": "DIARIA(S) SEM CAFÉ / NÃO COBRA RESORT FEE",
+          "quantity": 2
+      }, {
+          "name": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+          "quantity": 2
+      }, {
+          "name": "DIÁRIA(S) COM CAFÉ DA MANHÃ BUFFET",
+          "quantity": 2
+      }],
+      "awards": [{
+          "name": "2 stars",
+          "quantity": 12
+      }, {
+          "name": "3 stars",
+          "quantity": 21
+      }, {
+          "name": "4 stars",
+          "quantity": 10
+      }, {
+          "name": "5 stars",
+          "quantity": 7
+      }],
+      "chain": [{
+          "name": "Meliã Hotels International",
+          "quantity": 1
+      }, {
+          "name": "RCD HOTELS",
+          "quantity": 2
+      }],
+      "type": [{
+          "name": "Hotel",
+          "amount": 237
+      }, {
+          "name": "Resort",
+          "quantity": 17
+      }],
+      "amenities": [{
+          "name": "Academia de ginástica gratuita",
+          "quantity": 1
+      }, {
+          "name": "Accessibilidade para Cadeira de Rodas",
+          "quantity": 1
+      }, {
+          "name": "Aceita os principais cartões de crédito",
+          "quantity": 1
+      }, {
+          "name": "Aluguel de bicicletas",
+          "quantity": 1
+      }, {
+          "name": "Babá a Pedido",
+          "quantity": 1
+      }, {
+          "name": "Banho Turco",
+          "quantity": 1
+      }, {
+          "name": "Bar de Piscina",
+          "quantity": 2
+      }, {
+          "name": "Berço disponivel a pedido",
+          "quantity": 1
+      }, {
+          "name": "Cabeleireiro",
+          "quantity": 1
+      }, {
+          "name": "Cabeleireiro a Pedido",
+          "quantity": 1
+      }, {
+          "name": "Equipa Poliglota",
+          "quantity": 2
+      }, {
+          "name": "Estacionamento com manobrista",
+          "quantity": 1
+      }, {
+          "name": "Fotocópias",
+          "quantity": 1
+      }, {
+          "name": "Free Wifi",
+          "quantity": 3
+      }, {
+          "name": "Ginásio",
+          "quantity": 1,
+          "count": null
+      }, {
+          "name": "Internet Banda Larga",
+          "quantity": 3
+      }, {
+          "name": "Massagens a Pedido",
+          "quantity": 1
+      }, {
+          "name": "Mordomo",
+          "quantity": 1
+      }, {
+          "name": "Multibanco",
+          "quantity": 1
+      }, {
+          "name": "Personal Trainer a pedido",
+          "quantity": 1
+      }, {
+          "name": "Piscina",
+          "quantity": 3
+      }, {
+          "name": "Piscina Exterior",
+          "quantity": 3
+      }, {
+          "name": "Piscina Interior",
+          "quantity": 1
+      }, {
+          "name": "Piscina externa de água salgada",
+          "quantity": 1
+      }, {
+          "name": "Quartos para Deficientes",
+          "quantity": 1
+      }, {
+          "name": "Recepção 24 horas",
+          "quantity": 3,
+          "count": null
+      }, {
+          "name": "Restaurante",
+          "quantity": 2,
+          "count": null
+      }, {
+          "name": "Restaurante Publico",
+          "quantity": 1
+      }, {
+          "name": "SPA",
+          "quantity": 3
+      }, {
+          "name": "Sala de Reuniões",
+          "quantity": 1
+      }, {
+          "name": "Sala de tv",
+          "quantity": 3
+      }, {
+          "name": "Salas de Reuniões",
+          "quantity": 1
+      }, {
+          "name": "Salão de Beleza",
+          "quantity": 1
+      }, {
+          "name": "Serviço de Massagens",
+          "quantity": 1
+      }, {
+          "name": "Serviço de Quarto 24 horas",
+          "quantity": 1
+      }, {
+          "name": "Serviço de limpeza diário",
+          "quantity": 1
+      }, {
+          "name": "Serviços de Cocktails",
+          "quantity": 1
+      }, {
+          "name": "Serviços/Sala de Bagagem",
+          "quantity": 1
+      }, {
+          "name": "Área reservada a fumantes",
+          "quantity": 1
+      }, {
+          "name": "Acesso à internet",
+          "quantity": 2
+      }, {
+          "name": "Amenities de banho",
+          "quantity": 3
+      }, {
+          "name": "Apartamento para não fumantes",
+          "quantity": 1
+      }, {
+          "name": "Ar-condicionado",
+          "quantity": 4
+      }, {
+          "name": "CD Player",
+          "quantity": 1
+      }, {
+          "name": "Cafeteira",
+          "quantity": 3
+      }, {
+          "name": "Cama de casal",
+          "quantity": 1
+      }, {
+          "name": "Cama queen size",
+          "quantity": 1
+      }, {
+          "name": "Cofre",
+          "quantity": 4,
+          "count": null
+      }, {
+          "name": "Controle eletrônico de temperatura",
+          "quantity": 1
+      }, {
+          "name": "Correio de voz",
+          "quantity": 1
+      }, {
+          "name": "Cortinas com black out",
+          "quantity": 1
+      }, {
+          "name": "DVD",
+          "quantity": 2
+      }, {
+          "name": "Despertador",
+          "quantity": 1
+      }, {
+          "name": "Escrivaninha",
+          "quantity": 2
+      }, {
+          "name": "Ferro de passar",
+          "quantity": 1
+      }, {
+          "name": "Filmes no quarto",
+          "quantity": 1
+      }, {
+          "name": "Frigobar",
+          "quantity": 2
+      }, {
+          "name": "Internet wi-fi",
+          "quantity": 3
+      }, {
+          "name": "Internet wi-fi gratuita",
+          "quantity": 3
+      }, {
+          "name": "Micro-ondas",
+          "quantity": 2
+      }, {
+          "name": "Minicozinha",
+          "quantity": 1
+      }, {
+          "name": "Máquina de Café/Chá",
+          "quantity": 2
+      }, {
+          "name": "Máquina de café",
+          "quantity": 1
+      }, {
+          "name": "Quartos não fumantes",
+          "quantity": 1
+      }, {
+          "name": "Radiorrelógio",
+          "quantity": 1
+      }, {
+          "name": "Roupão de banho",
+          "quantity": 1
+      }, {
+          "name": "Rádio AM/FM",
+          "quantity": 1
+      }, {
+          "name": "Rádio-relógio",
+          "quantity": 1
+      }, {
+          "name": "Secador de cabelo",
+          "quantity": 5
+      }, {
+          "name": "Serviço de Quarto 24h",
+          "quantity": 1
+      }, {
+          "name": "TV LCD",
+          "quantity": 1
+      }, {
+          "name": "TV LCD a cabo",
+          "quantity": 1
+      }, {
+          "name": "TV a cabo",
+          "quantity": 2
+      }, {
+          "name": "TV com canais em HD",
+          "quantity": 1
+      }, {
+          "name": "TV de 32\"",
+          "quantity": 1
+      }, {
+          "name": "TV plasma",
+          "quantity": 1
+      }, {
+          "name": "TV por assinatura",
+          "quantity": 1
+      }, {
+          "name": "Telefone",
+          "quantity": 3
+      }, {
+          "name": "Tábua e ferro de passar",
+          "quantity": 5
+      }, {
+          "name": "Ventilador de teto",
+          "quantity": 1
+      }, {
+          "name": "Academia 24 horas",
+          "quantity": 1
+      }, {
+          "name": "Academias",
+          "quantity": 1
+      }, {
+          "name": "Ano de construção - 1939",
+          "quantity": 1
+      }, {
+          "name": "Ano de construção - 2010",
+          "quantity": 1
+      }, {
+          "name": "Assistência para passeios/bilhetes",
+          "quantity": 5
+      }, {
+          "name": "Banheira de hidromassagem",
+          "quantity": 2
+      }, {
+          "name": "Banheiro acessível",
+          "quantity": 4
+      }, {
+          "name": "Bar à beira da piscina",
+          "quantity": 1
+      }, {
+          "name": "Bar/lounge",
+          "quantity": 2
+      }, {
+          "name": "Bilhar",
+          "quantity": 2
+      }, {
+          "name": "Business center",
+          "quantity": 2,
+          "count": null
+      }, {
+          "name": "Business center 24 horas",
+          "quantity": 1
+      }, {
+          "name": "Cafeteria",
+          "quantity": 3
+      }, {
+          "name": "Café da manhã disponível (sobretaxa)",
+          "quantity": 3
+      }, {
+          "name": "Café/chá em áreas comuns",
+          "quantity": 1
+      }, {
+          "name": "Caixa eletrônico/banco",
+          "quantity": 4
+      }, {
+          "name": "Carregador",
+          "quantity": 4
+      }, {
+          "name": "Casa noturna",
+          "quantity": 1
+      }, {
+          "name": "Centro de bem-estar",
+          "quantity": 1
+      }, {
+          "name": "Check-in expresso",
+          "quantity": 1
+      }, {
+          "name": "Check-out expresso",
+          "quantity": 3
+      }, {
+          "name": "Chuveiro com barras de apoio",
+          "quantity": 4
+      }, {
+          "name": "Cofre na recepção",
+          "quantity": 4
+      }, {
+          "name": "Computadores",
+          "quantity": 3,
+          "count": null
+      }, {
+          "name": "Depósito de bagagens",
+          "quantity": 5,
+          "count": null
+      }, {
+          "name": "Elevador",
+          "quantity": 5,
+          "count": null
+      }, {
+          "name": "Equipe multilíngue",
+          "quantity": 5
+      }, {
+          "name": "Espaço para conferências",
+          "quantity": 1,
+          "count": null
+      }, {
+          "name": "Espaço para conferências (em metros): 3902",
+          "quantity": 1
+      }, {
+          "name": "Espaço para conferências (em metros): 8268",
+          "quantity": 1
+      }, {
+          "name": "Espaço para conferências (em pés): 42000",
+          "quantity": 1
+      }, {
+          "name": "Espaço para conferências (em pés): 89000",
+          "quantity": 1
+      }, {
+          "name": "Espreguiçadeiras (piscina)",
+          "quantity": 1
+      }, {
+          "name": "Espreguiçadeiras (praia)",
+          "quantity": 2
+      }, {
+          "name": "Estabelecimento para não fumantes",
+          "quantity": 4
+      }, {
+          "name": "Estacionamento com manobrista (sobretaxa)",
+          "quantity": 5
+      }, {
+          "name": "Estacionamento sem manobrista (sobretaxa)",
+          "quantity": 1
+      }, {
+          "name": "Guarda-sóis",
+          "quantity": 1
+      }, {
+          "name": "Internet com fio grátis",
+          "quantity": 1
+      }, {
+          "name": "Jornais grátis no saguão",
+          "quantity": 2
+      }, {
+          "name": "Lavanderia",
+          "quantity": 1
+      }, {
+          "name": "Lojas de presentes ou bancas de jornal",
+          "quantity": 1
+      }, {
+          "name": "Número de andares - 3",
+          "quantity": 1
+      }, {
+          "name": "Número de andares - 4",
+          "quantity": 2
+      }, {
+          "name": "Número de andares - 41",
+          "quantity": 1
+      }, {
+          "name": "Número de andares - 5",
+          "quantity": 1
+      }, {
+          "name": "Número de bares/lounges: 2",
+          "quantity": 1
+      }, {
+          "name": "Número de edifícios/torres - 1",
+          "quantity": 3
+      }, {
+          "name": "Número de restaurantes: 3",
+          "quantity": 2
+      }, {
+          "name": "Número total de quartos - 26",
+          "quantity": 1
+      }, {
+          "name": "Número total de quartos - 313",
+          "quantity": 1
+      }, {
+          "name": "Número total de quartos - 44",
+          "quantity": 1
+      }, {
+          "name": "Número total de quartos - 49",
+          "quantity": 1
+      }, {
+          "name": "Número total de quartos - 86",
+          "quantity": 1
+      }, {
+          "name": "Piscina externa",
+          "quantity": 2
+      }, {
+          "name": "Piscina externa - aquecido(a)",
+          "quantity": 1
+      }, {
+          "name": "Quartos acessíveis",
+          "quantity": 4
+      }, {
+          "name": "Salas de reuniões - 32",
+          "quantity": 2
+      }, {
+          "name": "Salas de tratamento de spa",
+          "quantity": 2
+      }, {
+          "name": "Salão de beleza",
+          "quantity": 1
+      }, {
+          "name": "Sauna seca",
+          "quantity": 2
+      }, {
+          "name": "Serviço de limusine ou carro disponível",
+          "quantity": 2
+      }, {
+          "name": "Serviços de babá",
+          "quantity": 1
+      }, {
+          "name": "Serviços de babá (sobretaxa)",
+          "quantity": 1
+      }, {
+          "name": "Serviços de casamento",
+          "quantity": 1
+      }, {
+          "name": "Serviços de concierge",
+          "quantity": 2,
+          "count": null
+      }, {
+          "name": "Serviços de lavagem a seco/lavanderia",
+          "quantity": 5
+      }, {
+          "name": "Serviços de spa no local",
+          "quantity": 1
+      }, {
+          "name": "Spa de serviço completo",
+          "quantity": 2
+      }, {
+          "name": "TV em áreas comuns",
+          "quantity": 1
+      }, {
+          "name": "Terraço na cobertura",
+          "quantity": 3
+      }, {
+          "name": "Toalhas de praia",
+          "quantity": 2
+      }, {
+          "name": "Traslado local (sobretaxa)",
+          "quantity": 1
+      }, {
+          "name": "Uso da academia nas proximidades (desconto)",
+          "quantity": 2
+      }, {
+          "name": "Wi-Fi grátis",
+          "quantity": 5
+      }, {
+          "name": "Áreas para fumantes",
+          "quantity": 1
+      }, {
+          "name": "Aceitam-se animais de estimação",
+          "quantity": 1
+      }, {
+          "name": "Acessibilidade nos quartos",
+          "quantity": 2
+      }, {
+          "name": "Acessível a cadeiras de rodas",
+          "quantity": 94
+      }, {
+          "name": "Agência de câmbios",
+          "quantity": 39
+      }, {
+          "name": "Air Conditioning",
+          "quantity": 1
+      }, {
+          "name": "Aluguer de automóveis",
+          "quantity": 20
+      }, {
+          "name": "Apoio para excursões/compra de bilhetes",
+          "quantity": 2
+      }, {
+          "name": "Ar condicionado em zonas comuns",
+          "quantity": 171
+      }, {
+          "name": "Arrecadação para bicicletas",
+          "quantity": 12
+      }, {
+          "name": "Bagageiro",
+          "quantity": 2
+      }, {
+          "name": "Banho turco",
+          "quantity": 1
+      }, {
+          "name": "Bar/Lounge",
+          "quantity": 1
+      }, {
+          "name": "Bengaleiro",
+          "quantity": 34
+      }, {
+          "name": "Biblioteca",
+          "quantity": 4
+      }, {
+          "name": "Bistro Urbano Bar",
+          "quantity": 1
+      }, {
+          "name": "Business Center",
+          "quantity": 1
+      }, {
+          "name": "Business center aberto 24 horas",
+          "quantity": 1
+      }, {
+          "name": "Cabanas junto à piscina grátis",
+          "quantity": 1
+      }, {
+          "name": "Cafetaria",
+          "quantity": 1
+      }, {
+          "name": "Café/chá nos espaços comuns",
+          "quantity": 2
+      }, {
+          "name": "Caixa ATM/banco",
+          "quantity": 2
+      }, {
+          "name": "Casa de banho acessível para cadeiras de rodas",
+          "quantity": 2
+      }, {
+          "name": "Chaleira elétrica",
+          "quantity": 4
+      }, {
+          "name": "Check-out tardio",
+          "quantity": 13
+      }, {
+          "name": "Cobertura de telemóveis",
+          "quantity": 38
+      }, {
+          "name": "Coffee/Tea Maker",
+          "quantity": 1
+      }, {
+          "name": "Complimentary newspaper",
+          "quantity": 1
+      }, {
+          "name": "Complimentary toiletries",
+          "quantity": 1
+      }, {
+          "name": "Detetor de incêndios",
+          "quantity": 64
+      }, {
+          "name": "Dimensão do espaço para conferências (metros): 112",
+          "quantity": 1
+      }, {
+          "name": "Dimensão do espaço para conferências (pés): 1206",
+          "quantity": 1
+      }, {
+          "name": "Equipa multilingue",
+          "quantity": 117
+      }, {
+          "name": "Espreguiçadeiras junto à piscina",
+          "quantity": 1
+      }, {
+          "name": "Estabelecimento para não fumadores",
+          "quantity": 3
+      }, {
+          "name": "Estacionamento",
+          "quantity": 109
+      }, {
+          "name": "Estacionamento com motorista",
+          "quantity": 67
+      }, {
+          "name": "Estacionamento com motorista (sobretaxa)",
+          "quantity": 2
+      }, {
+          "name": "Estacionamento para autocaravanas, autocarros e camiões",
+          "quantity": 1
+      }, {
+          "name": "Estacionamento sem motorista grátis",
+          "quantity": 1
+      }, {
+          "name": "Estacionamento vigiado",
+          "quantity": 36
+      }, {
+          "name": "Estão disponíveis bicicletas",
+          "quantity": 5
+      }, {
+          "name": "Fitness Center",
+          "quantity": 1
+      }, {
+          "name": "Forno",
+          "quantity": 4
+      }, {
+          "name": "Garagem",
+          "quantity": 18
+      }, {
+          "name": "Golf desk",
+          "quantity": 3
+      }, {
+          "name": "Grelhador/churrasqueira",
+          "quantity": 3
+      }, {
+          "name": "Grelhadores de churrasco",
+          "quantity": 1
+      }, {
+          "name": "Guarda-sóis junto à piscina",
+          "quantity": 1
+      }, {
+          "name": "Hair Dryer",
+          "quantity": 1
+      }, {
+          "name": "Hair dryer",
+          "quantity": 1
+      }, {
+          "name": "Health club",
+          "quantity": 1
+      }, {
+          "name": "High-Speed Internet",
+          "quantity": 1
+      }, {
+          "name": "Hora de check-in",
+          "quantity": 88
+      }, {
+          "name": "Hora de check-out",
+          "quantity": 90
+      }, {
+          "name": "In-room safe",
+          "quantity": 1
+      }, {
+          "name": "Instalações de churrasqueira",
+          "quantity": 1
+      }, {
+          "name": "Internet com fios grátis",
+          "quantity": 1
+      }, {
+          "name": "Internet por cabo",
+          "quantity": 128
+      }, {
+          "name": "Internet sem fios",
+          "quantity": 181
+      }, {
+          "name": "Internet sem fios grátis",
+          "quantity": 3
+      }, {
+          "name": "Iron & Ironing Board",
+          "quantity": 1
+      }, {
+          "name": "Iron/Ironing board",
+          "quantity": 1
+      }, {
+          "name": "Jardim",
+          "quantity": 46
+      }, {
+          "name": "Jornais",
+          "quantity": 84
+      }, {
+          "name": "Jornais grátis no lobby",
+          "quantity": 1
+      }, {
+          "name": "Lareira",
+          "quantity": 2
+      }, {
+          "name": "Lavandaria",
+          "quantity": 68
+      }, {
+          "name": "Loja",
+          "quantity": 65
+      }, {
+          "name": "Microwave",
+          "quantity": 1
+      }, {
+          "name": "Mini-clube",
+          "quantity": 3
+      }, {
+          "name": "Máquina de secar roupa",
+          "quantity": 4
+      }, {
+          "name": "N.º de edifícios/torres: 2",
+          "quantity": 1
+      }, {
+          "name": "N.º de pisos: 1",
+          "quantity": 1
+      }, {
+          "name": "N.º de pisos: 15",
+          "quantity": 1
+      }, {
+          "name": "N.º de pisos: 2",
+          "quantity": 1
+      }, {
+          "name": "N.º total de quartos: 129",
+          "quantity": 1
+      }, {
+          "name": "N.º total de quartos: 2",
+          "quantity": 1
+      }, {
+          "name": "N.º total de quartos: 22",
+          "quantity": 1
+      }, {
+          "name": "N.º total de quartos: 52",
+          "quantity": 1
+      }, {
+          "name": "Número de bares/salas comuns: 2",
+          "quantity": 1
+      }, {
+          "name": "Número de piscinas exteriores: 2",
+          "quantity": 1
+      }, {
+          "name": "Outdoor Pool",
+          "quantity": 1
+      }, {
+          "name": "Outdoor swimming pool and poolside bar",
+          "quantity": 1
+      }, {
+          "name": "Pequeno-almoço disponível (sobretaxa)",
+          "quantity": 1
+      }, {
+          "name": "Pequeno-almoço grátis",
+          "quantity": 1
+      }, {
+          "name": "Pequeno-almoço grátis - Refeições-Pequeno-almoço gratuito",
+          "quantity": 1
+      }, {
+          "name": "Pet friendly hotel",
+          "quantity": 1
+      }, {
+          "name": "Piscina exterior",
+          "quantity": 2
+      }, {
+          "name": "Piscina privada",
+          "quantity": 18
+      }, {
+          "name": "Polibã adaptado para cadeiras de rodas",
+          "quantity": 1
+      }, {
+          "name": "Recepção 24 h por dia",
+          "quantity": 143
+      }, {
+          "name": "Receção 24 horas",
+          "quantity": 3
+      }, {
+          "name": "Recolha de chaves",
+          "quantity": 3
+      }, {
+          "name": "Refrigerator",
+          "quantity": 1
+      }, {
+          "name": "Registo de entrada rápido",
+          "quantity": 1
+      }, {
+          "name": "Registo de saída rápido",
+          "quantity": 1
+      }, {
+          "name": "Sala de bagagem",
+          "quantity": 47
+      }, {
+          "name": "Sala de fitness 24 horas por dia",
+          "quantity": 1
+      }, {
+          "name": "Serviço de aluguer de bicicletas",
+          "quantity": 21
+      }, {
+          "name": "Serviço de babysitting",
+          "quantity": 26
+      }, {
+          "name": "Serviço de lavandaria",
+          "quantity": 141
+      }, {
+          "name": "Serviço de paquete",
+          "quantity": 64
+      }, {
+          "name": "Serviço de quartos",
+          "quantity": 102
+      }, {
+          "name": "Serviço de transferes",
+          "quantity": 30
+      }, {
+          "name": "Serviço de transporte local (sobretaxa)",
+          "quantity": 1
+      }, {
+          "name": "Serviço médico",
+          "quantity": 18
+      }, {
+          "name": "Serviço para casamentos",
+          "quantity": 1
+      }, {
+          "name": "Serviços de lavagem a seco/lavandaria",
+          "quantity": 1
+      }, {
+          "name": "Supermercado",
+          "quantity": 9
+      }, {
+          "name": "Suporte para jornais",
+          "quantity": 47
+      }, {
+          "name": "São permitidos animais de estimação +5 kg",
+          "quantity": 43
+      }, {
+          "name": "São permitidos animais de estimação -5 kg",
+          "quantity": 56
+      }, {
+          "name": "TV",
+          "quantity": 1
+      }, {
+          "name": "Terraço",
+          "quantity": 28
+      }, {
+          "name": "Terraço/solário",
+          "quantity": 64
+      }, {
+          "name": "Toalhas e roupa de cama com taxa adicional",
+          "quantity": 6
+      }, {
+          "name": "Torradeira",
+          "quantity": 8
+      }, {
+          "name": "Transfer do aeroporto",
+          "quantity": 31
+      }, {
+          "name": "Uma sala de reuniões",
+          "quantity": 2
+      }, {
+          "name": "Vigilância 24 h por dia",
+          "quantity": 37
+      }, {
+          "name": "Wireless high speed internet",
+          "quantity": 1
+      }, {
+          "name": "Workout Room",
+          "quantity": 1
+      }, {
+          "name": "Zona de praia privativa",
+          "quantity": 7
+      }, {
+          "name": "Zona de refeições",
+          "quantity": 30
+      }, {
+          "name": "chamadas locais e internacionais",
+          "quantity": 28
+      }, {
+          "name": "Área para piqueniques",
+          "quantity": 1
+      }],
+      "partnerCode": "CVC"
+  },
+  "additionalInfo": {
+      "totalAccommodations": 50,
+      "numberOfNights": 1
+  }
+}
