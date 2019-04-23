@@ -1,0 +1,30 @@
+{
+  ".aa15449184b8Osw4HCmfDsH8TPMKiw==": {
+    "id": 5464353,
+    "description": "room description",
+    "mealPlan": "meal plan",
+    "category": "Quarto com banheira.",
+    "name": "Nome do quarto",
+    "minGuests": 1,
+    "maxGuests": 3,
+    "available": true,
+    "quantityAvailable": 1,
+    "rates": {
+      "token": "GHGHGFF7687675==",
+      "currency": "PTS",
+      "priceWithTax": 1.79,
+      "priceWithoutTax": 1.79,
+      "pricePerDayWithTax": 1.79,
+      "pricePerDayWithoutTax": 1.79,
+      "pricePerGuestWithTax": 1.79,
+      "pricePerGuestWithoutTax": 1.79
+    },
+    "contents": [
+      {
+        "code": "ASDS",
+        "name": "Banheira",
+        "description": "quarto com banheira"
+      }
+    ]
+  }
+}
