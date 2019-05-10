@@ -1,9 +1,9 @@
 {
   ".aa15449184b8Osw4HCmfDsH8TPMKiw==": {
     "id": 5464353,
-    "description": "room description",
-    "mealPlan": "meal plan",
-    "category": "Quarto com banheira.",
+    "description": "2 camas de casal",
+    "mealPlan": "Café da Manhã",
+    "category": "Suíte Deluxe",
     "name": "Nome do quarto",
     "minGuests": 1,
     "maxGuests": 3,
@@ -12,12 +12,12 @@
     "rates": {
       "token": "GHGHGFF7687675==",
       "currency": "PTS",
-      "priceWithTax": 1.79,
-      "priceWithoutTax": 1.79,
-      "pricePerDayWithTax": 1.79,
-      "pricePerDayWithoutTax": 1.79,
-      "pricePerGuestWithTax": 1.79,
-      "pricePerGuestWithoutTax": 1.79
+      "priceWithTax": 1577.17,
+      "priceWithoutTax": 1494.34,
+      "pricePerDayWithTax": 1577.17,
+      "pricePerDayWithoutTax": 1494.34,
+      "pricePerGuestWithTax": 788.58,
+      "pricePerGuestWithoutTax": 747.17
     },
     "contents": [
       {
