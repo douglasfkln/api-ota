@@ -1,0 +1,216 @@
+{
+    "flights": [{
+        "partnerOrderId": 1939284,
+        "reservations": [{
+            "id": 400061545,
+            "reservationDate": "2019-03-06T17:58:28",
+            "expirationDate": "2019-03-06T18:18:28",
+            "isPackage": false,
+            "status": "NOT_ACTIVATED",
+            "excursion": {
+                "code": "..",
+                "description": "MOSCOW"
+            },
+            "notes": null,
+            "tour": {
+                "id": 400056019,
+                "description": "MOSCOW",
+                "origin": {
+                    "departureDate": "2019-10-21T00:00:00.000-03:00",
+                    "arrivalDate": "2019-10-22T00:00:00.000-03:00",
+                    "zone": {
+                        "id": 8914,
+                        "name": null,
+                        "description": null,
+                        "address": null,
+                        "country": {
+                            "code": "BR",
+                            "name": "BRASIL",
+                            "iataCode": "BR"
+                        },
+                        "state": {
+                            "code": "SP",
+                            "name": "SÃO PAULO"
+                        },
+                        "city": {
+                            "code": 104,
+                            "name": "BARUERI"
+                        },
+                        "latitude": -23.51155,
+                        "longitude": -46.87642
+                    }
+                },
+                "destinations": [{
+                    "departureDate": "2019-10-21T00:00:00.000-03:00",
+                    "arrivalDate": "2019-10-22T00:00:00.000-03:00",
+                    "zone": {
+                        "id": 44631,
+                        "name": null,
+                        "description": null,
+                        "address": null,
+                        "country": {
+                            "code": "SS",
+                            "name": "RUSSIA",
+                            "iataCode": null
+                        },
+                        "state": {
+                            "code": "02",
+                            "name": "MOSCOW"
+                        },
+                        "city": {
+                            "code": 1,
+                            "name": "MOSCOW"
+                        },
+                        "latitude": 0,
+                        "longitude": 0
+                    }
+                }]
+            },
+            "customers": [{
+                "id": 1,
+                "firstName": "Maria",
+                "lastName": "Plaza",
+                "birthDate": "1980-10-10",
+                "gender": "F",
+                "notes": null,
+                "email": null,
+                "address": [{
+                    "street": null,
+                    "number": null,
+                    "complement": null,
+                    "district": null,
+                    "city": null,
+                    "state": null,
+                    "country": null,
+                    "zipCode": null
+                }]
+            }],
+            "products": {
+                "flights": [{
+                    "item": {
+                        "id": null,
+                        "creationDate": "2019-03-06T00:00:00.000-03:00",
+                        "issueDateTimeLimit": "2019-03-06T00:00:00.000-03:00",
+                        "status": "SUCCESS",
+                        "passengers": [{
+                            "id": 1,
+                            "firstName": "MARIA",
+                            "lastName": "PLAZA",
+                            "birthDate": "1980-10-10",
+                            "gender": "F"
+                        }],
+                        "details": [{
+                            "validatingAirline": {
+                                "name": "AEROFLOT/AEROFLOT RUSSIAN AIRL",
+                                "iata": "SU"
+                            },
+                            "segments": [{
+                                    "airportDeparture": {
+                                        "name": "Aeroporto Internacional de São Paulo",
+                                        "iata": "GRU",
+                                        "location": {
+                                            "name": "Guarulhos"
+                                        }
+                                    },
+                                    "departureDate": "2019-10-21T18:15:00.000-03:00",
+                                    "arrivalAirport": {
+                                        "name": "Amsterdam Schiphol",
+                                        "iata": "AMS",
+                                        "location": {
+                                            "name": "Amsterdã"
+                                        }
+                                    },
+                                    "arrivalDate": "2019-10-22T10:45:00.000-03:00",
+                                    "route": "BACK",
+                                    "numberOfStops": null,
+                                    "duration": null,
+                                    "legs": [{
+                                        "managedBy": {
+                                            "name": "LH",
+                                            "iata": "LH"
+                                        },
+                                        "operatedBy": {
+                                            "name": null,
+                                            "iata": "GRU"
+                                        },
+                                        "flightNumber": 507,
+                                        "numberOfStops": 0,
+                                        "duration": 990,
+                                        "departureAirport": {
+                                            "name": "Aeroporto Internacional de São Paulo",
+                                            "iata": "GRU",
+                                            "location": {
+                                                "name": "Guarulhos"
+                                            }
+                                        },
+                                        "airportArrival": {
+                                            "name": "Amsterdam Schiphol",
+                                            "iata": "AMS",
+                                            "location": {
+                                                "name": "Amsterdã"
+                                            }
+                                        },
+                                        "departureDate": "2019-10-21T18:15:00.000-03:00",
+                                        "arrivalDate": "2019-10-22T10:45:00.000-03:00",
+                                        "aircraftCode": null,
+                                        "seatClass": {
+                                            "code": null,
+                                            "description": null
+                                        }
+                                    }]
+                                },
+                                {
+                                    "departure": "FRA",
+                                    "departureDate": "2019-10-22T14:05:00.000-03:00",
+                                    "arrival": "SVO",
+                                    "arrivalDate": "2019-10-22T18:25:00.000-03:00",
+                                    "routeRPH": 1,
+                                    "rph": null,
+                                    "numberOfStops": null,
+                                    "duration": null,
+                                    "legs": [{
+                                        "managedBy": {
+                                            "name": "SU",
+                                            "iata": "SU"
+                                        },
+                                        "operatedBy": {
+                                            "name": null,
+                                            "iata": "FRA"
+                                        },
+                                        "flightNumber": 2301,
+                                        "numberOfStops": 0,
+                                        "duration": 260,
+                                        "departure": "FRANKFURT",
+                                        "arrival": "SHEREMETYEVO",
+                                        "departureDate": "2019-10-22T14:05:00.000-03:00",
+                                        "arrivalDate": "2019-10-22T18:25:00.000-03:00",
+                                        "aircraftCode": null,
+                                        "seatClass": {
+                                            "code": null,
+                                            "description": null
+                                        }
+                                    }]
+                                }
+                            ],
+                            "airTickets": [{
+                                "e_ticketCode": null,
+                                "passenger": {
+                                    "id": 1,
+                                    "firstName": "MARIA",
+                                    "lastName": "PLAZA",
+                                    "birthDate": "1980-10-10",
+                                    "gender": "F",
+                                }
+                            }],
+                            "gds": {
+                                "provider": "AMADEUS RA",
+                                "reservationCode": "MA2ZWN"
+                            },
+                            "reservationType": "VENDA DE BILHETE"
+                        }]
+                    }
+                }]
+            }
+        }]
+    }]
+}
