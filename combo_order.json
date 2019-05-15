@@ -1,0 +1,398 @@
+{
+    "combo": [{
+        "partnerOrderId": 2501103,
+        "reservations": [{
+            "id": 251385728,
+            "reservationDate": "2019-03-19T14:16:42",
+            "expiresDate": "2019-03-19T14:36:42",
+            "isPackage": false,
+            "status": "NOT_ACTIVATED",
+            "excursion": {
+                "code": "..",
+                "description": "FORTALEZA e GUARULHOS - FORTALEZA          "
+            },
+            "notes": null,
+            "tour": {
+                "id": 235512018,
+                "description": "FORTALEZA e GUARULHOS - FORTALEZA          ",
+                "origin": {
+                    "departureDate": "2019-03-22T00:00:00.000-03:00",
+                    "arrivalDate": "2019-03-23T00:00:00.000-03:00",
+                    "zone": {
+                        "id": 8914,
+                        "name": null,
+                        "description": null,
+                        "address": null,
+                        "country": {
+                            "code": "BR",
+                            "name": "BRASIL",
+                            "iataCode": "BR"
+                        },
+                        "state": {
+                            "code": "SP",
+                            "name": "SÃO PAULO"
+                        },
+                        "city": {
+                            "code": 104,
+                            "name": "BARUERI"
+                        },
+                        "latitude": -23.51155,
+                        "longitude": -46.87642
+                    }
+                },
+                "destinations": [{
+                        "departureDate": "2019-03-22T00:00:00.000-03:00",
+                        "arrivalDate": "2019-03-22T00:00:00.000-03:00",
+                        "zone": {
+                            "id": 9141,
+                            "name": null,
+                            "description": null,
+                            "address": null,
+                            "country": {
+                                "code": "BR",
+                                "name": "BRASIL",
+                                "iataCode": "BR"
+                            },
+                            "state": {
+                                "code": "SP",
+                                "name": "SÃO PAULO"
+                            },
+                            "city": {
+                                "code": 331,
+                                "name": "GUARULHOS"
+                            },
+                            "latitude": -23.46355,
+                            "longitude": -46.53342
+                        }
+                    },
+                    {
+                        "departureDate": "2019-03-22T00:00:00.000-03:00",
+                        "arrivalDate": "2019-03-22T00:00:00.000-03:00",
+                        "zone": {
+                            "id": 1463,
+                            "name": null,
+                            "description": null,
+                            "address": null,
+                            "country": {
+                                "code": "BR",
+                                "name": "BRASIL",
+                                "iataCode": "BR"
+                            },
+                            "state": {
+                                "code": "CE",
+                                "name": "CEARÁ"
+                            },
+                            "city": {
+                                "code": 226,
+                                "name": "FORTALEZA"
+                            },
+                            "latitude": -3.717461,
+                            "longitude": -38.543327
+                        }
+                    },
+                    {
+                        "departureDate": "2019-03-23T00:00:00.000-03:00",
+                        "arrivalDate": "2019-03-23T00:00:00.000-03:00",
+                        "zone": {
+                            "id": 9141,
+                            "name": null,
+                            "description": null,
+                            "address": null,
+                            "country": {
+                                "code": "BR",
+                                "name": "BRASIL",
+                                "iataCode": "BR"
+                            },
+                            "state": {
+                                "code": "SP",
+                                "name": "SÃO PAULO"
+                            },
+                            "city": {
+                                "code": 331,
+                                "name": "GUARULHOS"
+                            },
+                            "latitude": -23.46355,
+                            "longitude": -46.53342
+                        }
+                    },
+                    {
+                        "departureDate": "2019-03-23T00:00:00.000-03:00",
+                        "arrivalDate": "2019-03-23T00:00:00.000-03:00",
+                        "zone": {
+                            "id": 1463,
+                            "name": null,
+                            "description": null,
+                            "address": null,
+                            "country": {
+                                "code": "BR",
+                                "name": "BRASIL",
+                                "iataCode": "BR"
+                            },
+                            "state": {
+                                "code": "CE",
+                                "name": "CEARÁ"
+                            },
+                            "city": {
+                                "code": 226,
+                                "name": "FORTALEZA"
+                            },
+                            "latitude": -3.717461,
+                            "longitude": -38.543327
+                        }
+                    }
+                ]
+            },
+            "customers": [{
+                "id": 1,
+                "firstName": "Fabiano",
+                "lastName": "Farias",
+                "birthDate": "1988-05-06",
+                "gender": "M",
+                "notes": null,
+                "email": null,
+                "address": [{
+                    "street": null,
+                    "number": null,
+                    "complement": null,
+                    "district": null,
+                    "city": null,
+                    "state": null,
+                    "country": null,
+                    "zipCode": null
+                }]
+            }],
+            "products": {
+                "accommodations": [{
+                    "item": {
+                        "id": null,
+                        "name": "POUSADA CASA DO MAR",
+                        "cnpj": "28321666000160",
+                        "rooms": [{
+                            "index": 1,
+                            "gds": {
+                                "id": 59,
+                                "description": "EXTRANET",
+                                "reservationCode": null,
+                                "cancellationPolicies": [{
+                                    "start": "2019-03-15T00:00:00.000-03:00",
+                                    "end": "2019-03-22T00:00:00.000-03:00",
+                                    "amount": 69,
+                                    "nonRefundable": false
+                                }]
+                            },
+                            "operator": {
+                                "id": null,
+                                "description": "EXTRANET",
+                                "reservationCode": null
+                            },
+                            "description": "Apartamento Standard ",
+                            "location": {
+                                "zone": {
+                                    "id": 1463,
+                                    "country": {
+                                        "code": "BR",
+                                        "name": "BRASIL"
+                                    },
+                                    "state": {
+                                        "code": "CE",
+                                        "name": "CEARÁ"
+                                    },
+                                    "city": {
+                                        "code": 226,
+                                        "name": "FORTALEZA"
+                                    },
+                                    "latitude": -3.717461,
+                                    "longitude": -38.543327
+                                },
+                                "address": "RUA RAIMUNDO ESTEVES 110"
+                            },
+                            "checkIn": "2019-03-22",
+                            "checkOut": "2019-03-23",
+                            "nightsNumber": 1,
+                            "mealPlan": "DIÁRIAS ",
+                            "category": "Apartamento Standard ",
+                            "guests": [{
+                                "id": 1,
+                                "firstName": "Fabiano ",
+                                "lastName": "Ricardo Farias",
+                                "birthDate": "1988-05-06",
+                                "gender": "M",
+                                "notes": null,
+                                "email": null,
+                                "address": [{
+                                    "street": null,
+                                    "number": null,
+                                    "complement": null,
+                                    "district": null,
+                                    "city": null,
+                                    "state": null,
+                                    "country": null,
+                                    "zipCode": null
+                                }]
+                            }]
+                        }]
+                    }
+                }],
+                "flights": [{
+                    "item": {
+                        "id": null,
+                        "creationDate": "2019-03-19T00:00:00.000-03:00",
+                        "issueDateTimeLimit": "2019-03-19T00:00:00.000-03:00",
+                        "status": "SUCCESS",
+                        "passengers": [{
+                            "id": 1,
+                            "firstName": "FABIANO",
+                            "lastName": "FARIAS",
+                            "birthDate": "1988-05-06",
+                            "gender": "M",
+                            "updateAvailable": false
+                        }],
+                        "details": [{
+                            "validatingBy": {
+                                "name": "LATAM AIRLINES",
+                                "iata": "LA"
+                            },
+                            "segments": [{
+                                    "airportDeparture": {
+                                        "name": "Aeroporto Internacional de São Paulo",
+                                        "iata": "GRU",
+                                        "location": {
+                                            "name": "Guarulhos"
+                                        }
+                                    },
+                                    "departureDate": "2019-03-22T05:50:00.000-03:00",
+                                    "arrivalAirport": {
+                                        "name": "Amsterdam Schiphol",
+                                        "iata": "AMS",
+                                        "location": {
+                                            "name": "Amsterdã"
+                                        }
+                                    },
+                                    "arrivalDate": "2019-03-22T09:10:00.000-03:00",
+                                    "route": "BACK",
+                                    "numberOfStops": null,
+                                    "duration": null,
+                                    "legs": [{
+                                        "managedBy": {
+                                            "name": "LA",
+                                            "iata": "LA"
+                                        },
+                                        "operatedBy": {
+                                            "name": null,
+                                            "iata": "GRU"
+                                        },
+                                        "flightNumber": 3299,
+                                        "numberOfStops": 0,
+                                        "duration": 200,
+                                        "airportDeparture": {
+                                            "name": "Aeroporto Internacional de São Paulo",
+                                            "iata": "GRU",
+                                            "location": {
+                                                "name": "Guarulhos"
+                                            }
+                                        },
+                                        "arrivalAirport": {
+                                            "name": "Amsterdam Schiphol",
+                                            "iata": "AMS",
+                                            "location": {
+                                                "name": "Amsterdã"
+                                            }
+                                        },
+                                        "departureDate": "2019-03-22T05:50:00.000-03:00",
+                                        "arrivalDate": "2019-03-22T09:10:00.000-03:00",
+                                        "aircraftCode": null,
+                                        "seatClass": {
+                                            "code": null,
+                                            "description": null
+                                        }
+                                    }]
+                                },
+                                {
+                                    "airportDeparture": {
+                                        "name": "Aeroporto Internacional de São Paulo",
+                                        "iata": "GRU",
+                                        "location": {
+                                            "name": "Guarulhos"
+                                        }
+                                    },
+                                    "departureDate": "2019-03-23T02:20:00.000-03:00",
+                                    "arrivalAirport": {
+                                        "name": "Aeroporto Internacional de Fortaleza",
+                                        "iata": "FOR",
+                                        "location": {
+                                            "name": "Fortaleza"
+                                        }
+                                    },
+                                    "arrivalDate": "2019-03-23T06:05:00.000-03:00",
+                                    "route": "BACK",
+                                    "numberOfStops": null,
+                                    "duration": null,
+                                    "legs": [{
+                                        "managedBy": {
+                                            "name": "LA",
+                                            "iata": "LA"
+                                        },
+                                        "operatedBy": {
+                                            "name": null,
+                                            "iata": "FOR"
+                                        },
+                                        "flightNumber": 3351,
+                                        "numberOfStops": 0,
+                                        "duration": 225,
+                                        "airportDeparture": {
+                                            "name": "Aeroporto Internacional de Fortaleza",
+                                            "iata": "FOR",
+                                            "location": {
+                                                "name": "Fortaleza"
+                                            }
+                                        },
+                                        "arrivalAirport": {
+                                            "name": "Aeroporto Internacional de São Paulo",
+                                            "iata": "GRU",
+                                            "location": {
+                                                "name": "Guarulhos"
+                                            }
+                                        },
+                                        "departureDate": "2019-03-23T02:20:00.000-03:00",
+                                        "arrivalDate": "2019-03-23T06:05:00.000-03:00",
+                                        "aircraftCode": null,
+                                        "seatClass": {
+                                            "code": null,
+                                            "description": null
+                                        }
+                                    }]
+                                }
+                            ],
+                            "airTickets": [{
+                                    "e_ticketCode": null,
+                                    "passenger": {
+                                        "id": 1,
+                                        "firstName": "FABIANO ",
+                                        "lastName": "RICARDO FARIAS",
+                                        "birthDate": "1988-05-06",
+                                        "gender": "M"
+                                    }
+                                },
+                                {
+                                    "e_ticketCode": null,
+                                    "passenger": {
+                                        "id": 1,
+                                        "firstName": "FABIANO ",
+                                        "lastName": "RICARDO FARIAS",
+                                        "birthDate": "1988-05-06",
+                                        "gender": "M"
+                                    }
+                                }
+                            ],
+                            "gds": {
+                                "provider": "LATAM",
+                                "reservationCode": "IFRDOD"
+                            },
+                            "reservationType": "VENDA DE BILHETE"
+                        }]
+                    }
+                }]
+            }
+        }]
+    }]
+}
