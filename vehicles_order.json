@@ -1,0 +1,160 @@
+{
+    "vehicles": [{
+        "partnerOrderId": 2500644,
+        "reservations": [{
+            "id": 251370825,
+            "reservationDate": "2019-03-19T12:16:01",
+            "expirationDate": "2019-03-19T12:36:01",
+            "isPackage": false,
+            "status": "NOT_ACTIVATED",
+            "excursion": {
+                "code": "2.76649.032201",
+                "description": "Locação de Veículo - MOVIDA RENT A CAR * MATRIZ"
+            },
+            "notes": null,
+            "tour": {
+                "id": 235499651,
+                "description": "Locação de Veículo - MOVIDA RENT A CAR * MATRIZ",
+                "origin": {
+                    "departureDate": "2019-03-22T00:00:00.000-03:00",
+                    "arrivalDate": "2019-03-23T00:00:00.000-03:00",
+                    "zone": {
+                        "id": 9626,
+                        "name": null,
+                        "description": null,
+                        "address": null,
+                        "country": {
+                            "code": "BR",
+                            "name": "BRASIL",
+                            "iataCode": "BR"
+                        },
+                        "state": {
+                            "code": "SP",
+                            "name": "SÃO PAULO"
+                        },
+                        "city": {
+                            "code": 816,
+                            "name": "SÃO PAULO"
+                        },
+                        "latitude": -23.54855,
+                        "longitude": -46.636421
+                    }
+                },
+                "destinations": [{
+                    "departureDate": "2019-03-22T00:00:00.000-03:00",
+                    "arrivalDate": "2019-03-22T00:00:00.000-03:00",
+                    "zone": {
+                        "id": 9626,
+                        "name": null,
+                        "description": null,
+                        "address": null,
+                        "country": {
+                            "code": "BR",
+                            "name": "BRASIL",
+                            "iataCode": "BR"
+                        },
+                        "state": {
+                            "code": "SP",
+                            "name": "SÃO PAULO"
+                        },
+                        "city": {
+                            "code": 816,
+                            "name": "SÃO PAULO"
+                        },
+                        "latitude": -23.54855,
+                        "longitude": -46.636421
+                    }
+                }]
+            },
+            "customers": [{
+                "id": 1,
+                "firstName": "Fabiano",
+                "lastName": "Farias",
+                "birthDate": "1988-05-06",
+                "gender": "M",
+                "notes": null,
+                "documents": [{
+                    "type": "DRIVER LICENSE",
+                    "code": null
+                }],
+                "email": null,
+                "address": [{
+                    "street": null,
+                    "number": null,
+                    "complement": null,
+                    "district": null,
+                    "city": null,
+                    "state": null,
+                    "country": null,
+                    "zipCode": null
+                }]
+            }],
+            "products": {
+                "cars": [{
+                    "item": {
+                        "category": {
+                            "name": "ECONÔMICO COM AR"
+                        },
+                        "gds": {
+                            "id": null,
+                            "description": "SABRE",
+                            "reservationCode": null,
+                            "price": null,
+                            "currency": "R$"
+                        },
+                        "carRentalAgency": {
+                            "id": "SABRE",
+                            "description": "SABRE"
+                        },
+                        "pickup": {
+                            "name": "MOVIDA RENT A CAR * MATRIZ",
+                            "id": "9626",
+                            "date": "2019-03-22T11:00:00.000-03:00",
+                            "location": {
+                                "address": "On Airport - SAO PAULO AIRPORT - Rua Otavio Tarquinio de Souza , - ",
+                                "coordinates": {
+                                    "latitude": "-23.54855",
+                                    "longitude": "-46.636421"
+                                }
+                            }
+                        },
+                        "return": {
+                            "name": "MOVIDA RENT A CAR * MATRIZ",
+                            "id": "9626",
+                            "date": "2019-03-23T11:00:00.000-03:00",
+                            "location": {
+                                "address": "On Airport - SAO PAULO AIRPORT - Rua Otavio Tarquinio de Souza , - ",
+                                "coordinates": {
+                                    "latitude": "-23.54855",
+                                    "longitude": "-46.636421"
+                                }
+                            }
+                        },
+                        "optionalServices": [{
+                            "description": null
+                        }],
+                        "driver": [{
+                            "id": 1,
+                            "firstName": "Fabiano ",
+                            "lastName": "Ricardo Farias",
+                            "birthDate": "1988-05-06",
+                            "gender": "M",
+                            "notes": null,
+                            "email": null,
+                            "address": [{
+                                "street": null,
+                                "number": null,
+                                "complement": null,
+                                "district": null,
+                                "city": null,
+                                "state": null,
+                                "country": null,
+                                "zipCode": null
+                            }]
+                        }]
+                    }
+                }]
+            }
+        }]
+    }]
+}
