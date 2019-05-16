@@ -1,552 +1,127 @@
 {
-    "id": "386719",
-    "name": "Costa Mar Recife Hotel by Atlantica",
-    "description": "O Costa Mar Recife Hotel by Atlântica possui acesso direto à Praia de Piedade, piscina, academia, internet Wi-Fi grátis e serviço de praia com cadeiras e guarda-sóis. Encontra-se a 2 km do Shopping Guararapes e a 7 km do Aeroporto Internacional do Recife. Oferece café da manhã sem custo adicional, composto por frutas, pães, frios e sucos, dentre outros.\rO Costa Mar Recife Hotel by Atlântica possui acesso direto à Praia de Piedade, piscina, academia, internet Wi-Fi grátis e serviço de praia com cadeiras e guarda-sóis. Encontra-se a 750m do Shopping Guararapes e a 7 km do Aeroporto Internacional do Recife. Oferece café da manhã sem custo adicional, composto por frutas, pães, frios e sucos, dentre outros.\rO restaurante, além do café, serve almoço e jantar (cobrados a parte), com pratos da culinária regional. O bar da piscina prepara petiscos e aperitivos. O serviço de quarto está disponível 24h.\rExiste um estacionamento privado e pago, próximo ao hotel. Os quartos possuem varanda com vista lateral para o mar e estão equipados com TV LCD, frigobar, cofre e ar-condicionado. Algumas unidades possuem vista frontal e outras vista lateral para o mar.\rA Oficina Cerâmica Francisco Brennand e o Marco Zero estão a 11 km e 17 km do Costa Mar Recife Hotel by Atlântica, respectivamente. A cidade de Olinda situa-se a 26 km.\rO hotel oferece cortesia de uma criança de até 7 anos, por apartamento, dormindo na mesma cama dos pais. Animais de estimação não são permitidos.\r",
-    "contents": [{
-        "code": "amenities",
-        "name": null,
-        "description": null
-    }, {
-        "code": "checkinInstructions",
-        "name": "Checkin Instructions",
-        "description": null
-    }],
+    "id": "385035",
+    "name": "Hotel Enseada Boa Viagem",
+    "description": "Localizado em Recife/PE, no coração de Boa Viagem, a 10 minutos a pé da praia, próximo ao aeroporto, restaurantes, igrejas, bancos, supermercados, shoppings e pontos turísticos como a pracinha de Boa Viagem e o Parque Dona Lindu, o HOTEL ENSEADA BOA VIAGEM, é o segundo empreendimento da Rede Enseada, que traz como conceito uma hospedagem com excelente Custo x Benefício.\r\rO Hotel disponibiliza 64 aptos, recepção 24hs. Restaurante para café da manhã , wifi em todos os ambientes, 2 elevadores, 1 sala de apoio para reuniões e eventos corporativos e estacionamento rotativo gratuito (vagas limitadas, de acordo com a disponibilidade no momento do check in). Todos nossos quartos dispõem de wc privativo, cama de casal ou 2 de solteiro, ar-condicionado split central, tv de LED 32” com ampla seleção de canais, mesa de trabalho, cofre, telefone, secador de cabelo.",
+    "contents": [
+        {
+            "code": "amenities",
+            "name": null,
+            "description": null
+        },
+        {
+            "code": "checkinInstructions",
+            "name": "Checkin Instructions",
+            "description": null
+        }
+    ],
     "images": {
         "thumbnailImage": [],
-        "smallImages": [{
-            "href": "http://media.omnibees.com/Images/6719/Property/248618.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248620.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248621.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248624.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248625.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248627.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248629.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248630.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248635.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248636.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248638.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248639.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248640.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248641.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248642.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248646.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248647.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248648.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248649.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248650.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248710.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248711.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248712.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248713.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248714.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248715.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248716.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248717.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248718.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248719.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248720.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248739.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248740.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248741.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248742.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248743.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248744.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248745.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248746.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248747.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248748.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248749.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248751.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248752.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248753.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248756.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248757.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248758.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248759.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248760.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248761.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248764.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248765.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248766.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248767.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248768.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248769.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248770.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/248771.jpg",
-            "description": null
-        }, {
-            "href": "http://media.omnibees.com/Images/6719/Property/379670.jpg",
-            "description": null
-        }]
+        "smallImages": [
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/101522.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/101523.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/101524.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/101525.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130506.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130507.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130508.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130509.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130510.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130511.jpg",
+                "description": null
+            }
+        ]
     },
-    "address": "Av. Bernardo Vieira de Melo, 1701 Piedade, Recife, Brasil",
-    "rooms": [{
-        "id": "5f541b96-d70a-458a-a2cc-d00e0b3d0efb",
-        "description": "Superior Queen|Café da Manhã|false|160300|160300",
-        "mealPlan": "Café da Manhã",
-        "category": "Superior Queen",
-        "name": "Superior Queen",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTIzIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjM4LjE0IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjIzOC4xNCIgcHhzPSIzMCIgcm9tPSI0MjUyMyIgcnBoPSIxIiBydGM9IjE2MDMwMCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjMzMC43NSIgc3N0PSJTUCIgc3d0PSIzMzAuNzUiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 17.0,
-            "priceWithoutTax": 17.0,
-            "pricePerDayWithTax": 9.0,
-            "pricePerDayWithoutTax": 9.0,
-            "pricePerGuestWithTax": 17.0,
-            "pricePerGuestWithoutTax": 17.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "7559ca46-7084-40bf-9a94-3a6623489242",
-        "description": "Superior Twin|Café da Manhã|false|160300|160300",
-        "mealPlan": "Café da Manhã",
-        "category": "Superior Twin",
-        "name": "Superior Twin",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTI0IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjM4LjE0IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjIzOC4xNCIgcHhzPSIzMCIgcm9tPSI0MjUyNCIgcnBoPSIxIiBydGM9IjE2MDMwMCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjMzMC43NSIgc3N0PSJTUCIgc3d0PSIzMzAuNzUiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 17.0,
-            "priceWithoutTax": 17.0,
-            "pricePerDayWithTax": 9.0,
-            "pricePerDayWithoutTax": 9.0,
-            "pricePerGuestWithTax": 17.0,
-            "pricePerGuestWithoutTax": 17.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "fe207d90-29b0-4349-bf2f-1a446d7e1db8",
-        "description": "Superior Triplo|Café da Manhã|false|160300|160300",
-        "mealPlan": "Café da Manhã",
-        "category": "Superior Triplo",
-        "name": "Superior Triplo",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyODY3IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjUxLjM2IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjI1MS4zNiIgcHhzPSIzMCIgcm9tPSI0Mjg2NyIgcnBoPSIxIiBydGM9IjE2MDMwMCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjM0OS4xMSIgc3N0PSJTUCIgc3d0PSIzNDkuMTEiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 18.0,
-            "priceWithoutTax": 18.0,
-            "pricePerDayWithTax": 9.0,
-            "pricePerDayWithoutTax": 9.0,
-            "pricePerGuestWithTax": 18.0,
-            "pricePerGuestWithoutTax": 18.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "1a4af744-011b-4afa-9f43-6a9fd8ddaf7b",
-        "description": "Superior Queen|Café da Manhã|false|160298|160298",
-        "mealPlan": "Café da Manhã",
-        "category": "Superior Queen",
-        "name": "Superior Queen",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTIzIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjY0LjYwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjI2NC42MCIgcHhzPSIzMCIgcm9tPSI0MjUyMyIgcnBoPSIxIiBydGM9IjE2MDI5OCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjM2Ny41MCIgc3N0PSJTUCIgc3d0PSIzNjcuNTAiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 19.0,
-            "priceWithoutTax": 19.0,
-            "pricePerDayWithTax": 10.0,
-            "pricePerDayWithoutTax": 10.0,
-            "pricePerGuestWithTax": 19.0,
-            "pricePerGuestWithoutTax": 19.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "5b23ebdf-be64-4685-b9c2-3659ff5a24d2",
-        "description": "Superior Twin|Café da Manhã|false|160298|160298",
-        "mealPlan": "Café da Manhã",
-        "category": "Superior Twin",
-        "name": "Superior Twin",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTI0IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjY0LjYwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjI2NC42MCIgcHhzPSIzMCIgcm9tPSI0MjUyNCIgcnBoPSIxIiBydGM9IjE2MDI5OCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjM2Ny41MCIgc3N0PSJTUCIgc3d0PSIzNjcuNTAiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 19.0,
-            "priceWithoutTax": 19.0,
-            "pricePerDayWithTax": 10.0,
-            "pricePerDayWithoutTax": 10.0,
-            "pricePerGuestWithTax": 19.0,
-            "pricePerGuestWithoutTax": 19.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "15c26995-1855-4871-8f06-35146bb390b0",
-        "description": "Suíte Superior Triplo Twin|Café da Manhã|false|160300|160300",
-        "mealPlan": "Café da Manhã",
-        "category": "Suíte Superior Triplo Twin",
-        "name": "Suíte Superior Triplo Twin",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTI2IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjY0LjYwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjI2NC42MCIgcHhzPSIzMCIgcm9tPSI0MjUyNiIgcnBoPSIxIiBydGM9IjE2MDMwMCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjM2Ny41MCIgc3N0PSJTUCIgc3d0PSIzNjcuNTAiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 19.0,
-            "priceWithoutTax": 19.0,
-            "pricePerDayWithTax": 10.0,
-            "pricePerDayWithoutTax": 10.0,
-            "pricePerGuestWithTax": 19.0,
-            "pricePerGuestWithoutTax": 19.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "e789b034-9d69-40ae-9f29-571b49ba5766",
-        "description": "Superior Triplo|Café da Manhã|false|160298|160298",
-        "mealPlan": "Café da Manhã",
-        "category": "Superior Triplo",
-        "name": "Superior Triplo",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyODY3IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjc5LjMwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjI3OS4zMCIgcHhzPSIzMCIgcm9tPSI0Mjg2NyIgcnBoPSIxIiBydGM9IjE2MDI5OCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjM4Ny45MiIgc3N0PSJTUCIgc3d0PSIzODcuOTIiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 20.0,
-            "priceWithoutTax": 20.0,
-            "pricePerDayWithTax": 10.0,
-            "pricePerDayWithoutTax": 10.0,
-            "pricePerGuestWithTax": 20.0,
-            "pricePerGuestWithoutTax": 20.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "64f03e9c-e77a-4213-926b-88c28738c51c",
-        "description": "Suíte Superior Triplo Twin|Café da Manhã|false|160298|160298",
-        "mealPlan": "Café da Manhã",
-        "category": "Suíte Superior Triplo Twin",
-        "name": "Suíte Superior Triplo Twin",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTI2IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjk0LjAwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjI5NC4wMCIgcHhzPSIzMCIgcm9tPSI0MjUyNiIgcnBoPSIxIiBydGM9IjE2MDI5OCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjQwOC4zMyIgc3N0PSJTUCIgc3d0PSI0MDguMzMiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 21.0,
-            "priceWithoutTax": 21.0,
-            "pricePerDayWithTax": 11.0,
-            "pricePerDayWithoutTax": 11.0,
-            "pricePerGuestWithTax": 21.0,
-            "pricePerGuestWithoutTax": 21.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "c07206f3-ad28-4f1e-b985-fdc904de7b48",
-        "description": "Luxo Queen|Café da Manhã|false|160300|160300",
-        "mealPlan": "Café da Manhã",
-        "category": "Luxo Queen",
-        "name": "Luxo Queen",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTI1IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMzA0LjI4IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjMwNC4yOCIgcHhzPSIzMCIgcm9tPSI0MjUyNSIgcnBoPSIxIiBydGM9IjE2MDMwMCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjQyMi42MSIgc3N0PSJTUCIgc3d0PSI0MjIuNjEiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 22.0,
-            "priceWithoutTax": 22.0,
-            "pricePerDayWithTax": 11.0,
-            "pricePerDayWithoutTax": 11.0,
-            "pricePerGuestWithTax": 22.0,
-            "pricePerGuestWithoutTax": 22.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "c78ea528-917c-4abb-a439-007b6406340d",
-        "description": "Luxo Twin|Café da Manhã|false|160300|160300",
-        "mealPlan": "Café da Manhã",
-        "category": "Luxo Twin",
-        "name": "Luxo Twin",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTMwIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMzA0LjI4IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjMwNC4yOCIgcHhzPSIzMCIgcm9tPSI0MjUzMCIgcnBoPSIxIiBydGM9IjE2MDMwMCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjQyMi42MSIgc3N0PSJTUCIgc3d0PSI0MjIuNjEiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 22.0,
-            "priceWithoutTax": 22.0,
-            "pricePerDayWithTax": 11.0,
-            "pricePerDayWithoutTax": 11.0,
-            "pricePerGuestWithTax": 22.0,
-            "pricePerGuestWithoutTax": 22.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "4f30e54a-ea5e-4b4f-b468-18c4f018bbcb",
-        "description": "Suíte Luxo Queen|Café da Manhã|false|160300|160300",
-        "mealPlan": "Café da Manhã",
-        "category": "Suíte Luxo Queen",
-        "name": "Suíte Luxo Queen",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTMxIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMzMwLjc2IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjMzMC43NiIgcHhzPSIzMCIgcm9tPSI0MjUzMSIgcnBoPSIxIiBydGM9IjE2MDMwMCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjQ1OS4zOSIgc3N0PSJTUCIgc3d0PSI0NTkuMzkiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 23.0,
-            "priceWithoutTax": 23.0,
-            "pricePerDayWithTax": 12.0,
-            "pricePerDayWithoutTax": 12.0,
-            "pricePerGuestWithTax": 23.0,
-            "pricePerGuestWithoutTax": 23.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "7b1fffd3-7e16-4966-959f-344964019e2c",
-        "description": "Luxo Queen|Café da Manhã|false|160298|160298",
-        "mealPlan": "Café da Manhã",
-        "category": "Luxo Queen",
-        "name": "Luxo Queen",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTI1IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMzM4LjEwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjMzOC4xMCIgcHhzPSIzMCIgcm9tPSI0MjUyNSIgcnBoPSIxIiBydGM9IjE2MDI5OCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjQ2OS41OCIgc3N0PSJTUCIgc3d0PSI0NjkuNTgiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 24.0,
-            "priceWithoutTax": 24.0,
-            "pricePerDayWithTax": 12.0,
-            "pricePerDayWithoutTax": 12.0,
-            "pricePerGuestWithTax": 24.0,
-            "pricePerGuestWithoutTax": 24.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "c73a8d4e-284f-400e-b776-89a505d41a54",
-        "description": "Luxo Twin|Café da Manhã|false|160298|160298",
-        "mealPlan": "Café da Manhã",
-        "category": "Luxo Twin",
-        "name": "Luxo Twin",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTMwIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMzM4LjEwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjMzOC4xMCIgcHhzPSIzMCIgcm9tPSI0MjUzMCIgcnBoPSIxIiBydGM9IjE2MDI5OCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjQ2OS41OCIgc3N0PSJTUCIgc3d0PSI0NjkuNTgiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 24.0,
-            "priceWithoutTax": 24.0,
-            "pricePerDayWithTax": 12.0,
-            "pricePerDayWithoutTax": 12.0,
-            "pricePerGuestWithTax": 24.0,
-            "pricePerGuestWithoutTax": 24.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }, {
-        "id": "8e24b166-367e-44b3-bc24-5533e08577d9",
-        "description": "Suíte Luxo Queen|Café da Manhã|false|160298|160298",
-        "mealPlan": "Café da Manhã",
-        "category": "Suíte Luxo Queen",
-        "name": "Suíte Luxo Queen",
-        "minGuests": null,
-        "maxGuests": null,
-        "available": true,
-        "quantityAvailable": 1,
-        "rates": [{
-            "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjQyNTMxIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NjcxOSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQzMjMyIiBta3A9IjAuNzIwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODY3MTkiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMzY3LjUwIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTQyNDg4NDQiIHByZD0iSE9UIiBwd3Q9IjM2Ny41MCIgcHhzPSIzMCIgcm9tPSI0MjUzMSIgcnBoPSIxIiBydGM9IjE2MDI5OCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjUxMC40MiIgc3N0PSJTUCIgc3d0PSI1MTAuNDIiIHN6aT0iMTA0Ii8+",
-            "packageGroup": "STANDALONE",
-            "currency": "PTS",
-            "priceWithTax": 26.0,
-            "priceWithoutTax": 26.0,
-            "pricePerDayWithTax": 13.0,
-            "pricePerDayWithoutTax": 13.0,
-            "pricePerGuestWithTax": 26.0,
-            "pricePerGuestWithoutTax": 26.0
-        }],
-        "contents": [],
-        "cancellationPolicy": [{
-            "nonRefundable": false
-        }]
-    }],
+    "address": "Avenida Charles Darwin, 235 Boa Viagem, Recife, Brasil",
+    "rooms": [
+        {
+            "id": "ea863249-60ff-4f48-bc71-3ec7692432a0",
+            "description": "QUARTO COM 1 CAMA DE CASAL OU 2 DE SOLTEIRO|Café da Manhã|true|122645|122645",
+            "mealPlan": "Café da Manhã",
+            "category": "QUARTO COM 1 CAMA DE CASAL OU 2 DE SOLTEIRO",
+            "name": "QUARTO COM 1 CAMA DE CASAL OU 2 DE SOLTEIRO",
+            "minGuests": null,
+            "maxGuests": null,
+            "available": true,
+            "quantityAvailable": 2,
+            "rates": [
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjMxMDEzIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NTAzNSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQxMTkwIiBta3A9IjAuNzUwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODUwMzUiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjUyLjU0IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTMwNjYyNzgiIHByZD0iSE9UIiBwd3Q9IjI1Mi41NCIgcHhzPSIzMCwzMCIgcm9tPSIzMTAxMyIgcnBoPSIxIiBydGM9IjEyMjY0NSIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjMzNi43MiIgc3N0PSJTUCIgc3d0PSIzMzYuNzIiIHN6aT0iMTA0Ii8+",
+                    "packageGroup": "STANDALONE",
+                    "currency": "PTS",
+                    "priceWithTax": 17,
+                    "priceWithoutTax": 17,
+                    "pricePerDayWithTax": 9,
+                    "pricePerDayWithoutTax": 9,
+                    "pricePerGuestWithTax": 9,
+                    "pricePerGuestWithoutTax": 9
+                }
+            ],
+            "contents": [],
+            "cancellationPolicy": [
+                {
+                    "nonRefundable": true
+                }
+            ]
+        },
+        {
+            "id": "456be75a-a092-4083-b8ba-44bca129e910",
+            "description": "QUARTO COM 1 CAMA DE CASAL + 1 DE SOLTEIRO|Café da Manhã|true|122645|122645",
+            "mealPlan": "Café da Manhã",
+            "category": "QUARTO COM 1 CAMA DE CASAL + 1 DE SOLTEIRO",
+            "name": "QUARTO COM 1 CAMA DE CASAL + 1 DE SOLTEIRO",
+            "minGuests": null,
+            "maxGuests": null,
+            "available": true,
+            "quantityAvailable": 2,
+            "rates": [
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjMxMDE0IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NTAzNSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQxMTkwIiBta3A9IjAuNzUwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODUwMzUiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMzAyLjkxIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTMwNjYyNzgiIHByZD0iSE9UIiBwd3Q9IjMwMi45MSIgcHhzPSIzMCwzMCIgcm9tPSIzMTAxNCIgcnBoPSIxIiBydGM9IjEyMjY0NSIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjQwMy44OCIgc3N0PSJTUCIgc3d0PSI0MDMuODgiIHN6aT0iMTA0Ii8+",
+                    "packageGroup": "STANDALONE",
+                    "currency": "PTS",
+                    "priceWithTax": 21,
+                    "priceWithoutTax": 21,
+                    "pricePerDayWithTax": 11,
+                    "pricePerDayWithoutTax": 11,
+                    "pricePerGuestWithTax": 11,
+                    "pricePerGuestWithoutTax": 11
+                }
+            ],
+            "contents": [],
+            "cancellationPolicy": [
+                {
+                    "nonRefundable": true
+                }
+            ]
+        }
+    ],
     "partner": "CVC",
     "integrationErrorMessage": null,
     "integrationErrorCode": null
