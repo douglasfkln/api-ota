@@ -1,0 +1,128 @@
+{
+    "id": "385035",
+    "name": "Hotel Enseada Boa Viagem",
+    "description": "Localizado em Recife/PE, no coração de Boa Viagem, a 10 minutos a pé da praia, próximo ao aeroporto, restaurantes, igrejas, bancos, supermercados, shoppings e pontos turísticos como a pracinha de Boa Viagem e o Parque Dona Lindu, o HOTEL ENSEADA BOA VIAGEM, é o segundo empreendimento da Rede Enseada, que traz como conceito uma hospedagem com excelente Custo x Benefício.\r\rO Hotel disponibiliza 64 aptos, recepção 24hs. Restaurante para café da manhã , wifi em todos os ambientes, 2 elevadores, 1 sala de apoio para reuniões e eventos corporativos e estacionamento rotativo gratuito (vagas limitadas, de acordo com a disponibilidade no momento do check in). Todos nossos quartos dispõem de wc privativo, cama de casal ou 2 de solteiro, ar-condicionado split central, tv de LED 32” com ampla seleção de canais, mesa de trabalho, cofre, telefone, secador de cabelo.",
+    "contents": [
+        {
+            "code": "amenities",
+            "name": null,
+            "description": null
+        },
+        {
+            "code": "checkinInstructions",
+            "name": "Checkin Instructions",
+            "description": null
+        }
+    ],
+    "images": {
+        "thumbnailImage": [],
+        "smallImages": [
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/101522.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/101523.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/101524.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/101525.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130506.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130507.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130508.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130509.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130510.jpg",
+                "description": null
+            },
+            {
+                "href": "http://media.omnibees.com/Images/5035/Property/130511.jpg",
+                "description": null
+            }
+        ]
+    },
+    "address": "Avenida Charles Darwin, 235 Boa Viagem, Recife, Brasil",
+    "rooms": [
+        {
+            "id": "ea863249-60ff-4f48-bc71-3ec7692432a0",
+            "description": "QUARTO COM 1 CAMA DE CASAL OU 2 DE SOLTEIRO|Café da Manhã|true|122645|122645",
+            "mealPlan": "Café da Manhã",
+            "category": "QUARTO COM 1 CAMA DE CASAL OU 2 DE SOLTEIRO",
+            "name": "QUARTO COM 1 CAMA DE CASAL OU 2 DE SOLTEIRO",
+            "minGuests": null,
+            "maxGuests": null,
+            "available": true,
+            "quantityAvailable": 2,
+            "rates": [
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjMxMDEzIiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NTAzNSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQxMTkwIiBta3A9IjAuNzUwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODUwMzUiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMjUyLjU0IiBwcHQ9IlZvdWNoZXIiIHBweT0iMTMwNjYyNzgiIHByZD0iSE9UIiBwd3Q9IjI1Mi41NCIgcHhzPSIzMCwzMCIgcm9tPSIzMTAxMyIgcnBoPSIxIiBydGM9IjEyMjY0NSIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjMzNi43MiIgc3N0PSJTUCIgc3d0PSIzMzYuNzIiIHN6aT0iMTA0Ii8+",
+                    "packageGroup": "STANDALONE",
+                    "currency": "PTS",
+                    "priceWithTax": 17,
+                    "priceWithoutTax": 17,
+                    "pricePerDayWithTax": 9,
+                    "pricePerDayWithoutTax": 9,
+                    "pricePerGuestWithTax": 9,
+                    "pricePerGuestWithoutTax": 9
+                }
+            ],
+            "contents": [],
+            "cancellationPolicy": [
+                {
+                    "nonRefundable": true
+                }
+            ]
+        },
+        {
+            "id": "456be75a-a092-4083-b8ba-44bca129e910",
+            "description": "QUARTO COM 1 CAMA DE CASAL + 1 DE SOLTEIRO|Café da Manhã|true|122645|122645",
+            "mealPlan": "Café da Manhã",
+            "category": "QUARTO COM 1 CAMA DE CASAL + 1 DE SOLTEIRO",
+            "name": "QUARTO COM 1 CAMA DE CASAL + 1 DE SOLTEIRO",
+            "minGuests": null,
+            "maxGuests": null,
+            "available": true,
+            "quantityAvailable": 2,
+            "rates": [
+                {
+                    "id": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjMxMDE0IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NTAzNSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQxMTkwIiBta3A9IjAuNzUwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODUwMzUiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMzAyLjkxIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTMwNjYyNzgiIHByZD0iSE9UIiBwd3Q9IjMwMi45MSIgcHhzPSIzMCwzMCIgcm9tPSIzMTAxNCIgcnBoPSIxIiBydGM9IjEyMjY0NSIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjQwMy44OCIgc3N0PSJTUCIgc3d0PSI0MDMuODgiIHN6aT0iMTA0Ii8+",
+                    "packageGroup": "STANDALONE",
+                    "currency": "PTS",
+                    "priceWithTax": 21,
+                    "priceWithoutTax": 21,
+                    "pricePerDayWithTax": 11,
+                    "pricePerDayWithoutTax": 11,
+                    "pricePerGuestWithTax": 11,
+                    "pricePerGuestWithoutTax": 11
+                }
+            ],
+            "contents": [],
+            "cancellationPolicy": [
+                {
+                    "nonRefundable": true
+                }
+            ]
+        }
+    ],
+    "partner": "CVC",
+    "integrationErrorMessage": null,
+    "integrationErrorCode": null
+}
