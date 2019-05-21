@@ -1,0 +1,513 @@
+{
+    "zones": [{
+        "id": 2841,
+        "name": "ANDRADAS"
+    }, {
+        "id": 8849,
+        "name": "ANDRADINA"
+    }, {
+        "id": 33919,
+        "name": "ANGRA DOS REIS"
+    }, {
+        "id": 452,
+        "name": "APORÁ"
+    }, {
+        "id": 5932,
+        "name": "APUCARANA"
+    }, {
+        "id": 8726,
+        "name": "ARACAJU"
+    }, {
+        "id": 5935,
+        "name": "ARAPONGAS"
+    }, {
+        "id": 33951,
+        "name": "ARARANGUÁ"
+    }, {
+        "id": 8870,
+        "name": "ARARAQUARA"
+    }, {
+        "id": 8871,
+        "name": "ARARAS"
+    }, {
+        "id": 8881,
+        "name": "ARTUR NOGUEIRA"
+    }, {
+        "id": 8882,
+        "name": "ARUJÁ"
+    }, {
+        "id": 8886,
+        "name": "ATIBAIA"
+    }, {
+        "id": 34488,
+        "name": "AÇU"
+    }, {
+        "id": 33964,
+        "name": "BALNEÁRIO CAMBORIÚ"
+    }, {
+        "id": 33937,
+        "name": "BARRA MANSA"
+    }, {
+        "id": 8912,
+        "name": "BARRETOS"
+    }, {
+        "id": 8919,
+        "name": "BAURU"
+    }, {
+        "id": 2920,
+        "name": "BELO HORIZONTE"
+    }, {
+        "id": 4693,
+        "name": "BELÉM"
+    }, {
+        "id": 8927,
+        "name": "BIRIGÜI"
+    }, {
+        "id": 33984,
+        "name": "BLUMENAU"
+    }, {
+        "id": 1911,
+        "name": "BRASÍLIA"
+    }, {
+        "id": 8960,
+        "name": "BURITIZAL"
+    }, {
+        "id": 7515,
+        "name": "CAMAQUÃ"
+    }, {
+        "id": 6043,
+        "name": "CAMBÉ"
+    }, {
+        "id": 8983,
+        "name": "CAMPINAS"
+    }, {
+        "id": 6062,
+        "name": "CAMPO MOURÃO"
+    }, {
+        "id": 7538,
+        "name": "CANELA"
+    }, {
+        "id": 3050,
+        "name": "CARANGOLA"
+    }, {
+        "id": 6089,
+        "name": "CASCAVEL"
+    }, {
+        "id": 6090,
+        "name": "CASTRO"
+    }, {
+        "id": 9010,
+        "name": "CATANDUVA"
+    }, {
+        "id": 33998,
+        "name": "CAÇADOR"
+    }, {
+        "id": 8963,
+        "name": "CAÇAPAVA"
+    }, {
+        "id": 34026,
+        "name": "CHAPECÓ"
+    }, {
+        "id": 6107,
+        "name": "CIANORTE"
+    }, {
+        "id": 34030,
+        "name": "CONCÓRDIA"
+    }, {
+        "id": 3137,
+        "name": "CONFINS"
+    }, {
+        "id": 3142,
+        "name": "CONSELHEIRO LAFAIETE"
+    }, {
+        "id": 9030,
+        "name": "CORDEIRÓPOLIS"
+    }, {
+        "id": 6143,
+        "name": "CORNÉLIO PROCÓPIO"
+    }, {
+        "id": 9041,
+        "name": "CRAVINHOS"
+    }, {
+        "id": 34036,
+        "name": "CRICIÚMA"
+    }, {
+        "id": 4462,
+        "name": "CUIABÁ"
+    }, {
+        "id": 6162,
+        "name": "CURITIBA"
+    }, {
+        "id": 3213,
+        "name": "DIVINÓPOLIS"
+    }, {
+        "id": 9061,
+        "name": "DRACENA"
+    }, {
+        "id": 6979,
+        "name": "DUQUE DE CAXIAS"
+    }, {
+        "id": 9082,
+        "name": "ESPÍRITO SANTO DO PINHAL"
+    }, {
+        "id": 9094,
+        "name": "FERNANDÓPOLIS"
+    }, {
+        "id": 8400,
+        "name": "FLORIANÓPOLIS"
+    }, {
+        "id": 1463,
+        "name": "FORTALEZA"
+    }, {
+        "id": 6236,
+        "name": "FOZ DO IGUAÇU"
+    }, {
+        "id": 9102,
+        "name": "FRANCA"
+    }, {
+        "id": 6239,
+        "name": "FRANCISCO BELTRÃO"
+    }, {
+        "id": 9104,
+        "name": "FRANCO DA ROCHA"
+    }, {
+        "id": 3312,
+        "name": "FRUTAL"
+    }, {
+        "id": 9108,
+        "name": "GARÇA"
+    }, {
+        "id": 2330,
+        "name": "GOIÂNIA"
+    }, {
+        "id": 7752,
+        "name": "GRAMADO"
+    }, {
+        "id": 6276,
+        "name": "GUARAPUAVA"
+    }, {
+        "id": 9133,
+        "name": "GUARARAPES"
+    }, {
+        "id": 9135,
+        "name": "GUARATINGUETÁ"
+    }, {
+        "id": 9141,
+        "name": "GUARULHOS"
+    }, {
+        "id": 3356,
+        "name": "GUAXUPÉ"
+    }, {
+        "id": 9120,
+        "name": "GUAÍRA"
+    }, {
+        "id": 6292,
+        "name": "IBAITI"
+    }, {
+        "id": 6295,
+        "name": "IBIPORÃ"
+    }, {
+        "id": 9171,
+        "name": "ILHA SOLTEIRA"
+    }, {
+        "id": 2637,
+        "name": "IMPERATRIZ"
+    }, {
+        "id": 9185,
+        "name": "IRACEMÁPOLIS"
+    }, {
+        "id": 7008,
+        "name": "ITABORAÍ"
+    }, {
+        "id": 3411,
+        "name": "ITAJUBÁ"
+    }, {
+        "id": 9198,
+        "name": "ITAPETININGA"
+    }, {
+        "id": 9212,
+        "name": "ITATIBA"
+    }, {
+        "id": 9218,
+        "name": "ITU"
+    }, {
+        "id": 9220,
+        "name": "ITUVERAVA"
+    }, {
+        "id": 6341,
+        "name": "IVAIPORÃ"
+    }, {
+        "id": 6350,
+        "name": "JACAREZINHO"
+    }, {
+        "id": 9225,
+        "name": "JACAREÍ"
+    }, {
+        "id": 9232,
+        "name": "JALES"
+    }, {
+        "id": 8466,
+        "name": "JARAGUÁ DO SUL"
+    }, {
+        "id": 9243,
+        "name": "JAÚ"
+    }, {
+        "id": 8469,
+        "name": "JOINVILLE"
+    }, {
+        "id": 9249,
+        "name": "JOSÉ BONIFÁCIO"
+    }, {
+        "id": 5104,
+        "name": "JOÃO PESSOA"
+    }, {
+        "id": 847,
+        "name": "JUAZEIRO"
+    }, {
+        "id": 1567,
+        "name": "JUAZEIRO DO NORTE"
+    }, {
+        "id": 9253,
+        "name": "JUNDIAÍ"
+    }, {
+        "id": 8473,
+        "name": "LAGES"
+    }, {
+        "id": 9273,
+        "name": "LEME"
+    }, {
+        "id": 9275,
+        "name": "LIMEIRA"
+    }, {
+        "id": 9277,
+        "name": "LINS"
+    }, {
+        "id": 6410,
+        "name": "LOANDA"
+    }, {
+        "id": 6412,
+        "name": "LONDRINA"
+    }, {
+        "id": 9279,
+        "name": "LORENA"
+    }, {
+        "id": 185,
+        "name": "MACEIÓ"
+    }, {
+        "id": 7031,
+        "name": "MAGÉ"
+    }, {
+        "id": 322,
+        "name": "MANAUS"
+    }, {
+        "id": 4805,
+        "name": "MARABÁ"
+    }, {
+        "id": 6452,
+        "name": "MARINGÁ"
+    }, {
+        "id": 9306,
+        "name": "MARÍLIA"
+    }, {
+        "id": 6470,
+        "name": "MEDIANEIRA"
+    }, {
+        "id": 9326,
+        "name": "MOCOCA"
+    }, {
+        "id": 9327,
+        "name": "MOGI DAS CRUZES"
+    }, {
+        "id": 9335,
+        "name": "MONTE ALTO"
+    }, {
+        "id": 3614,
+        "name": "MONTES CLAROS"
+    }, {
+        "id": 34584,
+        "name": "NATAL"
+    }, {
+        "id": 6512,
+        "name": "NOVA LONDRINA"
+    }, {
+        "id": 3672,
+        "name": "OURO FINO"
+    }, {
+        "id": 8537,
+        "name": "PALHOÇA"
+    }, {
+        "id": 9786,
+        "name": "PALMAS"
+    }, {
+        "id": 9405,
+        "name": "PARAGUAÇU PAULISTA"
+    }, {
+        "id": 6563,
+        "name": "PARANAVAÍ"
+    }, {
+        "id": 7961,
+        "name": "PASSO FUNDO"
+    }, {
+        "id": 3713,
+        "name": "PASSOS"
+    }, {
+        "id": 6570,
+        "name": "PATO BRANCO"
+    }, {
+        "id": 9422,
+        "name": "PAULÍNIA"
+    }, {
+        "id": 9426,
+        "name": "PEDERNEIRAS"
+    }, {
+        "id": 9435,
+        "name": "PENÁPOLIS"
+    }, {
+        "id": 9438,
+        "name": "PERUÍBE"
+    }, {
+        "id": 9443,
+        "name": "PINDAMONHANGABA"
+    }, {
+        "id": 9451,
+        "name": "PIRACICABA"
+    }, {
+        "id": 6604,
+        "name": "PITANGA"
+    }, {
+        "id": 8002,
+        "name": "PORTO ALEGRE"
+    }, {
+        "id": 9477,
+        "name": "PORTO FERREIRA"
+    }, {
+        "id": 3798,
+        "name": "POÇOS DE CALDAS"
+    }, {
+        "id": 8573,
+        "name": "PRAIA GRANDE"
+    }, {
+        "id": 9490,
+        "name": "PRESIDENTE PRUDENTE"
+    }, {
+        "id": 34719,
+        "name": "PUERTO IGUAZÚ"
+    }, {
+        "id": 5541,
+        "name": "RECIFE"
+    }, {
+        "id": 9507,
+        "name": "REGISTRO"
+    }, {
+        "id": 1058,
+        "name": "RIBEIRA DO POMBAL"
+    }, {
+        "id": 9518,
+        "name": "RIBEIRÃO PRETO"
+    }, {
+        "id": 93,
+        "name": "RIO BRANCO"
+    }, {
+        "id": 7110,
+        "name": "RIO DE JANEIRO"
+    }, {
+        "id": 8598,
+        "name": "RIO DO SUL"
+    }, {
+        "id": 2452,
+        "name": "RIO QUENTE"
+    }, {
+        "id": 1076,
+        "name": "SALVADOR"
+    }, {
+        "id": 3930,
+        "name": "SANTA RITA DO SAPUCAÍ"
+    }, {
+        "id": 4902,
+        "name": "SANTARÉM"
+    }, {
+        "id": 6746,
+        "name": "SANTO ANTÔNIO DA PLATINA"
+    }, {
+        "id": 9594,
+        "name": "SANTOS"
+    }, {
+        "id": 6852,
+        "name": "SARANDI"
+    }, {
+        "id": 9643,
+        "name": "SERRANA"
+    }, {
+        "id": 9654,
+        "name": "SOROCABA"
+    }, {
+        "id": 9658,
+        "name": "SUMARÉ"
+    }, {
+        "id": 9661,
+        "name": "SUZANO"
+    }, {
+        "id": 9601,
+        "name": "SÃO CARLOS"
+    }, {
+        "id": 8640,
+        "name": "SÃO FRANCISCO DO SUL"
+    }, {
+        "id": 9616,
+        "name": "SÃO JOSÉ DO RIO PARDO"
+    }, {
+        "id": 9617,
+        "name": "SÃO JOSÉ DO RIO PRETO"
+    }, {
+        "id": 9618,
+        "name": "SÃO JOSÉ DOS CAMPOS"
+    }, {
+        "id": 4058,
+        "name": "SÃO LOURENÇO"
+    }, {
+        "id": 2749,
+        "name": "SÃO LUÍS"
+    }, {
+        "id": 8656,
+        "name": "SÃO MIGUEL DO OESTE"
+    }, {
+        "id": 9626,
+        "name": "SÃO PAULO"
+    }, {
+        "id": 4090,
+        "name": "SÃO SEBASTIÃO DO PARAÍSO"
+    }, {
+        "id": 9684,
+        "name": "TAUBATÉ"
+    }, {
+        "id": 6895,
+        "name": "TELÊMACO BORBA"
+    }, {
+        "id": 6911,
+        "name": "TOLEDO"
+    }, {
+        "id": 6934,
+        "name": "UMUARAMA"
+    }, {
+        "id": 6936,
+        "name": "UNIÃO DA VITÓRIA"
+    }, {
+        "id": 4232,
+        "name": "VARGINHA"
+    }, {
+        "id": 34073,
+        "name": "VINHEDO"
+    }, {
+        "id": 2181,
+        "name": "VITÓRIA"
+    }, {
+        "id": 7188,
+        "name": "VOLTA REDONDA"
+    }, {
+        "id": 34078,
+        "name": "VOTORANTIM"
+    }, {
+        "id": 34079,
+        "name": "VOTUPORANGA"
+    }]
+}
