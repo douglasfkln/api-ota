@@ -1,0 +1,354 @@
+{
+    "zones": [{
+        "id": 405,
+        "name": "Águas de Lindóia - São Paulo - Brasil"
+    }, {
+        "id": 733,
+        "name": "Águas de São Pedro - São Paulo - Brasil"
+    }, {
+        "id": 11,
+        "name": "Angra dos Reis - Rio de Janeiro - Brasil"
+    }, {
+        "id": 402,
+        "name": "Aparecida - São Paulo - Brasil"
+    }, {
+        "id": 159,
+        "name": "Aquiraz - Ceará - Brasil"
+    }, {
+        "id": 3,
+        "name": "Aracaju - Sergipe - Brasil"
+    }, {
+        "id": 93,
+        "name": "Araxá - Minas Gerais - Brasil"
+    }, {
+        "id": 8,
+        "name": "Arraial d' Ajuda - Bahia - Brasil"
+    }, {
+        "id": 638,
+        "name": "Arraial do Cabo - Rio de Janeiro"
+    }, {
+        "id": 221,
+        "name": "Atibaia - São Paulo - Brasil"
+    }, {
+        "id": 20,
+        "name": "Balneário Camboriú - Santa Catarina - Brasil"
+    }, {
+        "id": 50,
+        "name": "Barra Bonita - São Paulo - Brasil"
+    }, {
+        "id": 760,
+        "name": "Barra Grande - Bahia - Brasil"
+    }, {
+        "id": 223,
+        "name": "Barretos - São Paulo - Brasil"
+    }, {
+        "id": 441,
+        "name": "Beberibe - Ceará - Brasil"
+    }, {
+        "id": 17,
+        "name": "Belo Horizonte - Minas Gerais - Brasil"
+    }, {
+        "id": 116,
+        "name": "Bento Gonçalves - Rio Grande do Sul - Brasil"
+    }, {
+        "id": 21,
+        "name": "Beto Carrero World - Santa Catarina - Brasil"
+    }, {
+        "id": 150,
+        "name": "Blumenau - Santa Catarina - Brasil"
+    }, {
+        "id": 12,
+        "name": "Bonito - Mato Grosso do Sul - Brasil"
+    }, {
+        "id": 662,
+        "name": "Brumadinho - Minas Gerais"
+    }, {
+        "id": 623,
+        "name": "Brusque - Santa Catarina"
+    }, {
+        "id": 53,
+        "name": "Cabo Frio - Rio de Janeiro - Brasil"
+    }, {
+        "id": 129,
+        "name": "Cabo de Santo Agostinho - Pernambuco - Brasil"
+    }, {
+        "id": 14,
+        "name": "Caldas Novas - Goiás - Brasil"
+    }, {
+        "id": 434,
+        "name": "Campo Grande - Mato Grosso do Sul"
+    }, {
+        "id": 139,
+        "name": "Campos do Jordão - São Paulo - Brasil"
+    }, {
+        "id": 151,
+        "name": "Canela - Rio Grande do Sul - Brasil"
+    }, {
+        "id": 698,
+        "name": "Capitólio - Minas Gerais - Brasil"
+    }, {
+        "id": 22,
+        "name": "Cataratas do Iguaçu - Paraná - Brasil"
+    }, {
+        "id": 416,
+        "name": "Caxias do Sul - Rio Grande do Sul - Brasil"
+    }, {
+        "id": 705,
+        "name": "Chuí - Rio Grande do Sul"
+    }, {
+        "id": 28,
+        "name": "Cidades Históricas - Minas Gerais - Brasil"
+    }, {
+        "id": 505,
+        "name": "Comandatuba / Una - Bahia - Brasil"
+    }, {
+        "id": 720,
+        "name": "Conservatória - Rio de Janeiro - Brasil"
+    }, {
+        "id": 651,
+        "name": "Corumbá - Mato Grosso do Sul"
+    }, {
+        "id": 25,
+        "name": "Costa do Sauípe - Bahia - Brasil"
+    }, {
+        "id": 682,
+        "name": "Cruz - Ceará"
+    }, {
+        "id": 454,
+        "name": "Cumbuco - Ceará - Brasil "
+    }, {
+        "id": 55,
+        "name": "Curitiba - Paraná - Brasil"
+    }, {
+        "id": 653,
+        "name": "Domingos Martins - Espírito Santo"
+    }, {
+        "id": 726,
+        "name": "Engenheiro Passos - RJ"
+    }, {
+        "id": 30,
+        "name": "Florianópolis - Santa Catarina - Brasil"
+    }, {
+        "id": 1,
+        "name": "Fortaleza - Ceará - Brasil"
+    }, {
+        "id": 278,
+        "name": "Foz do Iguaçu - Paraná - Brasil"
+    }, {
+        "id": 414,
+        "name": "Fraiburgo - Santa Catarina - Brasil"
+    }, {
+        "id": 38,
+        "name": "Gramado - Rio Grande do Sul - Brasil"
+    }, {
+        "id": 95,
+        "name": "Guarajuba - Bahia - Brasil"
+    }, {
+        "id": 410,
+        "name": "Guarapari - Espírito Santo - Brasil"
+    }, {
+        "id": 411,
+        "name": "Holambra - São Paulo - Brasil"
+    }, {
+        "id": 39,
+        "name": "Ilha de Comandatuba - Bahia - Brasil"
+    }, {
+        "id": 443,
+        "name": "Ilha do Mel - Paraná - Brasil"
+    }, {
+        "id": 472,
+        "name": "Ilhabela - São Paulo - Brasil"
+    }, {
+        "id": 40,
+        "name": "Ilhéus - Bahia - Brasil"
+    }, {
+        "id": 41,
+        "name": "Itacaré - Bahia - Brasil"
+    }, {
+        "id": 622,
+        "name": "Itajaí - Santa Catarina"
+    }, {
+        "id": 418,
+        "name": "Itapema - Santa Catarina - Brasil"
+    }, {
+        "id": 43,
+        "name": "Jericoacoara - Ceará - Brasil"
+    }, {
+        "id": 44,
+        "name": "João Pessoa - Paraíba - Brasil"
+    }, {
+        "id": 206,
+        "name": "Joinville - Santa Catarina - Brasil"
+    }, {
+        "id": 657,
+        "name": "Lages - Santa Catarina"
+    }, {
+        "id": 412,
+        "name": "Laguna - Santa Catarina - Brasil"
+    }, {
+        "id": 52,
+        "name": "Lins - São Paulo - Brasil"
+    }, {
+        "id": 663,
+        "name": "Londrina - Paraná"
+    }, {
+        "id": 46,
+        "name": "Maceió - Alagoas - Brasil"
+    }, {
+        "id": 47,
+        "name": "Maragogi - Alagoas - Brasil"
+    }, {
+        "id": 284,
+        "name": "Maraú - Bahia - Brasil"
+    }, {
+        "id": 280,
+        "name": "Mariana - Minas Gerais - Brasil"
+    }, {
+        "id": 664,
+        "name": "Maringá - Paraná"
+    }, {
+        "id": 627,
+        "name": "Mata de São João - Bahia"
+    }, {
+        "id": 407,
+        "name": "Monte Sião - Minas Gerais - Brasil"
+    }, {
+        "id": 96,
+        "name": "Morro de São Paulo - Bahia - Brasil"
+    }, {
+        "id": 15,
+        "name": "Natal - Rio Grande do Norte - Brasil"
+    }, {
+        "id": 639,
+        "name": "Navegantes - Santa Catarina"
+    }, {
+        "id": 765,
+        "name": "Nova Friburgo - Rio de Janeiro - Brasil"
+    }, {
+        "id": 408,
+        "name": "Olímpia - São Paulo - Brasil"
+    }, {
+        "id": 16,
+        "name": "Ouro Preto - Minas Gerais - Brasil"
+    }, {
+        "id": 13,
+        "name": "Pantanal"
+    }, {
+        "id": 97,
+        "name": "Petrópolis - Rio de Janeiro - Brasil"
+    }, {
+        "id": 735,
+        "name": "Piracicaba - São Paulo - Brasil"
+    }, {
+        "id": 640,
+        "name": "Piratuba - Santa Catarina"
+    }, {
+        "id": 61,
+        "name": "Poços de Caldas - Minas Gerais - Brasil"
+    }, {
+        "id": 730,
+        "name": "Ponta Porã - MS"
+    }, {
+        "id": 152,
+        "name": "Porto Alegre - Rio Grande do Sul - Brasil"
+    }, {
+        "id": 19,
+        "name": "Porto Seguro - Bahia - Brasil"
+    }, {
+        "id": 5,
+        "name": "Porto de Galinhas - Pernambuco - Brasil"
+    }, {
+        "id": 124,
+        "name": "Praia da Pipa - Rio Grande do Norte - Brasil"
+    }, {
+        "id": 26,
+        "name": "Praia do Forte - Bahia - Brasil"
+    }, {
+        "id": 641,
+        "name": "Praia do Francês - Alagoas"
+    }, {
+        "id": 430,
+        "name": "Praia dos Carneiros - Pernambuco - Brasil"
+    }, {
+        "id": 32,
+        "name": "Praias Capixabas - Espirito Santo - Brasil"
+    }, {
+        "id": 62,
+        "name": "Quatro Bandeiras - São Paulo - Brasil"
+    }, {
+        "id": 34,
+        "name": "Recife - Pernambuco - Brasil"
+    }, {
+        "id": 727,
+        "name": "Resende - RJ"
+    }, {
+        "id": 711,
+        "name": "Réveillon - Rio de Janeiro"
+    }, {
+        "id": 423,
+        "name": "Rio Quente - Goiás - Brasil"
+    }, {
+        "id": 36,
+        "name": "Rio de Janeiro - Rio de Janeiro - Brasil"
+    }, {
+        "id": 689,
+        "name": "Rock In Rio - Rio de Janeiro"
+    }, {
+        "id": 739,
+        "name": "Rodoviário Internacional"
+    }, {
+        "id": 128,
+        "name": "Salvador - Bahia - Brasil"
+    }, {
+        "id": 155,
+        "name": "Santa Cruz Cabrália - Bahia - Brasil"
+    }, {
+        "id": 767,
+        "name": "Santo André - São Paulo - Brasil"
+    }, {
+        "id": 183,
+        "name": "Santos - São Paulo - Brasil"
+    }, {
+        "id": 409,
+        "name": "São José do Rio Preto - São Paulo - Brasil"
+    }, {
+        "id": 56,
+        "name": "São Paulo - São Paulo - Brasil"
+    }, {
+        "id": 37,
+        "name": "Serra Gaúcha - Rio Grande do Sul - Brasil"
+    }, {
+        "id": 437,
+        "name": "Serra Negra - São Paulo - Brasil"
+    }, {
+        "id": 163,
+        "name": "Sul do Brasil - Brasil"
+    }, {
+        "id": 98,
+        "name": "Teresópolis - Rio de Janeiro"
+    }, {
+        "id": 156,
+        "name": "Tiradentes - Minas Gerais - Brasil"
+    }, {
+        "id": 725,
+        "name": "Touros - Rio Grande do Norte - Brasil"
+    }, {
+        "id": 49,
+        "name": "Trancoso - Bahia - Brasil"
+    }, {
+        "id": 415,
+        "name": "Treze Tílias - Santa Catarina - Brasil"
+    }, {
+        "id": 59,
+        "name": "Vale da Mantiqueira - Minas Gerais - Brasil"
+    }, {
+        "id": 246,
+        "name": "Vila Velha - Espirito Santo - Brasil"
+    }, {
+        "id": 287,
+        "name": "Virgínia - Minas Gerais - Brasil"
+    }, {
+        "id": 33,
+        "name": "Vitória - Espírito Santo - Brasil"
+    }]
+}
