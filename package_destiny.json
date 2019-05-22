@@ -1,354 +1,315 @@
 {
     "zones": [{
-        "id": 405,
-        "name": "Águas de Lindóia - São Paulo - Brasil"
+        "id": 327,
+        "name": "Abu Dhabi - Emirados Árabes Unidos"
     }, {
-        "id": 733,
-        "name": "Águas de São Pedro - São Paulo - Brasil"
+        "id": 89,
+        "name": "África do Sul"
     }, {
-        "id": 11,
-        "name": "Angra dos Reis - Rio de Janeiro - Brasil"
+        "id": 257,
+        "name": "Alasca - Estados Unidos"
     }, {
-        "id": 402,
-        "name": "Aparecida - São Paulo - Brasil"
+        "id": 326,
+        "name": "Amã - Jordânia"
     }, {
-        "id": 159,
-        "name": "Aquiraz - Ceará - Brasil"
+        "id": 457,
+        "name": "Anchorage - Estados Unidos"
     }, {
-        "id": 3,
-        "name": "Aracaju - Sergipe - Brasil"
+        "id": 231,
+        "name": "Arequipa - Peru"
     }, {
-        "id": 93,
-        "name": "Araxá - Minas Gerais - Brasil"
+        "id": 195,
+        "name": "Assunção - Paraguai"
     }, {
-        "id": 8,
-        "name": "Arraial d' Ajuda - Bahia - Brasil"
+        "id": 322,
+        "name": "Atenas - Grécia"
     }, {
-        "id": 638,
-        "name": "Arraial do Cabo - Rio de Janeiro"
+        "id": 389,
+        "name": "Auckland - Nova Zelândia"
     }, {
-        "id": 221,
-        "name": "Atibaia - São Paulo - Brasil"
+        "id": 239,
+        "name": "Austrália"
     }, {
-        "id": 20,
-        "name": "Balneário Camboriú - Santa Catarina - Brasil"
+        "id": 753,
+        "name": "Bali"
     }, {
-        "id": 50,
-        "name": "Barra Bonita - São Paulo - Brasil"
+        "id": 399,
+        "name": "Banff - Canadá"
     }, {
-        "id": 760,
-        "name": "Barra Grande - Bahia - Brasil"
+        "id": 432,
+        "name": "Bangkok  - Tailândia"
     }, {
-        "id": 223,
-        "name": "Barretos - São Paulo - Brasil"
+        "id": 142,
+        "name": "Barcelona - Espanha"
     }, {
-        "id": 441,
-        "name": "Beberibe - Ceará - Brasil"
+        "id": 6,
+        "name": "Bariloche - Argentina"
     }, {
-        "id": 17,
-        "name": "Belo Horizonte - Minas Gerais - Brasil"
+        "id": 707,
+        "name": "Beirute - Líbano"
     }, {
-        "id": 116,
-        "name": "Bento Gonçalves - Rio Grande do Sul - Brasil"
+        "id": 321,
+        "name": "Boston - Estados Unidos"
     }, {
-        "id": 21,
-        "name": "Beto Carrero World - Santa Catarina - Brasil"
+        "id": 2,
+        "name": "Buenos Aires - Argentina"
     }, {
-        "id": 150,
-        "name": "Blumenau - Santa Catarina - Brasil"
+        "id": 169,
+        "name": "Cairo - Egito"
     }, {
-        "id": 12,
-        "name": "Bonito - Mato Grosso do Sul - Brasil"
+        "id": 396,
+        "name": "Calgary - Canadá"
     }, {
-        "id": 662,
-        "name": "Brumadinho - Minas Gerais"
+        "id": 72,
+        "name": "Califórnia - Estados Unidos"
     }, {
-        "id": 623,
-        "name": "Brusque - Santa Catarina"
+        "id": 71,
+        "name": "Canadá"
     }, {
-        "id": 53,
-        "name": "Cabo Frio - Rio de Janeiro - Brasil"
+        "id": 167,
+        "name": "Capadócia - Turquia"
     }, {
-        "id": 129,
-        "name": "Cabo de Santo Agostinho - Pernambuco - Brasil"
+        "id": 346,
+        "name": "Casablanca - Marrocos"
     }, {
-        "id": 14,
-        "name": "Caldas Novas - Goiás - Brasil"
+        "id": 339,
+        "name": "Chicago - Estados Unidos"
     }, {
-        "id": 434,
-        "name": "Campo Grande - Mato Grosso do Sul"
+        "id": 319,
+        "name": "Cidade do Cabo - África do Sul"
     }, {
-        "id": 139,
-        "name": "Campos do Jordão - São Paulo - Brasil"
+        "id": 230,
+        "name": "Cuzco - Peru"
     }, {
-        "id": 151,
-        "name": "Canela - Rio Grande do Sul - Brasil"
+        "id": 171,
+        "name": "Dubai - Emirados Árabes Unidos"
     }, {
-        "id": 698,
-        "name": "Capitólio - Minas Gerais - Brasil"
+        "id": 465,
+        "name": "Dublin - Irlanda"
     }, {
-        "id": 22,
-        "name": "Cataratas do Iguaçu - Paraná - Brasil"
+        "id": 118,
+        "name": "Egito"
     }, {
-        "id": 416,
-        "name": "Caxias do Sul - Rio Grande do Sul - Brasil"
+        "id": 175,
+        "name": "El Calafate - Argentina"
     }, {
-        "id": 705,
-        "name": "Chuí - Rio Grande do Sul"
+        "id": 466,
+        "name": "Fort Lauderdale - Estados Unidos"
     }, {
-        "id": 28,
-        "name": "Cidades Históricas - Minas Gerais - Brasil"
+        "id": 420,
+        "name": "Galápagos - Equador"
     }, {
-        "id": 505,
-        "name": "Comandatuba / Una - Bahia - Brasil"
+        "id": 606,
+        "name": "Galway - Irlanda"
     }, {
-        "id": 720,
-        "name": "Conservatória - Rio de Janeiro - Brasil"
+        "id": 80,
+        "name": "Grand Canyon - Estados Unidos"
     }, {
-        "id": 651,
-        "name": "Corumbá - Mato Grosso do Sul"
+        "id": 267,
+        "name": "Guayaquil - Equador"
     }, {
-        "id": 25,
-        "name": "Costa do Sauípe - Bahia - Brasil"
+        "id": 189,
+        "name": "Honolulu - Hawaii - Estados Unidos"
     }, {
-        "id": 682,
-        "name": "Cruz - Ceará"
+        "id": 400,
+        "name": "Ilha Maurício"
     }, {
-        "id": 454,
-        "name": "Cumbuco - Ceará - Brasil "
+        "id": 205,
+        "name": "Índia"
     }, {
-        "id": 55,
-        "name": "Curitiba - Paraná - Brasil"
+        "id": 445,
+        "name": "Indianápolis - Estados Unidos"
     }, {
-        "id": 653,
-        "name": "Domingos Martins - Espírito Santo"
+        "id": 164,
+        "name": "Israel"
     }, {
-        "id": 726,
-        "name": "Engenheiro Passos - RJ"
+        "id": 166,
+        "name": "Istambul - Turquia"
     }, {
-        "id": 30,
-        "name": "Florianópolis - Santa Catarina - Brasil"
+        "id": 398,
+        "name": "Jasper - Canadá"
     }, {
-        "id": 1,
-        "name": "Fortaleza - Ceará - Brasil"
+        "id": 309,
+        "name": "Jerusalém - Israel"
     }, {
-        "id": 278,
-        "name": "Foz do Iguaçu - Paraná - Brasil"
+        "id": 308,
+        "name": "Joanesburgo - África do Sul"
     }, {
-        "id": 414,
-        "name": "Fraiburgo - Santa Catarina - Brasil"
+        "id": 165,
+        "name": "Jordânia"
     }, {
-        "id": 38,
-        "name": "Gramado - Rio Grande do Sul - Brasil"
+        "id": 460,
+        "name": "La Paz - Bolívia"
     }, {
-        "id": 95,
-        "name": "Guarajuba - Bahia - Brasil"
+        "id": 461,
+        "name": "Lago Titicaca"
     }, {
-        "id": 410,
-        "name": "Guarapari - Espírito Santo - Brasil"
+        "id": 77,
+        "name": "Las Vegas - Estados Unidos"
     }, {
-        "id": 411,
-        "name": "Holambra - São Paulo - Brasil"
+        "id": 628,
+        "name": "Laughlin - Estados Unidos"
     }, {
-        "id": 39,
-        "name": "Ilha de Comandatuba - Bahia - Brasil"
+        "id": 219,
+        "name": "Lima - Peru"
     }, {
-        "id": 443,
-        "name": "Ilha do Mel - Paraná - Brasil"
+        "id": 86,
+        "name": "Londres - Inglaterra"
     }, {
-        "id": 472,
-        "name": "Ilhabela - São Paulo - Brasil"
+        "id": 78,
+        "name": "Los Angeles - Estados Unidos"
     }, {
-        "id": 40,
-        "name": "Ilhéus - Bahia - Brasil"
+        "id": 66,
+        "name": "Machu Picchu - Peru"
     }, {
-        "id": 41,
-        "name": "Itacaré - Bahia - Brasil"
+        "id": 141,
+        "name": "Madri - Espanha"
     }, {
-        "id": 622,
-        "name": "Itajaí - Santa Catarina"
+        "id": 347,
+        "name": "Marrakech - Marrocos"
     }, {
-        "id": 418,
-        "name": "Itapema - Santa Catarina - Brasil"
+        "id": 345,
+        "name": "Marrocos"
     }, {
-        "id": 43,
-        "name": "Jericoacoara - Ceará - Brasil"
+        "id": 477,
+        "name": "Melborne - Austrália"
     }, {
-        "id": 44,
-        "name": "João Pessoa - Paraíba - Brasil"
+        "id": 447,
+        "name": "Memphis - Estados Unidos"
     }, {
-        "id": 206,
-        "name": "Joinville - Santa Catarina - Brasil"
+        "id": 70,
+        "name": "Mendoza - Argentina"
     }, {
-        "id": 657,
-        "name": "Lages - Santa Catarina"
+        "id": 76,
+        "name": "Miami - Estados Unidos"
     }, {
-        "id": 412,
-        "name": "Laguna - Santa Catarina - Brasil"
+        "id": 217,
+        "name": "Montevidéu - Uruguai"
     }, {
-        "id": 52,
-        "name": "Lins - São Paulo - Brasil"
+        "id": 306,
+        "name": "Montreal - Canadá"
     }, {
-        "id": 663,
-        "name": "Londrina - Paraná"
+        "id": 328,
+        "name": "Mykonos - Grécia"
     }, {
-        "id": 46,
-        "name": "Maceió - Alagoas - Brasil"
+        "id": 668,
+        "name": "Namíbia - África"
     }, {
-        "id": 47,
-        "name": "Maragogi - Alagoas - Brasil"
+        "id": 446,
+        "name": "Nashville - Estados Unidos"
     }, {
-        "id": 284,
-        "name": "Maraú - Bahia - Brasil"
+        "id": 233,
+        "name": "Nazca - Peru"
     }, {
-        "id": 280,
-        "name": "Mariana - Minas Gerais - Brasil"
+        "id": 392,
+        "name": "Niagara Falls - Canadá"
     }, {
-        "id": 664,
-        "name": "Maringá - Paraná"
+        "id": 448,
+        "name": "Nova Orleans - Estados Unidos"
     }, {
-        "id": 627,
-        "name": "Mata de São João - Bahia"
+        "id": 74,
+        "name": "Nova York - Estados Unidos"
     }, {
-        "id": 407,
-        "name": "Monte Sião - Minas Gerais - Brasil"
+        "id": 240,
+        "name": "Nova Zelândia"
     }, {
-        "id": 96,
-        "name": "Morro de São Paulo - Bahia - Brasil"
+        "id": 73,
+        "name": "Orlando - Estados Unidos"
     }, {
-        "id": 15,
-        "name": "Natal - Rio Grande do Norte - Brasil"
+        "id": 301,
+        "name": "Ottawa - Canadá"
     }, {
-        "id": 639,
-        "name": "Navegantes - Santa Catarina"
+        "id": 535,
+        "name": "Panamá"
     }, {
-        "id": 765,
-        "name": "Nova Friburgo - Rio de Janeiro - Brasil"
+        "id": 87,
+        "name": "Paris - França"
     }, {
-        "id": 408,
-        "name": "Olímpia - São Paulo - Brasil"
+        "id": 300,
+        "name": "Pequim - China"
     }, {
-        "id": 16,
-        "name": "Ouro Preto - Minas Gerais - Brasil"
+        "id": 324,
+        "name": "Petra - Jordânia"
     }, {
-        "id": 13,
-        "name": "Pantanal"
+        "id": 548,
+        "name": "Peulla - Chile"
     }, {
-        "id": 97,
-        "name": "Petrópolis - Rio de Janeiro - Brasil"
+        "id": 433,
+        "name": "Phuket - Tailândia"
     }, {
-        "id": 735,
-        "name": "Piracicaba - São Paulo - Brasil"
+        "id": 172,
+        "name": "Puerto Varas - Chile"
     }, {
-        "id": 640,
-        "name": "Piratuba - Santa Catarina"
+        "id": 746,
+        "name": "Puno - Peru"
     }, {
-        "id": 61,
-        "name": "Poços de Caldas - Minas Gerais - Brasil"
+        "id": 226,
+        "name": "Punta Arenas - Chile"
     }, {
-        "id": 730,
-        "name": "Ponta Porã - MS"
+        "id": 111,
+        "name": "Punta Cana - República Dominicana"
     }, {
-        "id": 152,
-        "name": "Porto Alegre - Rio Grande do Sul - Brasil"
+        "id": 64,
+        "name": "Punta del Este - Uruguai"
     }, {
-        "id": 19,
-        "name": "Porto Seguro - Bahia - Brasil"
+        "id": 297,
+        "name": "Quebec - Canadá"
     }, {
-        "id": 5,
-        "name": "Porto de Galinhas - Pernambuco - Brasil"
+        "id": 391,
+        "name": "Queenstown - Nova Zelândia"
     }, {
-        "id": 124,
-        "name": "Praia da Pipa - Rio Grande do Norte - Brasil"
+        "id": 248,
+        "name": "Quênia"
     }, {
-        "id": 26,
-        "name": "Praia do Forte - Bahia - Brasil"
+        "id": 266,
+        "name": "Quito - Equador"
     }, {
-        "id": 641,
-        "name": "Praia do Francês - Alagoas"
+        "id": 462,
+        "name": "Salar de Uyuni - Bolívia"
     }, {
-        "id": 430,
-        "name": "Praia dos Carneiros - Pernambuco - Brasil"
+        "id": 549,
+        "name": "San Pedro de Atacama - Chile"
     }, {
-        "id": 32,
-        "name": "Praias Capixabas - Espirito Santo - Brasil"
+        "id": 68,
+        "name": "Santiago - Chile"
     }, {
-        "id": 62,
-        "name": "Quatro Bandeiras - São Paulo - Brasil"
+        "id": 325,
+        "name": "Santorini - Grécia"
     }, {
-        "id": 34,
-        "name": "Recife - Pernambuco - Brasil"
+        "id": 335,
+        "name": "São Francisco - Estados Unidos"
     }, {
-        "id": 727,
-        "name": "Resende - RJ"
+        "id": 493,
+        "name": "Sliema - Malta"
     }, {
-        "id": 711,
-        "name": "Réveillon - Rio de Janeiro"
+        "id": 386,
+        "name": "Sydney - Austrália"
     }, {
-        "id": 423,
-        "name": "Rio Quente - Goiás - Brasil"
+        "id": 252,
+        "name": "Tailândia"
     }, {
-        "id": 36,
-        "name": "Rio de Janeiro - Rio de Janeiro - Brasil"
+        "id": 294,
+        "name": "Tel Aviv - Israel"
     }, {
-        "id": 689,
-        "name": "Rock In Rio - Rio de Janeiro"
+        "id": 293,
+        "name": "Toronto - Canadá"
     }, {
-        "id": 739,
-        "name": "Rodoviário Internacional"
+        "id": 174,
+        "name": "Ushuaia - Argentina"
     }, {
-        "id": 128,
-        "name": "Salvador - Bahia - Brasil"
+        "id": 292,
+        "name": "Vancouver - Canadá"
     }, {
-        "id": 155,
-        "name": "Santa Cruz Cabrália - Bahia - Brasil"
+        "id": 291,
+        "name": "Washington - Estados Unidos"
     }, {
-        "id": 767,
-        "name": "Santo André - São Paulo - Brasil"
+        "id": 394,
+        "name": "Whistler - Canadá"
     }, {
-        "id": 183,
-        "name": "Santos - São Paulo - Brasil"
+        "id": 393,
+        "name": "Whitehorse - Canadá"
     }, {
-        "id": 409,
-        "name": "São José do Rio Preto - São Paulo - Brasil"
-    }, {
-        "id": 56,
-        "name": "São Paulo - São Paulo - Brasil"
-    }, {
-        "id": 37,
-        "name": "Serra Gaúcha - Rio Grande do Sul - Brasil"
-    }, {
-        "id": 437,
-        "name": "Serra Negra - São Paulo - Brasil"
-    }, {
-        "id": 163,
-        "name": "Sul do Brasil - Brasil"
-    }, {
-        "id": 98,
-        "name": "Teresópolis - Rio de Janeiro"
-    }, {
-        "id": 156,
-        "name": "Tiradentes - Minas Gerais - Brasil"
-    }, {
-        "id": 725,
-        "name": "Touros - Rio Grande do Norte - Brasil"
-    }, {
-        "id": 49,
-        "name": "Trancoso - Bahia - Brasil"
-    }, {
-        "id": 415,
-        "name": "Treze Tílias - Santa Catarina - Brasil"
-    }, {
-        "id": 59,
-        "name": "Vale da Mantiqueira - Minas Gerais - Brasil"
-    }, {
-        "id": 246,
-        "name": "Vila Velha - Espirito Santo - Brasil"
-    }, {
-        "id": 287,
-        "name": "Virgínia - Minas Gerais - Brasil"
-    }, {
-        "id": 33,
-        "name": "Vitória - Espírito Santo - Brasil"
+        "id": 290,
+        "name": "Xangai - China"
     }]
 }
