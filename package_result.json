@@ -1,0 +1,1705 @@
+{
+    "baseDestinations": [
+        {
+            "id": 6425,
+            "name": "Rio de Janeiro - 2 dias / 1 diária",
+            "description": "O Rio de Janeiro é uma daquelas cidades ensolaradas, que seduzem despretensiosamente os seus admiradores, logo à primeira vista. Não por acaso, ostenta o título de cidade maravilhosa. Afinal, graças à simpatia divina, o Rio de Janeiro já era um paraíso ecológico perdido em meio ao centro urbano, antes mesmo que se falasse em ecologia. Essa inspiração geográfica é um dos destinos turísticos brasileiros mais requisitados pelos turistas locais e do mundo.",
+            "days": 2,
+            "lowestPackage": {
+                "price": 10300,
+                "departureDate": "2019-06-01-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Passagens aéreas de ida e volta"
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "false"
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "1 diária de hospedagem com café da manhã"
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "false"
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "false"
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "false"
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "flightIcon",
+                            "name": "Passagens aéreas"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Rio de Janeiro",
+                    "description": "Apresentação no aeroporto para embarque com destino ao Rio de Janeiro. Chegada ao aeroporto do Rio de Janeiro e restante do dia livre (não inclui traslado)."
+                },
+                {
+                    "label": "2º dia - Retorno",
+                    "description": "Café da manhã e, em horário determinado, embarque em voo de retorno (não inclui traslado)."
+                }
+            ]
+        },
+        {
+            "id": 2932,
+            "name": "Rio de Janeiro - 4 dias / 3 diárias",
+            "description": "O Rio de Janeiro é uma daquelas cidades ensolaradas, que seduzem despretensiosamente os seus admiradores, logo à primeira vista. Não por acaso, ostenta o título de cidade maravilhosa. Afinal, graças à simpatia divina, o Rio de Janeiro já era um paraíso ecológico perdido em meio ao centro urbano, antes mesmo que se falasse em ecologia. Essa inspiração geográfica é um dos destinos turísticos brasileiros mais requisitados pelos turistas locais e do mundo.",
+            "days": 4,
+            "lowestPackage": {
+                "price": 18600,
+                "departureDate": "2019-07-12-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Passagem aérea de ida e volta."
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "false"
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "3 diárias de hospedagem no hotel escolhido com café da manhã."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "false"
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "false"
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "false"
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "flightIcon",
+                            "name": "Passagens aéreas"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Partida / Rio de Janeiro",
+                    "description": "Apresentação no aeroporto para embarque com destino ao Rio de Janeiro. Chegada ao aeroporto do Rio de Janeiro e restante do dia livre. Não inclui traslado ao hotel. "
+                },
+                {
+                    "label": "2º dia - Rio de Janeiro",
+                    "description": "Café da manhã e, logo após, sugere-se visita a cidade do Rio de Janeiro (passeio de 4h de duração), conhecida internacionalmente como uma das cidades mais bonitas do mundo. O contraste do mar com as montanhas e do antigo com o moderno, a tornam irresistível. Destaques do passeio acervo histórico - cultural de elevada importância, Aterro do Flamengo, Estádio do Maracanã (visita externa), Praias de Botafogo, Copacabana, Ipanema, Leblon, São Conrado e Barra da Tijuca, Corcovado e ao Pão de Açúcar (ingressos não inclusos). Restante do dia livre."
+                },
+                {
+                    "label": "3º dia - Rio de Janeiro",
+                    "description": "Café da manhã e dia inteiramente livre para atividades independentes. Sugere-se aproveitar o dia para um dos muitos passeios opcionais, indicados por seu guia."
+                },
+                {
+                    "label": "4º dia - Rio de Janeiro / Retorno",
+                    "description": "Café da manhã e apresentação no aeroporto para embarque (não inclui traslado entre o hotel e o aeroporto).\nImportante\nA ordem dos passeios pode sofrer alteração devido a condições climáticas ou outros fatores. Todos os passeios adquiridos pelo passageiro serão realizados."
+                }
+            ]
+        },
+        {
+            "id": 800,
+            "name": "Rio de Janeiro com Petrópolis - 3 dias / 1 diária",
+            "description": "O Rio de Janeiro é uma daquelas cidades que seduzem despretensiosamente seus admiradores. Não por acaso, ostenta o título de cidade maravilhosa e já era um paraíso ecológico perdido em meio ao centro urbano, antes de se falar em ecologia. Petrópolis é o destino de inverno dos cariocas. Localizada na Serra Fluminense, concentra parte da história do Brasil estampada em suas construções, marcadas pela colonização europeia.",
+            "days": 3,
+            "lowestPackage": {
+                "price": 19000,
+                "departureDate": "2019-08-09-03:00",
+                "currency": "PTS"
+            },
+            "type": "ROAD",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Transporte rodoviário de ida e volta em ônibus com ar-condicionado e serviço de bordo."
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "false"
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "1 diária com café da manhã."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "Visita aos principais pontos turísticos do Rio de Janeiro e Petrópolis (não inclui ingressos)."
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "false"
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "false"
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "Guia acompanhante durante toda a viagem."
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "tourIcon",
+                            "name": "Passeio"
+                        },
+                        {
+                            "code": "roadIcon",
+                            "name": "Transporte rodoviário"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Partida para o Rio de Janeiro",
+                    "description": "Apresentação para embarque em ônibus para o Rio de Janeiro. Saída prevista para 23h30."
+                },
+                {
+                    "label": "2º dia - Rio de Janeiro",
+                    "description": "Chegada pela manhã. Visita panorâmica à cidade do Rio de Janeiro. Destaques do passeio Aterro do Flamengo, Estádio do Maracanã (visita externa), praias de Botafogo, Copacabana, Ipanema, Leblon, São Conrado e Barra da Tijuca. Hospedagem. Passeio ao Corcovado e ao Pão-de-Açúcar (ingressos não incluídos). Retorno no final da tarde. Noite Livre."
+                },
+                {
+                    "label": "3º dia - Rio de Janeiro / Petrópolis / Retorno",
+                    "description": "Café da manhã e saída para a cidade de Petrópolis, importante cidade serrana e conhecida como Cidade Imperial, por ser a sede de verão do governo na época de Dom Pedro. Destaques da cidade Palácio de Cristal, Palácio Quitandinha, Museu Casa de Santos Dumont, Catedral São Pedro de Alcântara e Universidade Católica, Casa do Barão de Mauá e Museu Imperial (ingressos não inclusos). À tarde, início da viagem de retorno. Chegada prevista para 21h e desembarque na mesma cidade de partida.\n\nImportante\nA ordem dos passeios pode sofrer alteração devido a condições climáticas ou outros fatores. Todos os passeios adquiridos pelo passageiro serão realizados."
+                }
+            ]
+        },
+        {
+            "id": 2925,
+            "name": "Rio de Janeiro com Petrópolis - 4 dias / 2 diárias",
+            "description": "O Rio de Janeiro é uma daquelas cidades que seduzem seus admiradores. Não por acaso, ostenta o título de cidade maravilhosa e já era um paraíso ecológico perdido em meio ao centro urbano, antes de se falar em ecologia. Petrópolis é o destino de inverno dos cariocas. Localizada na Serra Fluminense, concentra parte da história do Brasil estampada em suas construções, marcadas pela colonização europeia.",
+            "days": 4,
+            "lowestPackage": {
+                "price": 27500,
+                "departureDate": "2019-11-14-02:00",
+                "currency": "PTS"
+            },
+            "type": "ROAD",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Transporte rodoviário de ida e volta."
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "false"
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "2 diárias com café da manhã."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "City tour na cidade do Rio de Janeiro e Petrópolis (não inclui ingressos)."
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "Kit lanche de saída e guia acompanhante."
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "false"
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "tourIcon",
+                            "name": "Passeio"
+                        },
+                        {
+                            "code": "roadIcon",
+                            "name": "Transporte rodoviário"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - São Paulo",
+                    "description": "À noite, embarque em ônibus com destino ao Rio de Janeiro."
+                },
+                {
+                    "label": "2º dia - Rio de Janeiro",
+                    "description": "Chegada pela manhã. Em seguida, visita panorâmica pela cidade do Rio de Janeiro. Entre os destaques do passeio está a passagem pela parte histórica e a locais como o Aterro do Flamengo, Estádio do Maracanã (visita externa), Igreja da Candelária (visita externa) e às praias de Botafogo, Copacabana, Ipanema, Leblon, São Conrado e Barra da Tijuca. Em seguida, hospedagem e tempo livre. À tarde, saída para visita ao Corcovado e ao Pão de Açúcar (não inclui ingressos). Retorno ao hotel no final da tarde. Noite livre."
+                },
+                {
+                    "label": "3º dia - Rio de Janeiro / Petrópolis / Rio de Janeiro",
+                    "description": "Café da manhã e saída para a cidade de Petrópolis. Destaque para locais como o Palácio de Cristal, Palácio Quitandinha, Museu Casa de Santos Dumont, Catedral São Pedro de Alcântara e Universidade Católica, Casa do Barão de Mauá e Museu Imperial (não inclui ingressos). No retorno, visita ao Museu de Arte do Rio de Janeiro (não inclui ingressos)."
+                },
+                {
+                    "label": "4º dia - Rio de Janeiro / São Paulo",
+                    "description": "Café da manha e manhã livre. À tarde, início da viagem de retorno. Chegada e desembarque no mesmo local de partida.\n\nImportante\nA ordem dos passeios pode sofrer alteração devido a condições climáticas ou outros fatores. Todos os passeios adquiridos pelo passageiro serão realizados."
+                }
+            ]
+        },
+        {
+            "id": 293983,
+            "name": "Rock In Rio Punk Rock - 1 dia / ida e volta",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio. <BR>",
+            "days": 2,
+            "lowestPackage": {
+                "price": 29300,
+                "departureDate": "2019-09-27-03:00",
+                "currency": "PTS"
+            },
+            "type": "ROAD",
+            "contents": [
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "transferIcon",
+                            "name": "Transporte rodoviário",
+                            "description": "Transporte rodoviário - ida e volta"
+                        },
+                        {
+                            "code": "ticketIcon",
+                            "name": "Ingresso",
+                            "description": "Ingresso - 1 dia de ingresso"
+                        }
+                    ]
+                },
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transfer",
+                            "name": "Transporte rodoviário",
+                            "description": "ida e volta"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Ingresso",
+                            "description": "1 dia de ingresso"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Seguro Viagem",
+                            "description": "cobertura no período do roteiro"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Observação",
+                            "description": "Ingresso conforme data e programação adquirida. Este roteiro não inclui hospedagem. Os serviços não são reembolsáveis"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1",
+                    "description": "Embarque pela manhã (horário previsto às 05h00 da manhã) - consulte cidades e horários com seu agente de viagens) em confortável veículo de turismo com destino ao Rio de Janeiro. Chegada na Cidade do Rock às 14h00 quando os portões serão abertos."
+                },
+                {
+                    "label": "2",
+                    "description": "Após o término da programação, em torno de 30 minutos, inicio da viagem de retorno. Desembarque no mesmo local de partida."
+                },
+                {
+                    "label": "3",
+                    "description": " - Ingresso conforme data e programação adquirida. Este roteiro não inclui hospedagem. Os serviços não são reembolsáveis."
+                }
+            ]
+        },
+        {
+            "id": 425,
+            "name": "Rio de Janeiro - 3 dias / 2 diárias",
+            "description": "O Rio de Janeiro é uma daquelas cidades ensolaradas, que seduzem despretensiosamente os seus admiradores, logo à primeira vista. Não por acaso, ostenta o título de cidade maravilhosa. Afinal, graças à simpatia divina, o Rio de Janeiro já era um paraíso ecológico perdido em meio ao centro urbano, antes mesmo que se falasse em ecologia. Essa inspiração geográfica é um dos destinos turísticos brasileiros mais requisitados pelos turistas locais e do mundo.",
+            "days": 3,
+            "lowestPackage": {
+                "price": 29300,
+                "departureDate": "2019-07-05-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Passagem aérea de ida e volta."
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "false"
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "2 diárias de hospedagem no hotel escolhido com café da manhã.\n"
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "false"
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "false"
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "false"
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "flightIcon",
+                            "name": "Passagens aéreas"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1° dia - Rio de Janeiro",
+                    "description": "Recepção no aeroporto e traslado para o hotel. Hospedagem e dia livre."
+                },
+                {
+                    "label": "2° dia - Rio de Janeiro",
+                    "description": "Após café da manhã, sugere-sepasseio aos principais pontos turísticospela cidade (não incluso no pacote). Subida ao Pão de Açúcar pelo teleférico, passeio pelo Parque do Flamengo e Centro da Cidade, visitaà Catedral Metropolitana, visão dos Monumentos Arquitetônicos do Rio epassagem em frente ao Maracanã. Tempo livre para almoço. Vista panorâmica do Rio. Passeio pelas praias da Barra da Tijuca e Zona Sul, subida de trem ao Corcovado no final da tarde eretorno ao hotel (ingressos e refeições não inclusos). À noite, sugere-se o show da Cidade do Samba, numa sensação de estar em pleno Carnaval Carioca em qualquer dia do ano."
+                },
+                {
+                    "label": "3° dia - Rio de Janeiro",
+                    "description": "Café da manhã e logo após, sugere-se um passeio pelo calçadão da praia. No horário agendado pelo receptivo local, haverá traslado para o aeroporto.\nImportante - A ordem dos passeios pode sofrer alteração devido a condições climáticas ou outros fatores. Todos os passeios adquiridos pelo passageiro serão realizados."
+                }
+            ]
+        },
+        {
+            "id": 395589,
+            "name": "CIRCUITO CERVEJEIRO 3D/2N EMB*SP- ROTA 1",
+            "description": "Nova Friburgo é uma cidade localizada no Rio de Janeiro, conhecida pelo circuito gastronômico, a cidade tem muito mais a oferecer que as delicias culinárias. Cercada por uma vegetação que poderia ser cenário de um filme, a cidade tem muitos pontos turísticos que merecem ser visitados, destacamos Teleférico, Pedra do Cão sentado, Trilhas, compras de moda intima e muitos outros atrativos. <BR>",
+            "days": 3,
+            "lowestPackage": {
+                "price": 31700,
+                "departureDate": "2019-08-09-03:00",
+                "currency": "PTS"
+            },
+            "type": "ROAD",
+            "dayByDay": [
+                {
+                    "label": "1",
+                    "description": "Embarque pela manhã em confortavel ônibus de turismo com destino a Região Serrana do Rio de Janeiro. Passagem por São José dos Campos, Taubaté e Guaratinguetá com na com paradas técnicas durante o percurso. Chegada, check In e noite livre para apreciar os muitos retaurantes que a cidade possui, entre eles destacamos a Churrascaria Chimarron Centro."
+                },
+                {
+                    "label": "2",
+                    "description": "&nbsp"
+                },
+                {
+                    "label": "3",
+                    "description": "Café da manhã&nbsp e passeio pela cidade de Nova Friburgo com destino a Cervejaria Pontal com degustação. Régua De Degustação Com 3 Chopes De 150 Ml Cada + Garrafa De Brinde + Um Chope De 200 Ml em seguida partiremos para o almoço, sugerimos a Trilhas do Araçaí, um espaço acolhedor dividido em três ambientes area externa apreciando o clima ameno, o segundo é o redário onde o visitante poderá relaxar e o terdeiro ambiente é reservado para festas fechadas. Após o almoço visitaremos a Cervejaria Alpendorf com degustação de uma regua de degustação com 3 chopes de 150 ml cada + garrafa de brinde + um chope de 200 ml. Retorno e noite livre."
+                },
+                {
+                    "label": "4",
+                    "description": "&nbsp"
+                },
+                {
+                    "label": "5",
+                    "description": "Café da manhã e tempo livre, sugerimos conhecer Teleférico da cidade para ver do alto a cidade por inteiro. No inicio da tarde inicio da viagem de retorno. Chegada prevista a partir das 21 horas."
+                },
+                {
+                    "label": "6",
+                    "description": "&nbsp"
+                }
+            ]
+        },
+        {
+            "id": 359684,
+            "name": "Rio de Janeiro com Petrópolis - 5 dias / 3 diárias",
+            "description": "<P>O Rio de Janeiro é uma daquelas cidades ensolaradas, que seduzem despretensiosamente os seus admiradores, logo à primeira vista. Não por acaso, ostenta o título de cidade maravilhosa. Afinal, graças à simpatia divina, o Rio de Janeiro já era um paraíso ecológico perdido em meio ao centro urbano, antes mesmo que se falasse em ecologia. Essa inspiração geográfica é um dos destinos turísticos brasileiros mais requisitados pelos turistas locais e do mundo.<BR></P>",
+            "days": 5,
+            "lowestPackage": {
+                "price": 33800,
+                "departureDate": "2019-10-09-03:00",
+                "currency": "PTS"
+            },
+            "type": "ROAD",
+            "contents": [
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "transferIcon",
+                            "name": "Transporte Rodoviário",
+                            "description": "Transporte Rodoviário - ida e volta."
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem",
+                            "description": "Hospedagem - 3 diárias com café da manhã ou meia pensão (conforme roteiro adquirido)"
+                        },
+                        {
+                            "code": "tourIcon",
+                            "name": "Atividades",
+                            "description": "Atividades - Passeios no Rio de Janeiro e Petrópolis"
+                        }
+                    ]
+                },
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transfer",
+                            "name": "Transporte Rodoviário",
+                            "description": "ida e volta."
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Hospedagem",
+                            "description": "3 diárias com café da manhã ou meia pensão (conforme roteiro adquirido)"
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Atividades",
+                            "description": "Passeios no Rio de Janeiro e Petrópolis"
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviço",
+                            "description": "Guia acompanhante."
+                        },
+                        {
+                            "code": "others",
+                            "name": "Atenção",
+                            "description": "Não inclui ingressos"
+                        },
+                        {
+                            "code": "others",
+                            "name": null
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1",
+                    "description": "Embarque à noite em confortável ônibus de turismo com destino ao Rio de Janeiro. Prosseguimento em viagem noturna com paradas técnicas durante o percurso."
+                },
+                {
+                    "label": "2",
+                    "description": "Chegada e café da manhã extra incluso. Em seguida, visita a cidade do Rio de Janeiro conhecida internacionalmente como uma das cidades mais bonitas do mundo. O contraste do mar com as montanhas e do antigo com o moderno, a tornam irresistível. Destacamos Aterro do Flamengo, Praias de Botafogo, Copacabana, Ipanema, Leblon e São Conrado. Parada para subida opcional ao Corcovado e Pão de Açúcar. Os ingressos não estão inclusos. Na parte da tarde hospedagem e restante do dia livre."
+                },
+                {
+                    "label": "3",
+                    "description": "Café da manhã e visita panorâmica ao centro da cidade, com acervo cultural de elevada importância. Destacamos Cinelândia, Arcos da Lapa, Teatro Municipal, Igreja da Candelária, Estádio do Maracanã. Em seguida, Porto Maravilha, uma área renovada e cheia de atrativos. Destacamos Boulevard Olímpico, um legado dos jogos que aconteceram na Cidade, o Museu do Amanhã, os Galpões da Gamboa e o acesso ao Museu de Arte do Rio (MAR). Mais recentemente, o AquaRio, maior aquário da América Latina, com 26 mil m² de área construída e 4,5 milhões de litros de água. Os ingressos não estão inclusos. Retorno ao hotel no final da tarde."
+                },
+                {
+                    "label": "4",
+                    "description": "Café da manhã e dia inteiramente livre."
+                },
+                {
+                    "label": "5",
+                    "description": "Café da manhã e saída para a cidade de Petrópolis, importante cidade serrana e conhecida como Cidade Imperial, por ser a sede de verão do governo na época de Dom Pedro. Destaques da cidade Palácio de Cristal, Palácio Quitandinha, Museu Casa de Santos Dumont, Catedral São Pedro de Alcântara e Universidade Católica, Casa do Barão de Mauá e Museu Imperial (ingressos não inclusos). À tarde, início da viagem de retorno. Chegada prevista para 21h e desembarque na mesma cidade de partida."
+                },
+                {
+                    "label": "6",
+                    "description": "A ordem dos passeios pode sofrer alteração devido a condições climáticas ou outros fatores. "
+                }
+            ]
+        },
+        {
+            "id": 294083,
+            "name": "Rock in Rio Classic Rock - 2 dias / 1 diária",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio.1º dia - Partida\nEmbarque pela manhã (horário previsto às 06h00 da manhã de São Paulo/ Campinas/ Belo Horizonte - consulte demais cidades e horários com seu agente de viagens) em confortável veículo de turismo com destino ao Rio de Janeiro. Chegada no hotel para desembarque para a troca de ingressos e partida para a Cidade do Rock às 14h00 quando os portões serão abertos.",
+            "days": 2,
+            "lowestPackage": {
+                "price": 38100,
+                "departureDate": "2019-09-27-03:00",
+                "currency": "PTS"
+            },
+            "type": "ROAD",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Transporte rodoviário de ida e volta e hotel/Cidade do Rock/hotel"
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "false"
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "1 diária com café da manhã"
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "false"
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "1 dia de ingresso (conforme data e programação adquirida) / Seguro Viagem - cobertura no período do roteiro"
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "false"
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "ticketIcon",
+                            "name": "Ingresso"
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "roadIcon",
+                            "name": "Transporte rodoviário"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Partida",
+                    "description": "Embarque pela manhã (horário previsto às 6h da manhã - consulte cidades e horários com seu agente de viagens) em confortável veículo de turismo com destino ao Rio de Janeiro. Chegada no hotel para desembarque e troca de ingressos e partida para a Cidade do Rock às 14h quando os portões serão abertos."
+                },
+                {
+                    "label": "2º dia - Retorno",
+                    "description": "Após o término da programação,em torno de 30 minutos, retorno ao hotel. Café da manhã. Às 11 horas inicio da viagem de retorno. Chegada prevista a partir das 19 horas. Desembarque no mesmo local de partida."
+                }
+            ]
+        },
+        {
+            "id": 331484,
+            "name": "Rio de Janeiro - 5 dias / 3 diárias * Réveillon",
+            "description": "<P><BR>O Rio de Janeiro é uma daquelas cidades ensolaradas, que seduzem despretensiosamente os seus admiradores, logo à primeira vista. Não por acaso, ostenta o título de cidade maravilhosa. Afinal, graças à simpatia divina, o Rio de Janeiro já era um paraíso ecológico perdido em meio ao centro urbano, antes mesmo que se falasse em ecologia. Essa inspiração geográfica é um dos destinos turísticos brasileiros mais requisitados pelos turistas locais e do mundo.<BR></P>",
+            "days": 5,
+            "lowestPackage": {
+                "price": 43800,
+                "departureDate": "2019-12-28-02:00",
+                "currency": "PTS"
+            },
+            "type": "ROAD",
+            "contents": [
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "transferIcon",
+                            "name": "Transporte Rodoviário",
+                            "description": "Transporte Rodoviário - ida e volta."
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem",
+                            "description": "Hospedagem - 3 diárias com café da manhã ou meia pensão (conforme roteiro adquirido)"
+                        },
+                        {
+                            "code": "tourIcon",
+                            "name": "Atividades",
+                            "description": "Atividades - City tour no Rio de Janeiro e traslado a Praia de Copacabana na noite de Réveillon"
+                        }
+                    ]
+                },
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transfer",
+                            "name": "Transporte Rodoviário",
+                            "description": "ida e volta."
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Hospedagem",
+                            "description": "3 diárias com café da manhã ou meia pensão (conforme roteiro adquirido)"
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Atividades",
+                            "description": "City tour no Rio de Janeiro e traslado a Praia de Copacabana na noite de Réveillon"
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviço",
+                            "description": "Guia acompanhante."
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1",
+                    "description": "Embarque à noite em confortável ônibus de turismo com destino ao Rio de Janeiro. Prosseguimento em viagem noturna com paradas técnicas durante o percurso."
+                },
+                {
+                    "label": "2",
+                    "description": "Chegada, café da manhã incluso. Em seguida, visita panorâmica pelo Rio de Janeiro, conhecida internacionalmente como uma das cidades mais bonitas do mundo. O contraste do mar com as montanhas e do antigo com o moderno a tornam irresistível. Destaques do passeio acervo histórico-cultural de elevada importância com passeio panorâmico pela parte histórica, Aterro do Flamengo, Estádio do Maracanã (visita externa), Igreja da Candelária (visita externa), praias de Botafogo, Copacabana, Ipanema, Leblon e São Conrado. Hospedagem. À tarde, visitas ao Corcovado e Pão de Açúcar. Não inclui ingressos. Hospedagem e noite livre."
+                },
+                {
+                    "label": "3",
+                    "description": "Café da manhã e dia inteiramente livre."
+                },
+                {
+                    "label": "4",
+                    "description": "Café da manhã e dia inteiramente livre."
+                },
+                {
+                    "label": "5",
+                    "description": "Café da manhã e tempo livre. No inicio da tarde, viagem de retorno. Chegada prevista a partir das 21 horas. Desembarque no mesmo ponto de partida."
+                },
+                {
+                    "label": "6",
+                    "description": " - Na noite de Réveillon, 31 de dezembro em horário estipulado pelo guia, terá traslado para a Praia de Copacabana para os hotéis do Centro e Glória para assistir à tradicional queima de fogos. A sequência do dia a dia descrita no roteiro poderá ser alterada para melhor aproveitamento da programação. Vale lembrar que todos os passeios serão rigorosamente cumpridos. "
+                }
+            ]
+        },
+        {
+            "id": 389786,
+            "name": "Hard Rock I - 2 dias e 1 diária com 1 ingresso ao Rock In Rio - 29/09",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio.",
+            "days": 2,
+            "lowestPackage": {
+                "price": 63100,
+                "departureDate": "2019-09-29-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Aéreo ida e volta. "
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "Aeroporto / hotel / cidade do Rock / hotel / aeroporto."
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "1 diária com café da manhã no hotel escolhido."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "1 dia de ingresso para 29/09."
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "Seguro Viagem: cobertura durante todo o período do roteiro."
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "Café da Manhã incluso na hospedagem."
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "ticketIcon",
+                            "name": "Ingresso"
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "flightIcon",
+                            "name": "Passagens aéreas"
+                        },
+                        {
+                            "code": "transferIcon",
+                            "name": "Traslado"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Chegada/Cidade do Rock",
+                    "description": "Chegada no aeroporto de destino e transporte a hotel escolhido e check in. No período da tarde transporte do hotel até a Cidade do Rock conforme horários previstos em voucher."
+                },
+                {
+                    "label": "3º dia - Cidade do Rock/Retorno",
+                    "description": "Transporte de retorno da Cidade do Rock, café da manhã no hotel e restante da manhã livre. Em horário determinado, check out no hotel e transporte até o aeroporto para retorno a cidade de origem."
+                }
+            ]
+        },
+        {
+            "id": 389789,
+            "name": "Hard Rock I - 2 dias e 1 diária com 1 ingresso ao Rock In Rio - 05/10",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio. ",
+            "days": 2,
+            "lowestPackage": {
+                "price": 63100,
+                "departureDate": "2019-10-05-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Aéreo ida e volta. "
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "Aeroporto / Hotel / Cidade do Rock / Hotel / Aeroporto."
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "1 diária com café da manhã no hotel escolhido."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "1 dia de ingresso para 05/10."
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "Seguro Viagem: cobertura durante todo o período do roteiro."
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "Café da Manhã incluso na hospedagem."
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "ticketIcon",
+                            "name": "Ingresso"
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "flightIcon",
+                            "name": "Passagens aéreas"
+                        },
+                        {
+                            "code": "transferIcon",
+                            "name": "Traslado"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Chegada/Cidade do Rock",
+                    "description": "Chegada no aeroporto de destino e transporte a hotel escolhido e check in. No período da tarde transporte do hotel até a Cidade do Rock conforme horários previstos em voucher.\n"
+                },
+                {
+                    "label": "3º dia - Cidade do Rock/Retorno",
+                    "description": "Transporte de retorno da Cidade do Rock, café da manhã no hotel e restante da manhã livre. Em horário determinado, check out no hotel e transporte até o aeroporto para retorno a cidade de origem."
+                }
+            ]
+        },
+        {
+            "id": 389790,
+            "name": "Hard Rock I - 2 dias e 1 diária com 1 ingresso ao Rock In Rio - 06/10 ",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio. ",
+            "days": 2,
+            "lowestPackage": {
+                "price": 63800,
+                "departureDate": "2019-10-06-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Aéreo ida e volta."
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "Aeroporto / hotel / cidade do Rock / hotel / aeroporto."
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "1 diária com café da manhã no hotel escolhido."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "1 dia de ingresso para 06/10."
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "Seguro Viagem: cobertura durante todo o período do roteiro."
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "Café da Manhã incluso na hospedagem."
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "ticketIcon",
+                            "name": "Ingresso"
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "flightIcon",
+                            "name": "Passagens aéreas"
+                        },
+                        {
+                            "code": "transferIcon",
+                            "name": "Traslado"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Chegada/Cidade do Rock",
+                    "description": "Chegada no aeroporto de destino e transporte a hotel escolhido e check in. No período da tarde transporte do hotel até a Cidade do Rock conforme horários previstos em voucher."
+                },
+                {
+                    "label": "3º dia - Cidade do Rock/Retorno",
+                    "description": "Transporte de retorno da Cidade do Rock, café da manhã no hotel e restante da manhã livre. Em horário determinado, check out no hotel e transporte até o aeroporto para retorno a cidade de origem."
+                }
+            ]
+        },
+        {
+            "id": 389784,
+            "name": "Hard Rock I - 2 dias e 1 diária com 1 ingresso ao Rock In Rio - 27/09",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio. ",
+            "days": 2,
+            "lowestPackage": {
+                "price": 64100,
+                "departureDate": "2019-09-27-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Aéreo ida e volta."
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "Aeroporto / hotel / cidade do Rock / hotel / aeroporto."
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "1 diária com café da manhã no hotel escolhido."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "1 dia de ingresso para 27/09."
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "Seguro Viagem: cobertura durante todo o período do roteiro."
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "Café da Manhã incluso na hospedagem."
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "ticketIcon",
+                            "name": "Ingresso"
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "flightIcon",
+                            "name": "Passagens aéreas"
+                        },
+                        {
+                            "code": "transferIcon",
+                            "name": "Traslado"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Chegada/Cidade do Rock",
+                    "description": "Chegada no aeroporto de destino e transporte a hotel escolhido e check in. No período da tarde transporte do hotel até a Cidade do Rock conforme horários previstos em voucher."
+                },
+                {
+                    "label": "3º dia - Cidade do Rock/Retorno",
+                    "description": "Transporte de retorno da Cidade do Rock, café da manhã no hotel e restante da manhã livre. Em horário determinado, check out no hotel e transporte até o aeroporto para retorno a cidade de origem."
+                }
+            ]
+        },
+        {
+            "id": 389785,
+            "name": "Hard Rock I - 2 dias E 1 diária com 1 ingresso ao Rock In Rio - 28/09",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio. ",
+            "days": 2,
+            "lowestPackage": {
+                "price": 64100,
+                "departureDate": "2019-09-28-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Aéreo ida e volta."
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "Aeroporto / hotel / cidade do Rock / hotel / Aeroporto."
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "1 diária com café da manhã no hotel escolhido."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "Ingresso - 1 dia de ingresso para 28/09."
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "Seguro Viagem: cobertura durante todo o período do roteiro."
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "Café da Manhã incluso na hospedagem."
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "ticketIcon",
+                            "name": "Ingresso"
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "flightIcon",
+                            "name": "Passagens aéreas"
+                        },
+                        {
+                            "code": "transferIcon",
+                            "name": "Traslado"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Chegada/Cidade do Rock",
+                    "description": "Chegada no aeroporto de destino e transporte a hotel escolhido e check in. No período da tarde transporte do hotel até a Cidade do Rock conforme horários previstos em voucher."
+                },
+                {
+                    "label": "3° dia - Cidade do Rock/Retorno",
+                    "description": "Transporte de retorno da Cidade do Rock, café da manhã no hotel e restante da manhã livre. Em horário determinado, check out no hotel e transporte até o aeroporto para retorno a cidade de origem."
+                }
+            ]
+        },
+        {
+            "id": 296584,
+            "name": "Hard Rock II - 3 dias e 2 diárias com 1 ingresso ao Rock In Rio - 29/09",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio. ",
+            "days": 3,
+            "lowestPackage": {
+                "price": 68200,
+                "departureDate": "2019-09-28-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Aéreo ida e volta.\n"
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "Aeroporto / hotel / cidade do Rock / hotel / aeroporto."
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "2 diárias com café da manhã no hotel escolhido."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "1 dia de ingresso para 29/09"
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "Seguro Viagem: cobertura durante todo o período do roteiro."
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "Café da Manhã incluso na hospedagem."
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Chegada ",
+                    "description": "Chegada no aeroporto de destino e transporte a hotel escolhido. Apresentação no hotel escolhido para hospedagem."
+                },
+                {
+                    "label": "2º dia - Cidade do Rock",
+                    "description": "Transporte do hotel até a Cidade do Rock conforme horários previstos em voucher."
+                },
+                {
+                    "label": "3º dia - Retorno",
+                    "description": "Transporte de retorno da Cidade do Rock, café da manhã no hotel e restante da manhã livre. Em horário determinado check out no hotel e transporte até o aeroporto para retorno a cidade de origem."
+                }
+            ]
+        },
+        {
+            "id": 53576,
+            "name": "Hard Rock II - 3 dias e 2 diárias com 1 ingresso ao Rock In Rio - 27/09 ",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio. ",
+            "days": 3,
+            "lowestPackage": {
+                "price": 68300,
+                "departureDate": "2019-09-26-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Aéreo ida e volta."
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "Aeroporto / hotel / cidade do Rock / hotel / aeroporto.\n"
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "Hospedagem: 2 diárias com café da manhã no hotel escolhido."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "1 dia de ingresso para 27/09"
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "Seguro Viagem: cobertura durante todo o período do roteiro."
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "Café da Manhã incluso na hospedagem."
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "ticketIcon",
+                            "name": "Ingresso"
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "flightIcon",
+                            "name": "Passagens aéreas"
+                        },
+                        {
+                            "code": "transferIcon",
+                            "name": "Traslado"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Chegada ",
+                    "description": "Chegada no aeroporto de destino e transporte a hotel escolhido. Apresentação no hotel escolhido para hospedagem."
+                },
+                {
+                    "label": "2º dia - Cidade do Rock",
+                    "description": "Transporte do hotel até a Cidade do Rock conforme horários previstos em voucher"
+                },
+                {
+                    "label": "3º dia - Retorno",
+                    "description": "Transporte de retorno da Cidade do Rock, café da manhã no hotel e restante da manhã livre. Em horário determinado check out no hotel e transporte até o aeroporto para retorno a cidade de origem."
+                }
+            ]
+        },
+        {
+            "id": 296587,
+            "name": "HARD ROCK I I - 3 DIAS E 2 NOITES COM 1 INGRESSO AO ROCK IN RIO - 05/10",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio. ",
+            "days": 3,
+            "lowestPackage": {
+                "price": 71700,
+                "departureDate": "2019-10-04-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "flightIcon",
+                            "name": "Transporte aéreo",
+                            "description": "Transporte aéreo ida e volta. "
+                        },
+                        {
+                            "code": "ticketIcon",
+                            "name": "Ingresso",
+                            "description": "Ingresso 1 dia de ingresso para 05/10"
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem",
+                            "description": "Hospedagem 2 diárias com café da manhã no hotel escolhido."
+                        },
+                        {
+                            "code": "transferIcon",
+                            "name": "Traslado",
+                            "description": "Traslado traslado aeroporto / hotel / cidade do Rock / hotel / aeroporto."
+                        }
+                    ]
+                },
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Transporte aéreo",
+                            "description": "ida e volta."
+                        },
+                        {
+                            "code": "others",
+                            "name": "Ingresso",
+                            "description": "1 dia de ingresso para 05/10"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Seguro Viagem",
+                            "description": "cobertura durante todo o período do roteiro."
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Hospedagem",
+                            "description": "2 diárias com café da manhã no hotel escolhido."
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Traslado",
+                            "description": "traslado aeroporto / hotel / cidade do Rock / hotel / aeroporto."
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1",
+                    "description": "Chegada no aeroporto de destino e transporte a hotel escolhido. Apresentação no hotel escolhido para hospedagem."
+                },
+                {
+                    "label": "2",
+                    "description": "Transporte do hotel até a Cidade do Rock conforme horários previstos em voucher."
+                },
+                {
+                    "label": "3",
+                    "description": "Transporte de retorno da Cidade do Rock, café da manhã no hotel e restante da manhã livre. Em horário determinado check out no hotel e transporte até o aeroporto para retorno a cidade de origem."
+                }
+            ]
+        },
+        {
+            "id": 296583,
+            "name": "Hard Rock II - 3 dias e 2 diárias com 1 ingresso ao Rock In Rio - 28/09 ",
+            "description": "Eu Viajo com a CVC - Participe do maior festival de música do mundo na Cidade Maravilhosa, Rock in Rio 2019. Conheça o Rio de Janeiro e desfrute de shows incríveis em mais uma edição do Rock in Rio. ",
+            "days": 3,
+            "lowestPackage": {
+                "price": 72800,
+                "departureDate": "2019-09-27-03:00",
+                "currency": "PTS"
+            },
+            "type": "AIR",
+            "contents": [
+                {
+                    "code": "included-services",
+                    "name": "Serviços Inclusos",
+                    "items": [
+                        {
+                            "code": "transport",
+                            "name": "Serviços inclusos - Transporte",
+                            "description": "Aéreo ida e volta."
+                        },
+                        {
+                            "code": "transfer",
+                            "name": "Serviços inclusos - Traslado",
+                            "description": "Aeroporto / hotel / cidade do Rock / hotel / aeroporto."
+                        },
+                        {
+                            "code": "accommodation",
+                            "name": "Serviços inclusos - Hospedagem",
+                            "description": "2 diárias com café da manhã no hotel escolhido."
+                        },
+                        {
+                            "code": "activity",
+                            "name": "Serviços inclusos - Atividade",
+                            "description": "1 dia de ingresso para 28/09"
+                        },
+                        {
+                            "code": "service",
+                            "name": "Serviços inclusos - Serviço",
+                            "description": "Seguro Viagem: cobertura durante todo o período do roteiro."
+                        },
+                        {
+                            "code": "meal",
+                            "name": "Serviços inclusos - Refeição",
+                            "description": "Café da Manhã incluso na hospedagem."
+                        },
+                        {
+                            "code": "documents",
+                            "name": "Serviços inclusos - Documentos",
+                            "description": "false"
+                        },
+                        {
+                            "code": "others",
+                            "name": "Serviços inclusos - Outros",
+                            "description": "false"
+                        }
+                    ]
+                },
+                {
+                    "code": "iconsBaseDestination",
+                    "items": [
+                        {
+                            "code": "ticketIcon",
+                            "name": "Ingresso"
+                        },
+                        {
+                            "code": "hotelIcon",
+                            "name": "Hospedagem"
+                        },
+                        {
+                            "code": "flightIcon",
+                            "name": "Passagens aéreas"
+                        },
+                        {
+                            "code": "transferIcon",
+                            "name": "Traslado"
+                        }
+                    ]
+                }
+            ],
+            "dayByDay": [
+                {
+                    "label": "1º dia - Chegada ",
+                    "description": "Chegada no aeroporto de destino e transporte a hotel escolhido. Apresentação no hotel escolhido para hospedagem.\n\n\n\n\n"
+                },
+                {
+                    "label": "2º dia - Cidade do Rock",
+                    "description": "Transporte do hotel até a Cidade do Rock conforme horários previstos em voucher."
+                },
+                {
+                    "label": "3º dia - Retorno",
+                    "description": "Transporte de retorno da Cidade do Rock, café da manhã no hotel e restante da manhã livre. Em horário determinado check out no hotel e transporte até o aeroporto para retorno a cidade de origem."
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "coverImage": {
+            "href": "https://img.services.cvc.com.br/images/"
+        },
+        "price": {
+            "min": 10300,
+            "max": 72800
+        },
+        "features": [
+            {
+                "code": "flightIcon",
+                "name": "flightIcon",
+                "amount": 11
+            },
+            {
+                "code": "hotelIcon",
+                "name": "hotelIcon",
+                "amount": 16
+            },
+            {
+                "code": "roadIcon",
+                "name": "roadIcon",
+                "amount": 3
+            },
+            {
+                "code": "ticketIcon",
+                "name": "ticketIcon",
+                "amount": 10
+            },
+            {
+                "code": "tourIcon",
+                "name": "tourIcon",
+                "amount": 4
+            },
+            {
+                "code": "transferIcon",
+                "name": "transferIcon",
+                "amount": 11
+            }
+        ],
+        "days": [
+            {
+                "code": "2",
+                "name": "2",
+                "amount": 8
+            },
+            {
+                "code": "3",
+                "name": "3",
+                "amount": 7
+            },
+            {
+                "code": "4",
+                "name": "4",
+                "amount": 2
+            },
+            {
+                "code": "5",
+                "name": "5",
+                "amount": 2
+            }
+        ],
+        "types": [
+            {
+                "code": "AIR",
+                "name": "AIR",
+                "amount": 12
+            },
+            {
+                "code": "ROAD",
+                "name": "ROAD",
+                "amount": 7
+            }
+        ],
+        "count": 19
+    }
+}
