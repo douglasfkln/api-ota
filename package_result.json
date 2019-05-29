@@ -1,5 +1,5 @@
 {
-    "baseDestinations": [
+    "resultList": [
         {
             "id": 6425,
             "name": "Rio de Janeiro - 2 dias / 1 diária",
@@ -1626,13 +1626,11 @@
             ]
         }
     ],
-    "meta": {
-        "coverImage": {
-            "href": "https://img.services.cvc.com.br/images/"
-        },
+    "filters": {
         "price": {
             "min": 10300,
-            "max": 72800
+            "max": 72800,
+            "currency": "PTS"
         },
         "features": [
             {
@@ -1699,7 +1697,10 @@
                 "name": "ROAD",
                 "amount": 7
             }
-        ],
-        "count": 19
+        ]
+    },
+    "additionalInfo": {
+        "totalPackages": 100,
+        "partnerCode": "CVC"
     }
 }
