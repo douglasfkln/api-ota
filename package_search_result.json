@@ -24,7 +24,7 @@
                         {
                             "code": "transfer",
                             "name": "Serviços inclusos - Traslado",
-                            "description": "false"
+                            "description": "Serviços inclusos - Traslado"
                         },
                         {
                             "code": "accommodation",
@@ -34,27 +34,27 @@
                         {
                             "code": "activity",
                             "name": "Serviços inclusos - Atividade",
-                            "description": "false"
+                            "description": "Serviços inclusos - Atividade"
                         },
                         {
                             "code": "service",
                             "name": "Serviços inclusos - Serviço",
-                            "description": "false"
+                            "description": "Serviços inclusos - Serviço"
                         },
                         {
                             "code": "meal",
                             "name": "Serviços inclusos - Refeição",
-                            "description": "false"
+                            "description": "Serviços inclusos - Refeição"
                         },
                         {
                             "code": "documents",
                             "name": "Serviços inclusos - Documentos",
-                            "description": "false"
+                            "description": "Serviços inclusos - Documentos"
                         },
                         {
                             "code": "others",
                             "name": "Serviços inclusos - Outros",
-                            "description": "false"
+                            "description": "Serviços inclusos - Outros"
                         }
                     ]
                 },
