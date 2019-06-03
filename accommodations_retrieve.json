@@ -9,7 +9,7 @@
     "maxGuests": 3,
     "available": true,
     "quantityAvailable": 2,
-    "rates": {
+    "rates": [{
       "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IjMxMDE0IiBjaWQ9IjM4MDAxIiBjbWk9IjM4IiBjbXA9IkJlZEJyZWFrZmFzdCIgY216PSIyNTE2MzA0IiBjcHA9IjAiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDUtMjMiIGR0aT0iMjAxOS0wNS0yMSIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBob3Q9IjM4NTAzNSIgbGFuPSJwdF9CUiIgbWtpPSI2NDQxMTkwIiBta3A9IjAuNzUwIiBwY3E9IjEuMDAwMDAwMDAwMCIgcGlkPSIzODUwMzUiIHBrZz0iU1RBTkRBTE9ORSIgcGxhPSI1NiIgcGxjPSJCUkwiIHBvdD0iMzAyLjkxIiBwcHQ9IlZvdWNoZXIiIHBweT0iMTMwNjYyNzgiIHByZD0iSE9UIiBwd3Q9IjMwMi45MSIgcHhzPSIzMCwzMCIgcm9tPSIzMTAxNCIgcnBoPSIxIiBydGM9IjEyMjY0NSIgc2N0PSJCUiIgc2R0PSIyMDE5LTA1LTE2LTAzOjAwIiBzb3Q9IjQwMy44OCIgc3N0PSJTUCIgc3d0PSI0MDMuODgiIHN6aT0iMTA0Ii8+",
       "currency": "PTS",
       "priceWithTax": 21,
@@ -18,7 +18,7 @@
       "pricePerDayWithoutTax": 11,
       "pricePerGuestWithTax": 11,
       "pricePerGuestWithoutTax": 11
-    },
+    }],
     "contents": [
       {
         "code": "ASDS",
