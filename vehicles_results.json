@@ -53,7 +53,7 @@
             }
         },
         "images": {
-            "thumbnailImage": "http://img.cvc.com.br/carros/locadoras/462068.jpg"
+            "thumbnailImage": ""
         },
         "contents": [{
             "code": "car-full-descriptions",
