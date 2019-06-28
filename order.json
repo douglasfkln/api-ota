@@ -2,6 +2,362 @@
     "id": "CVCFLIGHT",
     "commerceItemId": "ci1558116340848",
     "partnerOrderId": "1911814",
+    "pricingInfo": [{
+        "total": 2306.02,
+        "currency": "BRL",
+        "multiplier": 1.5,
+        "ruleName": "BRL"
+    }],
+    "partnerInfo": [{
+        "travel": {
+            "reservations": [{
+                "id": "400061545",
+                "reservationDate": "2019-03-06T17:58:28",
+                "expirationDate": "2019-03-06T18:18:28",
+                "status": "NOT_ACTIVATED",
+                "excursion": {
+                    "description": "MOSCOW"
+                },
+                "notes": "Moscow World Cup 2018",
+                "tour": {
+                    "id": "400056019",
+                    "description": "MOSCOW",
+                    "origin": [{
+                        "departureDate": "2019-10-21T00:00:00.000-03:00",
+                        "arrivalDate": "2019-10-22T00:00:00.000-03:00",
+                        "zone": {
+                            "id": "400056019",
+                            "name": "Zone name",
+                            "description": "Zone descripton",
+                            "country": {
+                                "name": "RUSSIA",
+                                "iata": "RUS"
+                            },
+                            "state": {
+                                "name": "MOSCOW"
+                            },
+                            "city": {
+                                "name": "MOSCOw"
+                            },
+                            "latitude": "-8.1267",
+                            "longitude": "-8.1267"
+                        }
+                    }],
+                    "destinations": [{
+                        "departureDate": "2019-10-21T00:00:00.000-03:00",
+                        "arrivalDate": "2019-10-22T00:00:00.000-03:00",
+                        "zone": {
+                            "id": "400056019",
+                            "name": "Zone name",
+                            "description": "Zone descripton",
+                            "country": {
+                                "name": "RUSSIA",
+                                "iata": "RUS"
+                            },
+                            "state": {
+                                "name": "MOSCOW"
+                            },
+                            "city": {
+                                "name": "MOSCOw"
+                            },
+                            "latitude": "-8.1267",
+                            "longitude": "-8.1267"
+                        }
+                    }]
+                },
+                "products": {
+                    "flights": [{
+                        "item": {
+                            "id": "555",
+                            "creationDate": "2019-03-06T00:00:00.000-03:00",
+                            "status": "SUCCESS",
+                            "details": [{
+                                "validatingAirline": {
+                                    "iata": "06",
+                                    "name": "AVIANCA BRASIL"
+                                },
+                                "segments": [
+                                    [{
+                                        "id": ".aa15449184b8Osw4HCq3A==",
+                                        "airportDeparture": {
+                                            "name": "Aeroporto Internacional de SÃ£o Paulo",
+                                            "iata": "GRU",
+                                            "location": {
+                                                "name": "Guarulhos"
+                                            }
+                                        },
+                                        "departureDate": "2018-12-17T05:30:00",
+                                        "arrivalAirport": {
+                                            "name": "Amsterdam Schiphol",
+                                            "iata": "AMS",
+                                            "location": {
+                                                "name": "AmsterdÃ£"
+                                            }
+                                        },
+                                        "arrivalDate": "2018-12-17T13:00:00",
+                                        "numberOfStops": 2,
+                                        "route": "GO",
+                                        "duration": 510,
+                                        "profile": {
+                                            "baggage": {
+                                                "type": "PIECE",
+                                                "isIncluded": false,
+                                                "uom": "KG",
+                                                "quantity": 1,
+                                                "weight": 32
+                                            },
+                                            "services": {
+                                                "type": "EXTRA_SPACE",
+                                                "isIncluded": true,
+                                                "description": "Esta tarifa permite reembolso, multa de USD 300,00."
+                                            },
+                                            "fareFamily": "ECONOMY BR"
+                                        },
+                                        "legs": [{
+                                            "managedBy": {
+                                                "name": "AVIANCA BRASIL",
+                                                "iata": "O6"
+                                            },
+                                            "operatedBy": {
+                                                "name": "AVIANCA BRASIL",
+                                                "iata": "O6"
+                                            },
+                                            "status": "UNDEFINED",
+                                            "flightNumber": 3503,
+                                            "numberOfStops": 0,
+                                            "duration": 110,
+                                            "departureAirport": {
+                                                "name": "Aeroporto Internacional de SÃ£o Paulo",
+                                                "iata": "GRU",
+                                                "location": {
+                                                    "name": "Guarulhos"
+                                                }
+                                            },
+                                            "airportArrival": {
+                                                "name": "Amsterdam Schiphol",
+                                                "iata": "AMS",
+                                                "location": {
+                                                    "name": "AmsterdÃ£"
+                                                }
+                                            },
+                                            "departureDate": "2018-12-17T05:55:00",
+                                            "arrivalDate": "2018-12-17T07:45:00",
+                                            "aircraftCode": "320",
+                                            "seatClass": {
+                                                "code": "ECONOMY_CLASS",
+                                                "description": "EconÃ´mica"
+                                            },
+                                            "fareBasis": "BE0X0G8",
+                                            "fareClass": "B"
+                                        }]
+                                    }]
+                                ],
+                                "airTickets": [{
+                                    "eticketCode": "AD1234",
+                                    "passenger": {
+                                        "id": "123",
+                                        "firstName": "Maria",
+                                        "lastName": "Plaza",
+                                        "birthDate": "1980-10-10",
+                                        "gender": "F"
+                                    }
+                                }],
+                                "globalDistribuitionSystem": {
+                                    "id": "123456",
+                                    "description": "SABRE",
+                                    "reservationCode": "ABCDE",
+                                    "provider": "AMADEUS RA",
+                                    "cancellationPolicies": [{
+                                        "nonRefundable": false
+                                    }]
+                                },
+                                "reservationType": "VENDA DE BILHETE",
+                                "passengers": [{
+                                    "id": "123",
+                                    "firstName": "Maria Augusta",
+                                    "lastName": "Plaza",
+                                    "gender": "F",
+                                    "notes": "Essa aqui é uma nota do passageiro",
+                                    "email": "maria.plaza@livelo.com.br",
+                                    "documents": [{
+                                        "code": "123456",
+                                        "type": "DRIVER LICENSE"
+                                    }]
+                                }]
+                            }]
+                        }
+                    }],
+                    "accommodations": [{
+                        "item": {
+                            "id": "555",
+                            "name": "ALPHA PRAIA HOTEL",
+                            "cnpj": "11990467000142",
+                            "rooms": [{
+                                "index": 1,
+                                "globalDistribuitionSystem": {
+                                    "id": "123456",
+                                    "description": "SABRE",
+                                    "reservationCode": "ABCDE",
+                                    "provider": "AMADEUS RA",
+                                    "cancellationPolicies": [{
+                                        "nonRefundable": false
+                                    }]
+                                },
+                                "operator": {
+                                    "id": "1123",
+                                    "description": "CVC",
+                                    "reservationCode": "400067317"
+                                },
+                                "checkIn": "2019-10-20",
+                                "checkOut": "2019-10-22",
+                                "numberOfNights": 2,
+                                "mealPlan": "DIÁRIA(S) COM CAFÉ DA MANHÃ",
+                                "category": "APTO STANDARD - COMPRE JÁ",
+                                "description": "APTO STANDARD - COMPRE JÁ",
+                                "location": {
+                                    "zone": {
+                                        "id": "1463",
+                                        "country": {
+                                            "code": "BR",
+                                            "name": "BRASIL"
+                                        },
+                                        "state": {
+                                            "code": "CE",
+                                            "name": "CEARÁ"
+                                        },
+                                        "city": {
+                                            "name": "FORTALEZA"
+                                        },
+                                        "latitude": "-8.1267",
+                                        "longitude": "-8.1267",
+                                        "address": "BARÃO DE ARACATI, 270"
+                                    }
+                                },
+                                "guests": [{
+                                    "id": "123",
+                                    "firstName": "Maria Augusta",
+                                    "lastName": "Plaza",
+                                    "gender": "F",
+                                    "notes": "Essa aqui é uma nota do passageiro",
+                                    "email": "maria.plaza@livelo.com.br",
+                                    "documents": [{
+                                        "code": "123456",
+                                        "type": "DRIVER LICENSE"
+                                    }]
+                                }]
+                            }]
+                        }
+                    }],
+                    "vehicles": [{
+                        "item": {
+                            "category": {
+                                "name": "ECONÔMICO COM AR"
+                            },
+                            "globalDistribuitionSystem": {
+                                "id": "123456",
+                                "description": "SABRE",
+                                "reservationCode": "ABCDE",
+                                "provider": "AMADEUS RA",
+                                "cancellationPolicies": [{
+                                    "nonRefundable": false
+                                }]
+                            },
+                            "carRentalAgency": {
+                                "id": "123456",
+                                "description": "SABRE"
+                            },
+                            "pickup": {
+                                "id": "9626",
+                                "name": "MOVIDA RENT A CAR * MATRIZ",
+                                "date": "2019-03-22T11:00:00.000-03:00",
+                                "address": "On Airport - SAO PAULO AIRPORT - Rua Otavio Tarquinio de Souza , - ",
+                                "coordinates": {
+                                    "latitude": "-23.54855",
+                                    "longitude": "-46.636421"
+                                }
+                            },
+                            "devolution": {
+                                "id": "9626",
+                                "name": "MOVIDA RENT A CAR * MATRIZ",
+                                "date": "2019-03-22T11:00:00.000-03:00",
+                                "address": "On Airport - SAO PAULO AIRPORT - Rua Otavio Tarquinio de Souza , - ",
+                                "coordinates": {
+                                    "latitude": "-23.54855",
+                                    "longitude": "-46.636421"
+                                }
+                            },
+                            "optionalServices": {
+                                "description": "Lanche incluso"
+                            },
+                            "drivers": [{
+                                "id": "123",
+                                "firstName": "Maria Augusta",
+                                "lastName": "Plaza",
+                                "gender": "F",
+                                "notes": "Essa aqui é uma nota do passageiro",
+                                "email": "maria.plaza@livelo.com.br",
+                                "documents": [{
+                                    "code": "123456",
+                                    "type": "DRIVER LICENSE"
+                                }]
+                            }]
+                        }
+                    }]
+                },
+                "pricing": {
+                    "prices": [
+                        [{
+                                "total": 2306.02,
+                                "currency": "BRL",
+                                "details": {
+                                    "multiplier": null,
+                                    "ruleName": null
+                                }
+                            },
+                            {
+                                "total": 23060,
+                                "currency": "PTS",
+                                "details": {
+                                    "multiplier": 1.9,
+                                    "ruleName": "CVC Rule 456"
+                                }
+                            }
+                        ]
+                    ],
+                    "taxes": [
+                        [{
+                                "total": 230.02,
+                                "currency": "BRL",
+                                "details": {
+                                    "multiplier": null,
+                                    "ruleName": null
+                                }
+                            },
+                            {
+                                "total": 2306,
+                                "currency": "PTS",
+                                "details": {
+                                    "multiplier": 1.8,
+                                    "ruleName": "CVC Rule 123"
+                                }
+                            }
+                        ]
+                    ]
+                }
+            }]
+        }
+    }]
+},
+{
+    "id": "CVCFLIGHTTAX",
+    "commerceItemId": "ci1558116340848",
+    "partnerOrderId": "1911814",
+    "pricingInfo": [{
+        "total": 2306.02,
+        "currency": "BRL",
+        "multiplier": 1.5,
+        "ruleName": "BRL"
+    }],
     "partnerInfo": [{
         "travel": {
             "reservations": [{
