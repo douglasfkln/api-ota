@@ -1,7 +1,7 @@
 [{
     "id": "CVCFLIGHT",
     "commerceItemId": "ci123456789",
-    "partnerOrderId": "555555555555555555555555",
+    "partnerOrderId": "11111111111111111111111111",
     "pricingInfo": [{
         "total": 2306.02,
         "currency": "BRL",
@@ -11,7 +11,7 @@
     "partnerInfo": [{
         "travel": {
             "reservations": [{
-                "id": "6666666666666666666666666666666666666666",
+                "id": "2222222222222222222222222222222222222",
                 "reservationDate": "2019-03-06T17:58:28",
                 "expirationDate": "2019-03-06T18:18:28",
                 "status": "NOT_ACTIVATED",
@@ -351,7 +351,7 @@
 {
     "id": "CVCFLIGHTTAX",
     "commerceItemId": "ci1558116340848",
-    "partnerOrderId": "77777777777777777777777777777777777777777777",
+    "partnerOrderId": "333333333333333333333333333333",
     "pricingInfo": [{
         "total": 2306.02,
         "currency": "BRL",
@@ -361,7 +361,7 @@
     "partnerInfo": [{
         "travel": {
             "reservations": [{
-                "id": "888888888888888888888888888",
+                "id": "4444444444444444444444444444444444",
                 "reservationDate": "2019-03-06T17:58:28",
                 "expirationDate": "2019-03-06T18:18:28",
                 "status": "NOT_ACTIVATED",
