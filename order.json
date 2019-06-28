@@ -1,6 +1,6 @@
 [{
     "id": "CVCFLIGHT",
-    "commerceItemId": "ci1558116340848",
+    "commerceItemId": "ci123456789",
     "partnerOrderId": "1911814",
     "pricingInfo": [{
         "total": 2306.02,
@@ -11,7 +11,7 @@
     "partnerInfo": [{
         "travel": {
             "reservations": [{
-                "id": "400061545",
+                "id": "123456789",
                 "reservationDate": "2019-03-06T17:58:28",
                 "expirationDate": "2019-03-06T18:18:28",
                 "status": "NOT_ACTIVATED",
@@ -361,7 +361,7 @@
     "partnerInfo": [{
         "travel": {
             "reservations": [{
-                "id": "400061545",
+                "id": "987654321",
                 "reservationDate": "2019-03-06T17:58:28",
                 "expirationDate": "2019-03-06T18:18:28",
                 "status": "NOT_ACTIVATED",
