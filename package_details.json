@@ -1,0 +1,103 @@
+{
+    "id": 406,
+    "name": "Recife - 6 dias / 5 diárias",
+    "description": "Recife é cheia de vida e de atrações, e como grande parte das cidades nordestinas possui traços fortes e características marcantes. A diversidade encontrada na cultura é surpreendente. Cenário marcante, as pontes que cortam os rios do local lhe conferiram a fama de \"Veneza brasileira\". Entre as atrações principais da capital pernambucana está a praia de Boa Viagem, que possui 7 km de extensão e é considerada uma das mais belas praias urbanas do país. A tradição e cultura local estão presentes nas igrejas e nos diversos museus, além das construções da parte antiga da cidade.",
+    "days": 6,
+    "lowestPricePackage": {
+        "departureDate": "2019-09-28-03:00"
+    },
+    "type": "AIR",
+    "contents": [{
+        "code": "included-services",
+        "name": "Serviços Inclusos",
+        "items": [{
+            "code": "transport",
+            "name": "Serviços inclusos - Transporte",
+            "description": "Passagem aérea de ida e volta."
+        }, {
+            "code": "transfer",
+            "name": "Serviços inclusos - Traslado",
+            "description": "Aeroporto / hotel/ aeroporto."
+        }, {
+            "code": "accommodation",
+            "name": "Serviços inclusos - Hospedagem",
+            "description": "5 diárias de hospedagem no hotel escolhido com café da manhã ou meia-pensão, conforme o pacote escolhido."
+        }, {
+            "code": "activity",
+            "name": "Serviços inclusos - Atividade",
+            "description": "Passeios aos principais pontos turísticos de Recife e Olinda.  \n"
+        }, {
+            "code": "service",
+            "name": "Serviços inclusos - Serviço",
+            "description": "false"
+        }, {
+            "code": "meal",
+            "name": "Serviços inclusos - Refeição",
+            "description": "false"
+        }, {
+            "code": "documents",
+            "name": "Serviços inclusos - Documentos",
+            "description": "false"
+        }, {
+            "code": "others",
+            "name": "Serviços inclusos - Outros",
+            "description": "false"
+        }]
+    }, {
+        "code": "iconsBaseDestination",
+        "items": [{
+            "code": "hotelIcon",
+            "name": "Hospedagem"
+        }, {
+            "code": "flightIcon",
+            "name": "Passagens aéreas"
+        }, {
+            "code": "tourIcon",
+            "name": "Passeio"
+        }, {
+            "code": "transferIcon",
+            "name": "Traslado"
+        }]
+    }],
+    "links": [{
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-3_3.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe_3.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-2_3.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-4_2.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-geral-pe_3.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-geral-pe-2_3.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-geral-pe-3_3.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-oficina-francisco-brennand-pe_3.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-praia-pe_3.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/teatro-nova-jerusalem-pe_1.jpg"
+    }],
+    "dayByDay": [{
+        "label": "1º dia - Recife",
+        "description": "Chegada ao aeroporto, recepção da equipe CVC e traslado até o hotel escolhido.\n"
+    }, {
+        "label": "2º dia - Dia livre",
+        "description": "Sugestão de passeio (incluso) - Recife e Olinda. A atividade inicia com passeio panorâmico por Recife, incluindo as três Ilhas (Recife, Santo Antônio e Boa Vista), a Ponte Maurício de Nassau, a Praça da República e a Casa da Cultura. Em Olinda, considerada patrimônio natural e cultural da humanidade pela Unesco, aproveite para visitar o Alto da Sé, as Igrejas da Sé e da Misericórdia, entre outros locais.\n"
+    }, {
+        "label": "3º dia - Dia livre",
+        "description": "Sugestão de passeio (não incluso) - Porto de Galinhas.Aproveite para conhecer a beleza natural de Porto de Galinhas, marcante por conta do mar com águas cristalinas, imensos coqueirais e muita tranquilidade. É possível realizar passeios de jangada pelas piscinas naturais ou de buggy nas praias do Pontal de Maracaípe e de Muro Alto.\n"
+    }, {
+        "label": "4º dia - Dia livre",
+        "description": "Sugestão de passeio (não incluso) - João Pessoa. Aproveite para conhecer a cidade de João Pessoa em um tour panorâmico. Visita ao centro, ao parque Solon de Lucena, ao Cabo Branco e à Ponta do Seixas, entre outros pontos turísticos.\n"
+    }, {
+        "label": "5º dia - Dia livre",
+        "description": "Sugestão de passeio (não incluso) - Tamandaré e Carneiros.Aproveite para conhecer a praia de Tamandaré, com mar calmo e ideal para mergulho, ou a praia de Carneiros, com belos coqueirais. Retorno ao hotel no final da tarde.\n"
+    }, {
+        "label": "6º dia - Dia livre",
+        "description": "O visitante terá o transporte para o aeroporto no horário estipulado.\n\nImportante - As atividades e a ordem do roteiro pode sofrer alterações devido a condições climáticas ou outros fatores. Todos os passeios adquiridos pelo passageiro serão realizados.\n"
+    }],
+    "partnerCode": "CVC"
+}
