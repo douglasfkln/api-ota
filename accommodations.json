@@ -3,18 +3,64 @@
     "name": "Hotel Enseada Boa Viagem",
     "award": 3,
     "description": "Localizado em Recife/PE, no coração de Boa Viagem, a 10 minutos a pé da praia, próximo ao aeroporto, restaurantes, igrejas, bancos, supermercados, shoppings e pontos turísticos como a pracinha de Boa Viagem e o Parque Dona Lindu, o HOTEL ENSEADA BOA VIAGEM, é o segundo empreendimento da Rede Enseada, que traz como conceito uma hospedagem com excelente Custo x Benefício.\r\rO Hotel disponibiliza 64 aptos, recepção 24hs. Restaurante para café da manhã , wifi em todos os ambientes, 2 elevadores, 1 sala de apoio para reuniões e eventos corporativos e estacionamento rotativo gratuito (vagas limitadas, de acordo com a disponibilidade no momento do check in). Todos nossos quartos dispõem de wc privativo, cama de casal ou 2 de solteiro, ar-condicionado split central, tv de LED 32” com ampla seleção de canais, mesa de trabalho, cofre, telefone, secador de cabelo.",
-    "contents": [
-        {
+        "contents": [{
             "code": "amenities",
-            "name": null,
-            "description": null
-        },
-        {
+            "items": [{
+                "code": "201",
+                "name": "Serviços/Sala de Bagagem"
+            }, {
+                "code": "258",
+                "name": "Quartos para Deficientes"
+            }, {
+                "code": "58",
+                "name": "Lavandaria/Limpeza a seco"
+            }, {
+                "code": "10009",
+                "name": "Aceita os principais cartões de crédito"
+            }, {
+                "code": "101",
+                "name": "Accessibilidade para Cadeira de Rodas"
+            }, {
+                "code": "50",
+                "name": "Serviço de limpeza diário"
+            }, {
+                "code": "259",
+                "name": "Internet Banda Larga"
+            }, {
+                "code": "1",
+                "name": "Recepção 24 horas"
+            }, {
+                "code": "42",
+                "name": "Estacionamento Gratuito"
+            }, {
+                "code": "62",
+                "name": "Bar"
+            }, {
+                "code": "76",
+                "name": "Restaurante"
+            }, {
+                "code": "10015",
+                "name": "Restaurante Publico"
+            }, {
+                "code": "111",
+                "name": "Mesa de Bilhar"
+            }, {
+                "code": "24",
+                "name": "Salas de Reuniões"
+            }, {
+                "code": "33",
+                "name": "Elevador"
+            }, {
+                "code": "10007",
+                "name": "Free Wifi"
+            }]
+        }, {
             "code": "checkinInstructions",
             "name": "Checkin Instructions",
-            "description": null
-        }
-    ],
+            "items": [{
+                "name": "Check-in 12h / Check-out 12h\t\t\t\t\t\t\r\t\t\t\t\t\t\r"
+            }]
+        }],
     "images": {
         "thumbnailImage": [],
         "smallImages": [
