@@ -44,11 +44,11 @@
         }, {
             "code": "service",
             "name": "Serviços inclusos - Serviço",
-            "description": "false"
+            "description": "Serviços inclusos - Serviço"
         }, {
             "code": "meal",
             "name": "Serviços inclusos - Refeição",
-            "description": "false"
+            "description": "Serviços inclusos - Refeição"
         }, {
             "code": "documents",
             "name": "Serviços inclusos - Documentos",
