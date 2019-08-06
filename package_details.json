@@ -8,55 +8,43 @@
     },
     "type": "AIR",
     "contents": [{
+        "code": "iconsBaseDestination",
+        "items": [{
+            "code": "transferIcon",
+            "name": "Transporte rodoviário",
+            "description": "Transporte rodoviário - ida e volta"
+        }, {
+            "code": "hotelIcon",
+            "name": "Hospedagem",
+            "description": "Hospedagem - 02 diárias com café da manhã"
+        }, {
+            "code": "tourIcon",
+            "name": "Atividades",
+            "description": "Atividades - Passeios em Brusque, Nova Trento, Satuário Madre Paulina, Parque Beto Carrero World, Joinville e Curitiba"
+        }]
+    }, {
         "code": "included-services",
         "name": "Serviços Inclusos",
         "items": [{
-            "code": "transport",
-            "name": "Serviços inclusos - Transporte",
-            "description": "Passagem aérea de ida e volta."
-        }, {
             "code": "transfer",
-            "name": "Serviços inclusos - Traslado",
-            "description": "Aeroporto / hotel/ aeroporto."
+            "name": "Transporte rodoviário",
+            "description": "ida e volta"
         }, {
             "code": "accommodation",
-            "name": "Serviços inclusos - Hospedagem",
-            "description": "5 diárias de hospedagem no hotel escolhido com café da manhã ou meia-pensão, conforme o pacote escolhido."
+            "name": "Hospedagem",
+            "description": "02 diárias com café da manhã"
         }, {
             "code": "activity",
-            "name": "Serviços inclusos - Atividade",
-            "description": "Passeios aos principais pontos turísticos de Recife e Olinda.  \n"
+            "name": "Atividades",
+            "description": "Passeios em Brusque, Nova Trento, Satuário Madre Paulina, Parque Beto Carrero World, Joinville e Curitiba"
         }, {
             "code": "service",
-            "name": "Serviços inclusos - Serviço",
-            "description": "false"
-        }, {
-            "code": "meal",
-            "name": "Serviços inclusos - Refeição",
-            "description": "false"
-        }, {
-            "code": "documents",
-            "name": "Serviços inclusos - Documentos",
-            "description": "false"
+            "name": "Serviço",
+            "description": "Guia acompanhante"
         }, {
             "code": "others",
-            "name": "Serviços inclusos - Outros",
-            "description": "false"
-        }]
-    }, {
-        "code": "iconsBaseDestination",
-        "items": [{
-            "code": "hotelIcon",
-            "name": "Hospedagem"
-        }, {
-            "code": "flightIcon",
-            "name": "Passagens aéreas"
-        }, {
-            "code": "tourIcon",
-            "name": "Passeio"
-        }, {
-            "code": "transferIcon",
-            "name": "Traslado"
+            "name": "Importante",
+            "description": "Incluso ingresso para 01 dia no Parque Beto Carrero World"
         }]
     }],
     "links": [{
