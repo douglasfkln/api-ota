@@ -48,7 +48,11 @@
         }]
     }],
     "links": [{
-        "href": "https://img.services.cvc.com.br/images/337910.jpg",
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-3_3.jpg",
+        "title": "Beto Carrero - resultado de pacotes",
+        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe_3.jpg",
         "title": "Beto Carrero - resultado de pacotes",
         "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
     }],
