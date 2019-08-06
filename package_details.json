@@ -52,11 +52,11 @@
         }, {
             "code": "documents",
             "name": "Serviços inclusos - Documentos",
-            "description": "false"
+            "description": "Serviços inclusos - Documentos"
         }, {
             "code": "others",
             "name": "Serviços inclusos - Outros",
-            "description": "false"
+            "description": "Serviços inclusos - Outros"
         }]
     }],
     "links": [{
