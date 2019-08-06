@@ -48,25 +48,9 @@
         }]
     }],
     "links": [{
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-3_3.jpg"
-    }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe_3.jpg"
-    }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-2_3.jpg"
-    }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-4_2.jpg"
-    }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-geral-pe_3.jpg"
-    }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-geral-pe-2_3.jpg"
-    }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-geral-pe-3_3.jpg"
-    }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-oficina-francisco-brennand-pe_3.jpg"
-    }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-praia-pe_3.jpg"
-    }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/teatro-nova-jerusalem-pe_1.jpg"
+        href: "https://img.services.cvc.com.br/images/337910.jpg",
+        "title": "Beto Carrero - resultado de pacotes",
+        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
     }],
     "dayByDay": [{
         "label": "1º dia - Recife",
