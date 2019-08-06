@@ -26,25 +26,37 @@
         "code": "included-services",
         "name": "Serviços Inclusos",
         "items": [{
+            "code": "transport",
+            "name": "Serviços inclusos - Transporte",
+            "description": "Passagem aérea de ida e volta."
+        }, {
             "code": "transfer",
-            "name": "Transporte rodoviário",
-            "description": "ida e volta"
+            "name": "Serviços inclusos - Traslado",
+            "description": "Aeroporto / hotel/ aeroporto."
         }, {
             "code": "accommodation",
-            "name": "Hospedagem",
-            "description": "02 diárias com café da manhã"
+            "name": "Serviços inclusos - Hospedagem",
+            "description": "5 diárias de hospedagem no hotel escolhido com café da manhã ou meia-pensão, conforme o pacote escolhido."
         }, {
             "code": "activity",
-            "name": "Atividades",
-            "description": "Passeios em Brusque, Nova Trento, Satuário Madre Paulina, Parque Beto Carrero World, Joinville e Curitiba"
+            "name": "Serviços inclusos - Atividade",
+            "description": "Passeios aos principais pontos turísticos de Recife e Olinda.  \n"
         }, {
             "code": "service",
-            "name": "Serviço",
-            "description": "Guia acompanhante"
+            "name": "Serviços inclusos - Serviço",
+            "description": "false"
+        }, {
+            "code": "meal",
+            "name": "Serviços inclusos - Refeição",
+            "description": "false"
+        }, {
+            "code": "documents",
+            "name": "Serviços inclusos - Documentos",
+            "description": "false"
         }, {
             "code": "others",
-            "name": "Importante",
-            "description": "Incluso ingresso para 01 dia no Parque Beto Carrero World"
+            "name": "Serviços inclusos - Outros",
+            "description": "false"
         }]
     }],
     "links": [{
