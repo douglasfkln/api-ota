@@ -1,88 +1,15 @@
 {
     "period": {
-        "startDate": "2019-07-26",
-        "endDate": "2020-07-26"
+        "startDate": "2019-08-08",
+        "endDate": "2020-08-08"
     },
     "departureDates": [{
-        "id": 238236281,
-        "date": "2019-09-28",
+        "id": 241767673,
+        "date": "2019-12-05",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 39500,
+        "bestPrice": 122800,
         "cheaperDate": true,
         "currency": "PTS"
-    }, {
-        "id": 238236282,
-        "date": "2019-09-30",
-        "isAvailable": true,
-        "isPromotional": true,
-        "bestPrice": 39500,
-        "cheaperDate": true,
-        "currency": "PTS"
-    }, {
-        "id": 238236284,
-        "date": "2019-10-05",
-        "isAvailable": true,
-        "isPromotional": true,
-        "bestPrice": 39500,
-        "cheaperDate": true,
-        "currency": "PTS"
-    }, {
-        "id": 238236286,
-        "date": "2019-10-19",
-        "isAvailable": true,
-        "isPromotional": true,
-        "bestPrice": 39500,
-        "cheaperDate": true,
-        "currency": "PTS"
-    }, {
-        "id": 238236289,
-        "date": "2019-10-26",
-        "isAvailable": true,
-        "isPromotional": true,
-        "bestPrice": 39500,
-        "cheaperDate": true,
-        "currency": "PTS"
-    }, {
-        "id": 238268593,
-        "date": "2019-11-02",
-        "isAvailable": true,
-        "isPromotional": true,
-        "bestPrice": 39500,
-        "cheaperDate": true,
-        "currency": "PTS"
-    }, {
-        "id": 238236391,
-        "date": "2019-11-04",
-        "isAvailable": true,
-        "isPromotional": true,
-        "bestPrice": 39500,
-        "cheaperDate": true,
-        "currency": "PTS"
-    }, {
-        "id": 241726772,
-        "date": "2019-11-06",
-        "isAvailable": true,
-        "isPromotional": false,
-        "bestPrice": 53300,
-        "cheaperDate": false,
-        "currency": "PTS"
-    }, {
-        "id": 238236394,
-        "date": "2019-11-11",
-        "isAvailable": true,
-        "isPromotional": true,
-        "bestPrice": 39500,
-        "cheaperDate": true,
-        "currency": "PTS"
-    }, {
-        "id": 242763003,
-        "date": "2019-11-23",
-        "isAvailable": true,
-        "isPromotional": false,
-        "bestPrice": 43400,
-        "cheaperDate": false,
-        "currency": "PTS"
-    }],
-    "partnerCode": "CVC"
+    }]
 }
