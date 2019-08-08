@@ -11,5 +11,13 @@
         "bestPrice": 122800,
         "cheaperDate": true,
         "currency": "PTS"
+    },{
+        "id": 241767673,
+        "date": "2019-12-06",
+        "isAvailable": true,
+        "isPromotional": true,
+        "bestPrice": 122800,
+        "cheaperDate": true,
+        "currency": "PTS"
     }]
 }
