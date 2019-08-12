@@ -65,19 +65,19 @@
         "flight": {
             "id": 304106357,
             "outbound": {
-                "number": "33212",
+                "number": "33432",
                 "period": "D",
                 "departureLocation": {
                     "iata": "REC",
                     "description": "RECIFE"
                 },
                 "arrivalLocation": {
-                    "iata": "GRU",
-                    "description": "GUARULHOS"
+                    "iata": "POA",
+                    "description": "PORTO ALEGRE"
                 },
-                "departureDate": "2019-10-31T17:15:00-02:00",
-                "duration": 205,
-                "arrivalDate": "2019-10-31T20:40:00-02:00",
+                "departureDate": "2019-12-11T10:35:00-02:00",
+                "duration": 195,
+                "arrivalDate": "2019-12-11T18:45:00-02:00",
                 "operatingAirline": {
                     "code": "LA",
                     "name": "LA"
@@ -92,36 +92,70 @@
                         "iata": "GRU",
                         "description": "GUARULHOS"
                     },
-                    "departureDate": "2019-10-31T17:15:00-02:00",
-                    "arrivalDate": "2019-10-31T20:40:00-02:00",
-                    "flightNumber": "33212",
+                    "departureDate": "2019-12-11T10:35:00-02:00",
+                    "arrivalDate": "2019-12-11T13:50:00-02:00",
+                    "flightNumber": "33432",
                     "operatingAirline": {
                         "code": "LA",
                         "name": "LA"
                     },
-                    "duration": 205
+                    "duration": 195
+                }, {
+                    "departureLocation": {
+                        "iata": "GRU",
+                        "description": "GUARULHOS"
+                    },
+                    "arrivalLocation": {
+                        "iata": "POA",
+                        "description": "PORTO ALEGRE"
+                    },
+                    "departureDate": "2019-12-11T17:00:00-02:00",
+                    "arrivalDate": "2019-12-11T18:45:00-02:00",
+                    "flightNumber": "33372",
+                    "operatingAirline": {
+                        "code": "LA",
+                        "name": "LA"
+                    },
+                    "duration": 105
                 }]
             },
             "inbound": {
-                "number": "95321",
+                "number": "11069",
                 "period": "D",
                 "departureLocation": {
-                    "iata": "GRU",
-                    "description": "GUARULHOS"
+                    "iata": "POA",
+                    "description": "PORTO ALEGRE"
                 },
                 "arrivalLocation": {
                     "iata": "REC",
                     "description": "RECIFE"
                 },
-                "departureDate": "2019-10-26T09:00:00-02:00",
-                "duration": 185,
-                "arrivalDate": "2019-10-26T12:05:00-02:00",
+                "departureDate": "2019-12-05T14:30:00-02:00",
+                "duration": 100,
+                "arrivalDate": "2019-12-05T20:50:00-02:00",
                 "operatingAirline": {
                     "code": "LA",
                     "name": "LA"
                 },
                 "class": "Economico",
                 "legs": [{
+                    "departureLocation": {
+                        "iata": "POA",
+                        "description": "PORTO ALEGRE"
+                    },
+                    "arrivalLocation": {
+                        "iata": "GRU",
+                        "description": "GUARULHOS"
+                    },
+                    "departureDate": "2019-12-05T14:30:00-02:00",
+                    "arrivalDate": "2019-12-05T16:10:00-02:00",
+                    "flightNumber": "11069",
+                    "operatingAirline": {
+                        "code": "LA",
+                        "name": "LA"
+                    },
+                    "duration": 100
+                }, {
                     "departureLocation": {
                         "iata": "GRU",
                         "description": "GUARULHOS"
@@ -130,17 +164,17 @@
                         "iata": "REC",
                         "description": "RECIFE"
                     },
-                    "departureDate": "2019-10-26T09:00:00-02:00",
-                    "arrivalDate": "2019-10-26T12:05:00-02:00",
-                    "flightNumber": "95321",
+                    "departureDate": "2019-12-05T17:50:00-02:00",
+                    "arrivalDate": "2019-12-05T20:50:00-02:00",
+                    "flightNumber": "35162",
                     "operatingAirline": {
                         "code": "LA",
                         "name": "LA"
                     },
-                    "duration": 185
+                    "duration": 180
                 }]
             },
-            "flightGroupId": 95321
+            "flightGroupId": 1106
         },
         "taxes": [{
             "code": "E",
