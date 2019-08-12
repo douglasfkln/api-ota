@@ -1,0 +1,151 @@
+{
+    "package": {
+        "id": 238665277,
+        "startDate": "2019-10-26",
+        "endDate": "2019-10-31",
+        "days": 6,
+        "type": "AIR",
+        "isAvailable": true,
+        "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmRlPSI0MDYiIGJyaT0iMTAwMyIgY3BwPSIzNS4wODc3MiIgZHRmPSIyMDE5LTEwLTMxIiBkdGk9IjIwMTktMTAtMjYiIGVjdD0iQlIiIGVzdD0iUEUiIGV6aT0iNTU0MSIgZmdyPSI5NTMyMiIgbWtpPSI5NTgxNDUzIiBta3A9IjAuNjAwIiBubXQ9InRydWUiIHBhY2thZ2VUeXBlPSJBSVIiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjIzODY2NTI3NyIgcGtnPSJQQUNLQUdFIiBwa2k9IjIzODY2NTI3NyIgcG90PSIxMzUwLjMyIiBwcHg9IjMwLDY3NS4xNiwxMTI1LjI3fDMwLDY3NS4xNiwxMTI1LjI3IiBwcHk9IjgxMTU2NTkiIHByZD0iUEFDIiBwd3Q9IjE0ODkuMDQiIHB4cz0iMzAsMzAiIHNjdD0iQlIiIHNkdD0iMjAxOS0wOC0xMi0wMzowMCIgc290PSIyMjUwLjUzIiBzc3Q9IlNQIiBzd3Q9IjIzODkuMjUiIHN6aT0iOTYyNiIgdHhyPSI4MTE1NjU5LDEsNTAwLEhPVHwxMzQ1LDIsMTkwLjMyLFJFQ3w3NzQ5MjAsMywzMzAsQUlSfDc3NDkyMCw0LDMzMCxBSVIiLz4=",
+        "price": {
+            "priceWithTax": 83900,
+            "priceWithoutTax": 79000,
+            "pricePerDayWithTax": 13983.33,
+            "pricePerDayWithoutTax": 13166.67,
+            "pricePerPaxWithTax": 41950,
+            "pricePerPaxWithoutTax": 39500,
+            "currency": "PTS"
+        },
+        "baseDestination": 406,
+        "accommodations": [
+            {
+                "id": 458115659,
+                "name": "VELA BRANCA PRAIA HOTEL",
+                "description": "HOTEL URBANO SIMPLES",
+                "isPreferential": true,
+                "timeSpan": {
+                    "nights": 5,
+                    "checkIn": "2019-10-26",
+                    "checkOut": "2019-10-31"
+                },
+                "location": {
+                    "address": " - ENGENHEIRO DOMINGOS FERREIRA, 4395",
+                    "coordinates": {
+                        "latitude": -8.128399,
+                        "longitude": -34.9014415
+                    }
+                },
+                "room": {
+                    "rph": 1,
+                    "description": "Apartamento Standard",
+                    "mealPlan": "Diária com café da manhã",
+                    "category": "3",
+                    "links": {
+                        "thumbnailImage": {
+                            "href": "http://www.cvc.com.br/images/457345.jpg"
+                        }
+                    }
+                },
+                "category": "Apartamento Standard"
+            }
+        ],
+        "flight": {
+            "id": 298897354,
+            "flightGroupId": 95322,
+            "outbound": {
+                "number": "36472",
+                "period": "D",
+                "departureLocation": {
+                    "iata": "REC",
+                    "description": "RECIFE"
+                },
+                "arrivalLocation": {
+                    "iata": "GRU",
+                    "description": "GUARULHOS"
+                },
+                "departureDate": "2019-10-31T21:20:00-02:00",
+                "duration": 185,
+                "arrivalDate": "2019-11-01T00:25:00-02:00",
+                "operatingAirline": {
+                    "code": "LA",
+                    "name": "LA"
+                },
+                "class": "Economico",
+                "legs": [
+                    {
+                        "departureLocation": {
+                            "iata": "REC",
+                            "description": "RECIFE"
+                        },
+                        "arrivalLocation": {
+                            "iata": "GRU",
+                            "description": "GUARULHOS"
+                        },
+                        "departureDate": "2019-10-31T21:20:00-02:00",
+                        "arrivalDate": "2019-11-01T00:25:00-02:00",
+                        "flightNumber": "36472",
+                        "operatingAirline": {
+                            "code": "LA",
+                            "name": null
+                        },
+                        "duration": 185
+                    }
+                ]
+            },
+            "inbound": {
+                "number": "95322",
+                "period": "D",
+                "departureLocation": {
+                    "iata": "GRU",
+                    "description": "GUARULHOS"
+                },
+                "arrivalLocation": {
+                    "iata": "REC",
+                    "description": "RECIFE"
+                },
+                "departureDate": "2019-10-26T13:25:00-02:00",
+                "duration": 190,
+                "arrivalDate": "2019-10-26T16:35:00-02:00",
+                "operatingAirline": {
+                    "code": "LA",
+                    "name": "LA"
+                },
+                "class": "Economico",
+                "legs": [
+                    {
+                        "departureLocation": {
+                            "iata": "GRU",
+                            "description": "GUARULHOS"
+                        },
+                        "arrivalLocation": {
+                            "iata": "REC",
+                            "description": "RECIFE"
+                        },
+                        "departureDate": "2019-10-26T13:25:00-02:00",
+                        "arrivalDate": "2019-10-26T16:35:00-02:00",
+                        "flightNumber": "95322",
+                        "operatingAirline": {
+                            "code": "LA",
+                            "name": "LA"
+                        },
+                        "duration": 190
+                    }
+                ]
+            },
+            "baggageRule": {
+                "description": "Regra da Bagagem",
+                "rules": [
+                    "Inclui 1 bagagem despachada de 23 quilos e + 1 bagagem de mão de até 10Kg.",
+                    "Inclui 1 bagagem despachada de até 23Kg."
+                ]
+            }
+        },
+        "taxes": [
+            {
+                "code": "E",
+                "description": "TAXA DE EMBARQUE",
+                "amount": 4900
+            }
+        ]
+    }
+}
