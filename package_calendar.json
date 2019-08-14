@@ -8,368 +8,368 @@
         "date": "2019-08-17",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1470.73,
+        "bestPrice": 57900,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 240846114,
         "date": "2019-08-24",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1397.92,
+        "bestPrice": 55100,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 232916873,
         "date": "2019-08-31",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1315.79,
+        "bestPrice": 51800,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 232916874,
         "date": "2019-09-07",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1437.01,
+        "bestPrice": 56600,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 232916875,
         "date": "2019-09-14",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1442.21,
+        "bestPrice": 56800,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 232916876,
         "date": "2019-09-21",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1442.21,
+        "bestPrice": 56800,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 232916877,
         "date": "2019-09-28",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1442.21,
+        "bestPrice": 56800,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 232916879,
         "date": "2019-10-05",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1541.03,
+        "bestPrice": 60700,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 240846122,
         "date": "2019-10-12",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1664.78,
+        "bestPrice": 65600,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 240847978,
         "date": "2019-10-19",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1850.7,
+        "bestPrice": 72900,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 232916882,
         "date": "2019-10-26",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1763.02,
+        "bestPrice": 69400,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 233040988,
         "date": "2019-11-02",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1661.56,
+        "bestPrice": 65400,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 233040989,
         "date": "2019-11-09",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1706.14,
+        "bestPrice": 67200,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 233041040,
         "date": "2019-11-16",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1706.14,
+        "bestPrice": 67200,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 233041042,
         "date": "2019-11-23",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1706.14,
+        "bestPrice": 67200,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 233041044,
         "date": "2019-11-30",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1737.34,
+        "bestPrice": 68400,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 233041045,
         "date": "2019-12-07",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1794.55,
+        "bestPrice": 70700,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 233041046,
         "date": "2019-12-14",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1794.55,
+        "bestPrice": 70700,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 240846134,
         "date": "2019-12-21",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 2425.35,
+        "bestPrice": 95500,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 238501235,
         "date": "2019-12-28",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 2914.96,
+        "bestPrice": 114800,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 234676180,
         "date": "2020-01-04",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 2800.91,
+        "bestPrice": 110300,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 238501237,
         "date": "2020-01-11",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 2721.8,
+        "bestPrice": 107200,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 238501238,
         "date": "2020-01-18",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 2721.8,
+        "bestPrice": 107200,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 234702265,
         "date": "2020-01-25",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 2219.57,
+        "bestPrice": 87400,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 234676184,
         "date": "2020-02-01",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 2054.99,
+        "bestPrice": 80900,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 234676185,
         "date": "2020-02-08",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 2054.99,
+        "bestPrice": 80900,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 234676186,
         "date": "2020-02-15",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 2054.99,
+        "bestPrice": 80900,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 237157320,
         "date": "2020-02-22",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 2742.6,
+        "bestPrice": 108000,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 234702271,
         "date": "2020-02-29",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1918.68,
+        "bestPrice": 75600,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 234702272,
         "date": "2020-03-07",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1918.68,
+        "bestPrice": 75600,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 234702273,
         "date": "2020-03-14",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1918.68,
+        "bestPrice": 75600,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 234702274,
         "date": "2020-03-21",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1918.68,
+        "bestPrice": 75600,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 234702275,
         "date": "2020-03-28",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1918.68,
+        "bestPrice": 75600,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934537,
         "date": "2020-04-04",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1963.94,
+        "bestPrice": 77300,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934538,
         "date": "2020-04-11",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1919.36,
+        "bestPrice": 75600,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934539,
         "date": "2020-04-18",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1963.94,
+        "bestPrice": 77300,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934540,
         "date": "2020-04-25",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1963.94,
+        "bestPrice": 77300,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934541,
         "date": "2020-05-02",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1919.36,
+        "bestPrice": 75600,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934542,
         "date": "2020-05-09",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1963.94,
+        "bestPrice": 77300,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934543,
         "date": "2020-05-16",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1963.94,
+        "bestPrice": 77300,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934544,
         "date": "2020-05-23",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 1963.94,
+        "bestPrice": 77300,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934545,
         "date": "2020-05-30",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1919.36,
+        "bestPrice": 75600,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934546,
         "date": "2020-06-06",
         "isAvailable": true,
         "isPromotional": false,
-        "bestPrice": 2038.23,
+        "bestPrice": 80300,
         "cheaperDate": false,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934547,
         "date": "2020-06-13",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1963.94,
+        "bestPrice": 77300,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934548,
         "date": "2020-06-20",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1963.94,
+        "bestPrice": 77300,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }, {
         "id": 231934549,
         "date": "2020-06-27",
         "isAvailable": true,
         "isPromotional": true,
-        "bestPrice": 1963.94,
+        "bestPrice": 77300,
         "cheaperDate": true,
-        "currency": "BRL"
+        "currency": "PTS"
     }]
 }
