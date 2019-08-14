@@ -1,28 +1,13 @@
 {
-    "id": 406,
-    "name": "Recife - 6 dias / 5 diárias",
-    "description": "Recife é cheia de vida e de atrações, e como grande parte das cidades nordestinas possui traços fortes e características marcantes. A diversidade encontrada na cultura é surpreendente. Cenário marcante, as pontes que cortam os rios do local lhe conferiram a fama de \"Veneza brasileira\". Entre as atrações principais da capital pernambucana está a praia de Boa Viagem, que possui 7 km de extensão e é considerada uma das mais belas praias urbanas do país. A tradição e cultura local estão presentes nas igrejas e nos diversos museus, além das construções da parte antiga da cidade.",
-    "days": 6,
+    "id": 363,
+    "name": "Porto Seguro - 8 dias / 7 diárias",
+    "description": "Porto Seguro reúne história e opções de lazer variadas. Prova disso são os monumentos, as igrejas e as construções seculares que dividem espaço com as belezas naturais do destino. No meio de tantas paisagens ganha destaque os 90 quilômetros de costa, abrigo de praias quase desertas ou badaladas. Na região litorânea estão concentradas barracas de quitutes baianos, quadras esportivas, equipamentos de esportes aquáticos, piscinas naturais e bares.",
+    "days": 8,
     "lowestPricePackage": {
-        "departureDate": "2019-09-28-03:00"
+        "departureDate": "2019-08-31-03:00"
     },
     "type": "AIR",
     "contents": [{
-        "code": "iconsBaseDestination",
-        "items": [{
-            "code": "transferIcon",
-            "name": "Transporte rodoviário",
-            "description": "Transporte rodoviário - ida e volta"
-        }, {
-            "code": "hotelIcon",
-            "name": "Hospedagem",
-            "description": "Hospedagem - 02 diárias com café da manhã"
-        }, {
-            "code": "tourIcon",
-            "name": "Atividades",
-            "description": "Atividades - Passeios em Brusque, Nova Trento, Satuário Madre Paulina, Parque Beto Carrero World, Joinville e Curitiba"
-        }]
-    }, {
         "code": "included-services",
         "name": "Serviços Inclusos",
         "items": [{
@@ -32,92 +17,103 @@
         }, {
             "code": "transfer",
             "name": "Serviços inclusos - Traslado",
-            "description": "Aeroporto / hotel/ aeroporto."
+            "description": "Aeroporto / hotel / aeroporto."
         }, {
             "code": "accommodation",
             "name": "Serviços inclusos - Hospedagem",
-            "description": "5 diárias de hospedagem no hotel escolhido com café da manhã ou meia-pensão, conforme o pacote escolhido."
+            "description": "7 diárias de acordo com o pacote escolhido."
         }, {
             "code": "activity",
             "name": "Serviços inclusos - Atividade",
-            "description": "Passeios aos principais pontos turísticos de Recife e Olinda.  \n"
+            "description": "Passeio aos principais pontos turísticos da cidade."
         }, {
             "code": "service",
             "name": "Serviços inclusos - Serviço",
-            "description": "Serviços inclusos - Serviço"
+            "description": "false"
         }, {
             "code": "meal",
             "name": "Serviços inclusos - Refeição",
-            "description": "Serviços inclusos - Refeição"
+            "description": "false"
         }, {
             "code": "documents",
             "name": "Serviços inclusos - Documentos",
-            "description": "Serviços inclusos - Documentos"
+            "description": "false"
         }, {
             "code": "others",
             "name": "Serviços inclusos - Outros",
-            "description": "Serviços inclusos - Outros"
+            "description": "false"
+        }]
+    }, {
+        "code": "iconsBaseDestination",
+        "items": [{
+            "code": "hotelIcon",
+            "name": "Hospedagem"
+        }, {
+            "code": "flightIcon",
+            "name": "Passagens aéreas"
+        }, {
+            "code": "tourIcon",
+            "name": "Passeio"
+        }, {
+            "code": "transferIcon",
+            "name": "Traslado"
         }]
     }],
     "links": [{
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-3_3.jpg",
-        "title": "Beto Carrero - resultado de pacotes",
-        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-parapente_0.jpg"
     }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe_3.jpg",
-        "title": "Beto Carrero - resultado de pacotes",
-        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-praia-taipe_0.jpg"
     }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-2_3.jpg",
-        "title": "Beto Carrero - resultado de pacotes",
-        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-arraial-dajuda_0.jpg"
     }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-4_2.jpg",
-        "title": "Beto Carrero - resultado de pacotes",
-        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-artesanato_0.jpg"
     }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-oficina-francisco-brennand-pe_3.jpg",
-        "title": "Beto Carrero - resultado de pacotes",
-        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
-    },{
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-3_3.jpg",
-        "title": "Beto Carrero - resultado de pacotes",
-        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-barcos-santa-cruz-cabralia_0.jpg"
     }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe_3.jpg",
-        "title": "Beto Carrero - resultado de pacotes",
-        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-constru%C3%A7%C3%B5es-hist%C3%B3ricas_0.jpg"
     }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-2_3.jpg",
-        "title": "Beto Carrero - resultado de pacotes",
-        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-mergulho-cilindro_0.jpg"
     }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-carneiros-pe-4_2.jpg",
-        "title": "Beto Carrero - resultado de pacotes",
-        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-parque-tambau_0.jpg"
     }, {
-        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-03/recife-oficina-francisco-brennand-pe_3.jpg",
-        "title": "Beto Carrero - resultado de pacotes",
-        "tooltip": "Beto Carrero World - Santa Catarina - Brasil"
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-passarela-descobrimento_0.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-por-do-sol.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-praia-espelho.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-replica-navio_0.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-reserva-jaqueira_0.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-taipe-falesias_0.jpg"
+    }, {
+        "href": "http://cmsproduto.services.cvc.com.br/sites/produto/files/2017-02/porto-seguro-trancoso_0.jpg"
     }],
     "dayByDay": [{
-        "label": "1º dia - Recife",
-        "description": "Chegada ao aeroporto, recepção da equipe CVC e traslado até o hotel escolhido.\n"
+        "label": "1º dia - Porto Seguro",
+        "description": "Chegada ao aeroporto, recepção da equipe CVC e traslado até o hotel escolhido."
     }, {
         "label": "2º dia - Dia livre",
-        "description": "Sugestão de passeio (incluso) - Recife e Olinda. A atividade inicia com passeio panorâmico por Recife, incluindo as três Ilhas (Recife, Santo Antônio e Boa Vista), a Ponte Maurício de Nassau, a Praça da República e a Casa da Cultura. Em Olinda, considerada patrimônio natural e cultural da humanidade pela Unesco, aproveite para visitar o Alto da Sé, as Igrejas da Sé e da Misericórdia, entre outros locais.\n"
+        "description": "Após o café da manhã, saída em direção a Porto Seguro e visita a pontos turísticos como a Igreja de Nossa Senhora da Penha, Igreja de São Sebastião, Museu de Porto Seguro, entre outros locais. Apresentação de capoeira e degustação de produtos típicos, como cacau e licor de jenipapo. Em seguida, visita ao complexo de lazer Tôa Tôa, na praia de Taperapuã. O retorno ao hotel possui três horários alternativos. À noite, você poderá aproveitar as saídas, de segunda a sexta-feira, até a Passarela do Álcool (disponível somente aos hóspedes de hotéis da orla). Festa de confraternização no Tôa Tôa, com apresentação de shows folclóricos e dança."
     }, {
-        "label": "3º dia - Dia livre",
-        "description": "Sugestão de passeio (não incluso) - Porto de Galinhas.Aproveite para conhecer a beleza natural de Porto de Galinhas, marcante por conta do mar com águas cristalinas, imensos coqueirais e muita tranquilidade. É possível realizar passeios de jangada pelas piscinas naturais ou de buggy nas praias do Pontal de Maracaípe e de Muro Alto.\n"
+        "label": "3° dia - Dia livre",
+        "description": "Sugestão de passeio (não incluso) - Praia de Taípe, com Arraial d´Ajuda ou Recife de Fora. Duração de 8h. Embarque pela manhã em ônibus equipado com sistema de som e guia acompanhante até Taípe, litoral sul de Porto Seguro. Após o almoço, saída em direção a Arraial d'Ajuda. Chegada e entrada em embarcação de turismo exclusiva CVC /AR em direção ao Parque Marinho do Recife de Fora. Tempo para mergulho nas piscinas naturais. O tempo de permanência é de, no máximo, duas horas."
     }, {
         "label": "4º dia - Dia livre",
-        "description": "Sugestão de passeio (não incluso) - João Pessoa. Aproveite para conhecer a cidade de João Pessoa em um tour panorâmico. Visita ao centro, ao parque Solon de Lucena, ao Cabo Branco e à Ponta do Seixas, entre outros pontos turísticos.\n"
+        "description": "Sugestão de passeio(não incluso) - Arraial d'Ajuda Eco Park, um dos mais belos parques aquáticos e ecológicos do Brasil, localizado na praia do Mucugê. Aproveite a infraestrutura com toboáguas, piscina de ondas, rio com correnteza, quadras de esportes e playground."
     }, {
         "label": "5º dia - Dia livre",
-        "description": "Sugestão de passeio (não incluso) - Tamandaré e Carneiros.Aproveite para conhecer a praia de Tamandaré, com mar calmo e ideal para mergulho, ou a praia de Carneiros, com belos coqueirais. Retorno ao hotel no final da tarde.\n"
+        "description": "Sugestão de passeio (não incluso) - Passeio de chalana. Embarque pela manhã com destino a Santa Cruz Cabrália. No píer de Cabrália será feita a viagem numa chalana exclusiva da CVC. O trajeto inclui paradas na Ilha Paraíso e na praia de Santo André, uma das mais lindas do Brasil. Continuação do passeio com parada na hora do almoço. Ao final da tarde, retorno ao hotel."
     }, {
         "label": "6º dia - Dia livre",
-        "description": "O visitante terá o transporte para o aeroporto no horário estipulado.\n\nImportante - As atividades e a ordem do roteiro pode sofrer alterações devido a condições climáticas ou outros fatores. Todos os passeios adquiridos pelo passageiro serão realizados.\n"
+        "description": "Sugestão de passeio (não incluso) - Trancoso. Saída do hotel após o café da manhã. Chegada e visita a um vilarejo chamado Quadrado, repleto de construções do século 16, como a Igreja de São João. Em seguida, continuação em direção à praia de Trancoso. Retorno ao hotel no final da tarde."
+    }, {
+        "label": "7º dia - Dia livre",
+        "description": "Sugestão de passeio (não incluso) - Rota do Descobrimento. Almoço. Saída pela manhã com destino a Santa Cruz Cabrália, conhecida como Cidade do Descobrimento do Brasil.É possível avistar as praias de Arakakai, do Mutari, dos Lençóis e Coroa Vermelha. Almoço no hotel e acesso à praia do Mutá. O retorno para o hotel será feito no final da tarde."
+    }, {
+        "label": "8º dia - Porto Seguro",
+        "description": "Em horário determinado, transporte ao aeroporto para embarque em direção à cidade de origem."
     }],
     "partnerCode": "CVC"
 }
