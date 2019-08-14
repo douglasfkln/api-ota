@@ -74,11 +74,11 @@
             "description": "Internet wi-fi gratuita nas áreas comuns"
         }]
     }],
-    "links": {
+    "images": {
         "thumbnailImage": {
             "href": "https://img.services.cvc.com.br/images/461783.jpg"
         },
-        "images": [{
+        "smallImages": [{
             "href": "https://img.services.cvc.com.br/images/461783.jpg"
         }, {
             "href": "https://img.services.cvc.com.br/images/433759.jpg",
