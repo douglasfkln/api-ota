@@ -1,0 +1,62 @@
+{
+    "id": "4516278306",
+    "name": "HOTEL FENIX PORTO SEGURO**",
+    "description": "Localizado no Centro, a seis quadras da passarela do Descobrimento, esse hotel possui piscina, bar e restaurante. Café da manhã incluído e o estacionamento gratuito. Os 100 apartamentos possuem banheiro privativo, varanda, TV e ar-condicionado. O Wi-Fi é gratuito nas áreas sociais.  \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "isPreferential": false,
+    "location": {
+        "address": "Rua Pitangueiras, 257, Porto Seguro, BA, Brasil"
+    },
+    "contents": [{
+        "code": "hotel-resort-fee",
+        "description": "          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          \r\n          "
+    }],
+    "links": {
+        "thumbnailImage": {
+            "href": "https://img.services.cvc.com.br/images/482229.jpg",
+            "title": "."
+        },
+        "images": [{
+            "href": "https://img.services.cvc.com.br/images/482229.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482212.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482190.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482191.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482192.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482193.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482194.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482195.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482230.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482213.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482196.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482231.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482233.jpg",
+            "title": "."
+        }, {
+            "href": "https://img.services.cvc.com.br/images/482197.jpg",
+            "title": "."
+        }]
+    }
+}
