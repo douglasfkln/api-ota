@@ -1,83 +1,84 @@
 {
     "packages": [{
-        "id": 238268361,
-        "startDate": "2019-10-26",
-        "endDate": "2019-10-31",
-        "days": 6,
+        "id": 232916873,
+        "startDate": "2019-08-31",
+        "endDate": "2019-09-07",
+        "days": 8,
         "type": "AIR",
         "isAvailable": true,
-        "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmRlPSI0MDYiIGJyaT0iMTAwMyIgY3BwPSIzNS4wODc3MiIgZHRmPSIyMDE5LTEwLTMxIiBkdGk9IjIwMTktMTAtMjYiIGVjdD0iQlIiIGVzdD0iUEUiIGV6aT0iNTU0MSIgZmdyPSI5NTMyMSIgbWtpPSI5NTgxNDUzIiBta3A9IjAuNjAwIiBubXQ9InRydWUiIHBhY2thZ2VUeXBlPSJBSVIiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjIzODI2ODM2MSIgcGtnPSJQQUNLQUdFIiBwa2k9IjIzODI2ODM2MSIgcG90PSIxMzUwLjMyIiBwcHg9IjMwLDY3NS4xNiwxMTI1LjI3fDMwLDY3NS4xNiwxMTI1LjI3IiBwcHk9IjgxMTU2NTkiIHByZD0iUEFDIiBwd3Q9IjE0ODkuMDQiIHB4cz0iMzAsMzAiIHNjdD0iQlIiIHNkdD0iMjAxOS0wOC0wOS0wMzowMCIgc290PSIyMjUwLjUzIiBzc3Q9IlNQIiBzd3Q9IjIzODkuMjUiIHN6aT0iOTYyNiIgdHhyPSI4MTE1NjU5LDEsNTAwLEhPVHwxMzQ1LDIsMTkwLjMyLFJFQ3w3NzQ5MjAsMywzMzAsQUlSfDc3NDkyMCw0LDMzMCxBSVIiLz4=",
+        "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmRlPSIzNjMiIGJyaT0iMTAwMyIgY3BwPSIzNS4wODc3MiIgZHRmPSIyMDE5LTA5LTA3IiBkdGk9IjIwMTktMDgtMzEiIGVjdD0iQlIiIGVzdD0iQkEiIGV6aT0iMTAzMiIgZmdyPSI5NDM0IiBta2k9Ijk1ODE0NTMiIG1rcD0iMC42MDAiIG5tdD0idHJ1ZSIgcGFja2FnZVR5cGU9IkFJUiIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMjMyOTE2ODczIiBwa2c9IlBBQ0tBR0UiIHBraT0iMjMyOTE2ODczIiBwb3Q9IjE3NzEuMDYiIHBweD0iMzAsODg1LjUzLDE0NzUuODh8MzAsODg1LjUzLDE0NzUuODgiIHBweT0iMTE3MzkzMjkiIHByZD0iUEFDIiBwd3Q9IjE4OTcuOTQiIHB4cz0iMzAsMzAiIHNjdD0iQlIiIHNkdD0iMjAxOS0wOC0xNC0wMzowMCIgc290PSIyOTUxLjc3IiBzc3Q9IlJTIiBzd3Q9IjMwNzguNjUiIHN6aT0iODAwMiIgdHhyPSIxNDY4LDgsMC4wMixSRUN8MTE3MzkzMjksOSw0MTAsSE9UfDc3NDkyMCwxMCw2NjAuNTIsQUlSfDc3NDkyMCwxMSw2NjAuNTIsQUlSfDExLDEyLDQwLE9USCIvPg==",
         "price": {
-            "priceWithTax": 83900,
-            "priceWithoutTax": 79000,
-            "pricePerDayWithTax": 13983.33,
-            "pricePerDayWithoutTax": 13166.67,
-            "pricePerPaxWithTax": 41950,
-            "pricePerPaxWithoutTax": 39500,
+            "priceWithTax": 108100,
+            "priceWithoutTax": 103600,
+            "pricePerDayWithTax": 13512.5,
+            "pricePerDayWithoutTax": 12950,
+            "pricePerPaxWithTax": 54050,
+            "pricePerPaxWithoutTax": 51800,
             "currency": "PTS"
         },
-        "baseDestination": 406,
+        "baseDestination": 363,
         "accommodations": [{
-            "id": 458115659,
-            "name": "VELA BRANCA PRAIA HOTEL",
-            "description": "HOTEL URBANO SIMPLES",
+            "id": 4511739329,
+            "name": "HOTEL CASABLANCA PORTO SEGURO.",
+            "description": "TRÊS ESTRELAS",
+            "award": 3,
             "isPreferential": true,
             "timeSpan": {
-                "nights": 5,
-                "checkIn": "2019-10-26",
-                "checkOut": "2019-10-31"
+                "nights": 7,
+                "checkIn": "2019-08-31",
+                "checkOut": "2019-09-07"
             },
             "location": {
-                "address": " - ENGENHEIRO DOMINGOS FERREIRA, 4395",
+                "address": "RUA - DA CONSOLAÇÃO, 282",
                 "coordinates": {
-                    "latitude": -8.128399,
-                    "longitude": -34.9014415
+                    "latitude": -16.4408323213052,
+                    "longitude": -39.0712327
                 }
             },
             "room": {
                 "rph": 1,
-                "description": "Apartamento Standard",
+                "description": "Standard",
                 "mealPlan": "Diária com café da manhã",
-                "category": "3",
-                "dsBaseDestination": "Recife - 6 dias / 5 diárias",
+                "category": "6690",
+                "dsBaseDestination": "Porto Seguro - 8 dias / 7 diárias",
                 "links": {
                     "thumbnailImage": {
-                        "href": "http://www.cvc.com.br/images/457345.jpg"
+                        "href": "http://www.cvc.com.br/images/461782.jpg"
                     }
                 }
             },
-            "category": "Apartamento Standard"
+            "category": "Standard"
         }],
         "alternativeRooms": [{
-            "description": "Apartamento Standard",
+            "description": "Standard",
             "mealPlan": "Diária com café da manhã",
-            "category": "3",
-            "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmRlPSI0MDYiIGJyaT0iMTAwMyIgY3BwPSIzNS4wODc3MiIgZHRmPSIyMDE5LTEwLTMxIiBkdGk9IjIwMTktMTAtMjYiIGVjdD0iQlIiIGVzdD0iUEUiIGV6aT0iNTU0MSIgZmdyPSI5NTMyMSIgbWtpPSI5NTgxNDUzIiBta3A9IjAuNjAwIiBubXQ9InRydWUiIHBhY2thZ2VUeXBlPSJBSVIiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjIzODI2ODM2MSIgcGtnPSJQQUNLQUdFIiBwa2k9IjIzODI2ODM2MSIgcG90PSIxMzUwLjMyIiBwcHg9IjMwLDY3NS4xNiwxMTI1LjI3fDMwLDY3NS4xNiwxMTI1LjI3IiBwcHk9IjgxMTU2NTkiIHByZD0iUEFDIiBwd3Q9IjE0ODkuMDQiIHB4cz0iMzAsMzAiIHNjdD0iQlIiIHNkdD0iMjAxOS0wOC0wOS0wMzowMCIgc290PSIyMjUwLjUzIiBzc3Q9IlNQIiBzd3Q9IjIzODkuMjUiIHN6aT0iOTYyNiIgdHhyPSI4MTE1NjU5LDEsNTAwLEhPVHwxMzQ1LDIsMTkwLjMyLFJFQ3w3NzQ5MjAsMywzMzAsQUlSfDc3NDkyMCw0LDMzMCxBSVIiLz4=",
+            "category": "6690",
+            "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmRlPSIzNjMiIGJyaT0iMTAwMyIgY3BwPSIzNS4wODc3MiIgZHRmPSIyMDE5LTA5LTA3IiBkdGk9IjIwMTktMDgtMzEiIGVjdD0iQlIiIGVzdD0iQkEiIGV6aT0iMTAzMiIgZmdyPSI5NDM0IiBta2k9Ijk1ODE0NTMiIG1rcD0iMC42MDAiIG5tdD0idHJ1ZSIgcGFja2FnZVR5cGU9IkFJUiIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMjMyOTE2ODczIiBwa2c9IlBBQ0tBR0UiIHBraT0iMjMyOTE2ODczIiBwb3Q9IjE3NzEuMDYiIHBweD0iMzAsODg1LjUzLDE0NzUuODh8MzAsODg1LjUzLDE0NzUuODgiIHBweT0iMTE3MzkzMjkiIHByZD0iUEFDIiBwd3Q9IjE4OTcuOTQiIHB4cz0iMzAsMzAiIHNjdD0iQlIiIHNkdD0iMjAxOS0wOC0xNC0wMzowMCIgc290PSIyOTUxLjc3IiBzc3Q9IlJTIiBzd3Q9IjMwNzguNjUiIHN6aT0iODAwMiIgdHhyPSIxNDY4LDgsMC4wMixSRUN8MTE3MzkzMjksOSw0MTAsSE9UfDc3NDkyMCwxMCw2NjAuNTIsQUlSfDc3NDkyMCwxMSw2NjAuNTIsQUlSfDExLDEyLDQwLE9USCIvPg==",
             "price": {
-                "priceWithTax": 83900,
-                "priceWithoutTax": 79000,
-                "pricePerDayWithTax": 13983.33,
-                "pricePerDayWithoutTax": 13166.67,
-                "pricePerPaxWithTax": 41950,
-                "pricePerPaxWithoutTax": 39500
+                "priceWithTax": 108100,
+                "priceWithoutTax": 103600,
+                "pricePerDayWithTax": 13512.5,
+                "pricePerDayWithoutTax": 12950,
+                "pricePerPaxWithTax": 54050,
+                "pricePerPaxWithoutTax": 51800
             }
         }],
         "flight": {
-            "id": 304106357,
+            "id": 286852376,
             "outbound": {
-                "number": "33432",
+                "number": "9307",
                 "period": "D",
                 "departureLocation": {
-                    "iata": "REC",
-                    "description": "RECIFE"
+                    "iata": "BPS",
+                    "description": "PORTO SEGURO"
                 },
                 "arrivalLocation": {
                     "iata": "POA",
                     "description": "PORTO ALEGRE"
                 },
-                "departureDate": "2019-12-11T10:35:00-02:00",
-                "duration": 195,
-                "arrivalDate": "2019-12-11T18:45:00-02:00",
+                "departureDate": "2019-09-08T01:40:00-03:00",
+                "duration": 180,
+                "arrivalDate": "2019-09-08T04:40:00-03:00",
                 "operatingAirline": {
                     "code": "LA",
                     "name": "LA"
@@ -85,88 +86,16 @@
                 "class": "Economico",
                 "legs": [{
                     "departureLocation": {
-                        "iata": "REC",
-                        "description": "RECIFE"
-                    },
-                    "arrivalLocation": {
-                        "iata": "GRU",
-                        "description": "GUARULHOS"
-                    },
-                    "departureDate": "2019-12-11T10:35:00-02:00",
-                    "arrivalDate": "2019-12-11T13:50:00-02:00",
-                    "flightNumber": "33432",
-                    "operatingAirline": {
-                        "code": "LA",
-                        "name": "LA"
-                    },
-                    "duration": 195
-                }, {
-                    "departureLocation": {
-                        "iata": "GRU",
-                        "description": "GUARULHOS"
+                        "iata": "BPS",
+                        "description": "PORTO SEGURO"
                     },
                     "arrivalLocation": {
                         "iata": "POA",
                         "description": "PORTO ALEGRE"
                     },
-                    "departureDate": "2019-12-11T17:00:00-02:00",
-                    "arrivalDate": "2019-12-11T18:45:00-02:00",
-                    "flightNumber": "33372",
-                    "operatingAirline": {
-                        "code": "LA",
-                        "name": "LA"
-                    },
-                    "duration": 105
-                }]
-            },
-            "inbound": {
-                "number": "11069",
-                "period": "D",
-                "departureLocation": {
-                    "iata": "POA",
-                    "description": "PORTO ALEGRE"
-                },
-                "arrivalLocation": {
-                    "iata": "REC",
-                    "description": "RECIFE"
-                },
-                "departureDate": "2019-12-05T14:30:00-02:00",
-                "duration": 100,
-                "arrivalDate": "2019-12-05T20:50:00-02:00",
-                "operatingAirline": {
-                    "code": "LA",
-                    "name": "LA"
-                },
-                "class": "Economico",
-                "legs": [{
-                    "departureLocation": {
-                        "iata": "POA",
-                        "description": "PORTO ALEGRE"
-                    },
-                    "arrivalLocation": {
-                        "iata": "GRU",
-                        "description": "GUARULHOS"
-                    },
-                    "departureDate": "2019-12-05T14:30:00-02:00",
-                    "arrivalDate": "2019-12-05T16:10:00-02:00",
-                    "flightNumber": "11069",
-                    "operatingAirline": {
-                        "code": "LA",
-                        "name": "LA"
-                    },
-                    "duration": 100
-                }, {
-                    "departureLocation": {
-                        "iata": "GRU",
-                        "description": "GUARULHOS"
-                    },
-                    "arrivalLocation": {
-                        "iata": "REC",
-                        "description": "RECIFE"
-                    },
-                    "departureDate": "2019-12-05T17:50:00-02:00",
-                    "arrivalDate": "2019-12-05T20:50:00-02:00",
-                    "flightNumber": "35162",
+                    "departureDate": "2019-09-08T01:40:00-03:00",
+                    "arrivalDate": "2019-09-08T04:40:00-03:00",
+                    "flightNumber": "9307",
                     "operatingAirline": {
                         "code": "LA",
                         "name": "LA"
@@ -174,92 +103,20 @@
                     "duration": 180
                 }]
             },
-            "flightGroupId": 1106
-        },
-        "taxes": [{
-            "code": "E",
-            "description": "TAXA DE EMBARQUE",
-            "amount": 4900
-        }]
-    }, {
-        "id": 238665277,
-        "startDate": "2019-10-26",
-        "endDate": "2019-10-31",
-        "days": 6,
-        "type": "AIR",
-        "isAvailable": true,
-        "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmRlPSI0MDYiIGJyaT0iMTAwMyIgY3BwPSIzNS4wODc3MiIgZHRmPSIyMDE5LTEwLTMxIiBkdGk9IjIwMTktMTAtMjYiIGVjdD0iQlIiIGVzdD0iUEUiIGV6aT0iNTU0MSIgZmdyPSI5NTMyMiIgbWtpPSI5NTgxNDUzIiBta3A9IjAuNjAwIiBubXQ9InRydWUiIHBhY2thZ2VUeXBlPSJBSVIiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjIzODY2NTI3NyIgcGtnPSJQQUNLQUdFIiBwa2k9IjIzODY2NTI3NyIgcG90PSIxMzUwLjMyIiBwcHg9IjMwLDY3NS4xNiwxMTI1LjI3fDMwLDY3NS4xNiwxMTI1LjI3IiBwcHk9IjgxMTU2NTkiIHByZD0iUEFDIiBwd3Q9IjE0ODkuMDQiIHB4cz0iMzAsMzAiIHNjdD0iQlIiIHNkdD0iMjAxOS0wOC0wOS0wMzowMCIgc290PSIyMjUwLjUzIiBzc3Q9IlNQIiBzd3Q9IjIzODkuMjUiIHN6aT0iOTYyNiIgdHhyPSI4MTE1NjU5LDEsNTAwLEhPVHwxMzQ1LDIsMTkwLjMyLFJFQ3w3NzQ5MjAsMywzMzAsQUlSfDc3NDkyMCw0LDMzMCxBSVIiLz4=",
-        "price": {
-            "priceWithTax": 83900,
-            "priceWithoutTax": 79000,
-            "pricePerDayWithTax": 13983.33,
-            "pricePerDayWithoutTax": 13166.67,
-            "pricePerPaxWithTax": 41950,
-            "pricePerPaxWithoutTax": 39500,
-            "currency": "PTS"
-        },
-        "baseDestination": 406,
-        "accommodations": [{
-            "id": 458115659,
-            "name": "VELA BRANCA PRAIA HOTEL",
-            "description": "HOTEL URBANO SIMPLES",
-            "isPreferential": true,
-            "timeSpan": {
-                "nights": 5,
-                "checkIn": "2019-10-26",
-                "checkOut": "2019-10-31"
-            },
-            "location": {
-                "address": " - ENGENHEIRO DOMINGOS FERREIRA, 4395",
-                "coordinates": {
-                    "latitude": -8.128399,
-                    "longitude": -34.9014415
-                }
-            },
-            "room": {
-                "rph": 1,
-                "description": "Apartamento Standard",
-                "mealPlan": "Diária com café da manhã",
-                "category": "3",
-                "dsBaseDestination": "Recife - 6 dias / 5 diárias",
-                "links": {
-                    "thumbnailImage": {
-                        "href": "http://www.cvc.com.br/images/457345.jpg"
-                    }
-                }
-            },
-            "category": "Apartamento Standard"
-        }],
-        "alternativeRooms": [{
-            "description": "Apartamento Standard",
-            "mealPlan": "Diária com café da manhã",
-            "category": "3",
-            "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmRlPSI0MDYiIGJyaT0iMTAwMyIgY3BwPSIzNS4wODc3MiIgZHRmPSIyMDE5LTEwLTMxIiBkdGk9IjIwMTktMTAtMjYiIGVjdD0iQlIiIGVzdD0iUEUiIGV6aT0iNTU0MSIgZmdyPSI5NTMyMiIgbWtpPSI5NTgxNDUzIiBta3A9IjAuNjAwIiBubXQ9InRydWUiIHBhY2thZ2VUeXBlPSJBSVIiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjIzODY2NTI3NyIgcGtnPSJQQUNLQUdFIiBwa2k9IjIzODY2NTI3NyIgcG90PSIxMzUwLjMyIiBwcHg9IjMwLDY3NS4xNiwxMTI1LjI3fDMwLDY3NS4xNiwxMTI1LjI3IiBwcHk9IjgxMTU2NTkiIHByZD0iUEFDIiBwd3Q9IjE0ODkuMDQiIHB4cz0iMzAsMzAiIHNjdD0iQlIiIHNkdD0iMjAxOS0wOC0wOS0wMzowMCIgc290PSIyMjUwLjUzIiBzc3Q9IlNQIiBzd3Q9IjIzODkuMjUiIHN6aT0iOTYyNiIgdHhyPSI4MTE1NjU5LDEsNTAwLEhPVHwxMzQ1LDIsMTkwLjMyLFJFQ3w3NzQ5MjAsMywzMzAsQUlSfDc3NDkyMCw0LDMzMCxBSVIiLz4=",
-            "price": {
-                "priceWithTax": 83900,
-                "priceWithoutTax": 79000,
-                "pricePerDayWithTax": 13983.33,
-                "pricePerDayWithoutTax": 13166.67,
-                "pricePerPaxWithTax": 41950,
-                "pricePerPaxWithoutTax": 39500
-            }
-        }],
-        "flight": {
-            "id": 298897354,
-            "outbound": {
-                "number": "36472",
+            "inbound": {
+                "number": "9306",
                 "period": "D",
                 "departureLocation": {
-                    "iata": "REC",
-                    "description": "RECIFE"
+                    "iata": "POA",
+                    "description": "PORTO ALEGRE"
                 },
                 "arrivalLocation": {
-                    "iata": "GRU",
-                    "description": "GUARULHOS"
+                    "iata": "BPS",
+                    "description": "PORTO SEGURO"
                 },
-                "departureDate": "2019-10-31T21:20:00-02:00",
-                "duration": 185,
-                "arrivalDate": "2019-11-01T00:25:00-02:00",
+                "departureDate": "2019-08-31T22:15:00-03:00",
+                "duration": 165,
+                "arrivalDate": "2019-09-01T01:00:00-03:00",
                 "operatingAirline": {
                     "code": "LA",
                     "name": "LA"
@@ -267,67 +124,178 @@
                 "class": "Economico",
                 "legs": [{
                     "departureLocation": {
-                        "iata": "REC",
-                        "description": "RECIFE"
+                        "iata": "POA",
+                        "description": "PORTO ALEGRE"
                     },
                     "arrivalLocation": {
-                        "iata": "GRU",
-                        "description": "GUARULHOS"
+                        "iata": "BPS",
+                        "description": "PORTO SEGURO"
                     },
-                    "departureDate": "2019-10-31T21:20:00-02:00",
-                    "arrivalDate": "2019-11-01T00:25:00-02:00",
-                    "flightNumber": "36472",
+                    "departureDate": "2019-08-31T22:15:00-03:00",
+                    "arrivalDate": "2019-09-01T01:00:00-03:00",
+                    "flightNumber": "9306",
                     "operatingAirline": {
                         "code": "LA",
                         "name": "LA"
+                    },
+                    "duration": 165
+                }]
+            },
+            "flightGroupId": 9434
+        },
+        "taxes": [{
+            "code": "E",
+            "description": "TAXA DE EMBARQUE",
+            "amount": 4500
+        }]
+    }, {
+        "id": 233040978,
+        "startDate": "2019-08-31",
+        "endDate": "2019-09-07",
+        "days": 8,
+        "type": "AIR",
+        "isAvailable": true,
+        "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmRlPSIzNjMiIGJyaT0iMTAwMyIgY3BwPSIzNS4wODc3MiIgZHRmPSIyMDE5LTA5LTA3IiBkdGk9IjIwMTktMDgtMzEiIGVjdD0iQlIiIGVzdD0iQkEiIGV6aT0iMTAzMiIgZmdyPSI5MjQ0IiBta2k9Ijk1ODE0NTMiIG1rcD0iMC42MDAiIG5tdD0idHJ1ZSIgcGFja2FnZVR5cGU9IkFJUiIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMjMzMDQwOTc4IiBwa2c9IlBBQ0tBR0UiIHBraT0iMjMzMDQwOTc4IiBwb3Q9IjIxMzcuNDYiIHBweD0iMzAsMTA2OC43MywxNzgxLjIyfDMwLDEwNjguNzMsMTc4MS4yMiIgcHB5PSIxMTczOTMyOSIgcHJkPSJQQUMiIHB3dD0iMjI2NC4zNCIgcHhzPSIzMCwzMCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA4LTE0LTAzOjAwIiBzb3Q9IjM1NjIuNDMiIHNzdD0iUlMiIHN3dD0iMzY4OS4zMSIgc3ppPSI4MDAyIiB0eHI9IjE0NjgsOCwwLjAyLFJFQ3wxMTczOTMyOSw5LDQxMCxIT1R8NzU5MDA1LDEwLDgzMS43MixBSVJ8NzU5MDA1LDExLDgzMS43MixBSVJ8MTEsMTMsNjQsT1RIIi8+",
+        "price": {
+            "priceWithTax": 129500,
+            "priceWithoutTax": 125000,
+            "pricePerDayWithTax": 16187.5,
+            "pricePerDayWithoutTax": 15625,
+            "pricePerPaxWithTax": 64750,
+            "pricePerPaxWithoutTax": 62500,
+            "currency": "PTS"
+        },
+        "baseDestination": 363,
+        "accommodations": [{
+            "id": 4511739329,
+            "name": "HOTEL CASABLANCA PORTO SEGURO.",
+            "description": "TRÊS ESTRELAS",
+            "award": 3,
+            "isPreferential": true,
+            "timeSpan": {
+                "nights": 7,
+                "checkIn": "2019-08-31",
+                "checkOut": "2019-09-07"
+            },
+            "location": {
+                "address": "RUA - DA CONSOLAÇÃO, 282",
+                "coordinates": {
+                    "latitude": -16.4408323213052,
+                    "longitude": -39.0712327
+                }
+            },
+            "room": {
+                "rph": 1,
+                "description": "Standard",
+                "mealPlan": "Diária com café da manhã",
+                "category": "6690",
+                "dsBaseDestination": "Porto Seguro - 8 dias / 7 diárias",
+                "links": {
+                    "thumbnailImage": {
+                        "href": "http://www.cvc.com.br/images/461782.jpg"
+                    }
+                }
+            },
+            "category": "Standard"
+        }],
+        "alternativeRooms": [{
+            "description": "Standard",
+            "mealPlan": "Diária com café da manhã",
+            "category": "6690",
+            "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmRlPSIzNjMiIGJyaT0iMTAwMyIgY3BwPSIzNS4wODc3MiIgZHRmPSIyMDE5LTA5LTA3IiBkdGk9IjIwMTktMDgtMzEiIGVjdD0iQlIiIGVzdD0iQkEiIGV6aT0iMTAzMiIgZmdyPSI5MjQ0IiBta2k9Ijk1ODE0NTMiIG1rcD0iMC42MDAiIG5tdD0idHJ1ZSIgcGFja2FnZVR5cGU9IkFJUiIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMjMzMDQwOTc4IiBwa2c9IlBBQ0tBR0UiIHBraT0iMjMzMDQwOTc4IiBwb3Q9IjIxMzcuNDYiIHBweD0iMzAsMTA2OC43MywxNzgxLjIyfDMwLDEwNjguNzMsMTc4MS4yMiIgcHB5PSIxMTczOTMyOSIgcHJkPSJQQUMiIHB3dD0iMjI2NC4zNCIgcHhzPSIzMCwzMCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA4LTE0LTAzOjAwIiBzb3Q9IjM1NjIuNDMiIHNzdD0iUlMiIHN3dD0iMzY4OS4zMSIgc3ppPSI4MDAyIiB0eHI9IjE0NjgsOCwwLjAyLFJFQ3wxMTczOTMyOSw5LDQxMCxIT1R8NzU5MDA1LDEwLDgzMS43MixBSVJ8NzU5MDA1LDExLDgzMS43MixBSVJ8MTEsMTMsNjQsT1RIIi8+",
+            "price": {
+                "priceWithTax": 129500,
+                "priceWithoutTax": 125000,
+                "pricePerDayWithTax": 16187.5,
+                "pricePerDayWithoutTax": 15625,
+                "pricePerPaxWithTax": 64750,
+                "pricePerPaxWithoutTax": 62500
+            }
+        }],
+        "flight": {
+            "id": 286146915,
+            "outbound": {
+                "number": "9595",
+                "period": "D",
+                "departureLocation": {
+                    "iata": "BPS",
+                    "description": "PORTO SEGURO"
+                },
+                "arrivalLocation": {
+                    "iata": "POA",
+                    "description": "PORTO ALEGRE"
+                },
+                "departureDate": "2019-09-07T19:30:00-03:00",
+                "duration": 185,
+                "arrivalDate": "2019-09-07T22:35:00-03:00",
+                "operatingAirline": {
+                    "code": "G3",
+                    "name": "G3"
+                },
+                "class": "Economico",
+                "legs": [{
+                    "departureLocation": {
+                        "iata": "BPS",
+                        "description": "PORTO SEGURO"
+                    },
+                    "arrivalLocation": {
+                        "iata": "POA",
+                        "description": "PORTO ALEGRE"
+                    },
+                    "departureDate": "2019-09-07T19:30:00-03:00",
+                    "arrivalDate": "2019-09-07T22:35:00-03:00",
+                    "flightNumber": "9595",
+                    "operatingAirline": {
+                        "code": "G3",
+                        "name": "G3"
                     },
                     "duration": 185
                 }]
             },
             "inbound": {
-                "number": "95322",
+                "number": "9594",
                 "period": "D",
                 "departureLocation": {
-                    "iata": "GRU",
-                    "description": "GUARULHOS"
+                    "iata": "POA",
+                    "description": "PORTO ALEGRE"
                 },
                 "arrivalLocation": {
-                    "iata": "REC",
-                    "description": "RECIFE"
+                    "iata": "BPS",
+                    "description": "PORTO SEGURO"
                 },
-                "departureDate": "2019-10-26T13:25:00-02:00",
-                "duration": 190,
-                "arrivalDate": "2019-10-26T16:35:00-02:00",
+                "departureDate": "2019-08-31T10:10:00-03:00",
+                "duration": 170,
+                "arrivalDate": "2019-08-31T13:00:00-03:00",
                 "operatingAirline": {
-                    "code": "LA",
-                    "name": "LA"
+                    "code": "G3",
+                    "name": "G3"
                 },
                 "class": "Economico",
                 "legs": [{
                     "departureLocation": {
-                        "iata": "GRU",
-                        "description": "GUARULHOS"
+                        "iata": "POA",
+                        "description": "PORTO ALEGRE"
                     },
                     "arrivalLocation": {
-                        "iata": "REC",
-                        "description": "RECIFE"
+                        "iata": "BPS",
+                        "description": "PORTO SEGURO"
                     },
-                    "departureDate": "2019-10-26T13:25:00-02:00",
-                    "arrivalDate": "2019-10-26T16:35:00-02:00",
-                    "flightNumber": "95322",
+                    "departureDate": "2019-08-31T10:10:00-03:00",
+                    "arrivalDate": "2019-08-31T13:00:00-03:00",
+                    "flightNumber": "9594",
                     "operatingAirline": {
-                        "code": "LA",
-                        "name": "LA"
+                        "code": "G3",
+                        "name": "G3"
                     },
-                    "duration": 190
+                    "duration": 170
                 }]
             },
-            "flightGroupId": 95322
+            "flightGroupId": 9244
         },
         "taxes": [{
             "code": "E",
             "description": "TAXA DE EMBARQUE",
-            "amount": 4900
+            "amount": 4500
         }]
     }],
     "meta": {
