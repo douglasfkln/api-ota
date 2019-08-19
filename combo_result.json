@@ -5821,152 +5821,366 @@
     }],
     "selectedCombo": {
         "accommodations": {
-            "id": "455540989",
-            "priority": 1,
-            "name": "OREAS APART HOTEL",
-            "description": "Localizado a dois quarteirÃµes da Praia do Futuro, o hotel oferece piscina, salÃ£o de jogos e sauna. Os quartos sÃ£o equipados com ar-condicionado, acesso gratuito Ã  internet, frigobar, TV e telefone. As comodidades incluem serviÃ§o de quarto e estacionamento.",
-            "isPreferential": true,
+            "id": "594181",
+            "priority": 7,
+            "name": "EXCLUSIVE INN HOTEL",
+            "award": 2,
+            "isPlus": false,
+            "isPreferential": false,
             "location": {
-                "address": "CÃ©sar Cals 1780 Praia DO Futuro  226 Fortaleza CE BR 60183550 -",
                 "coordinates": {
-                    "latitude": "-3.733074",
-                    "longitude": "-38.4589136"
+                    "latitude": "-8,08558270343518",
+                    "longitude": "-34,889257911065"
                 }
             },
-            "images": {
-                "thumbnailImage": "http://www.cvc.com.br/images/463172.jpg"
-            },
-            "nearby": "Localizado a 200 metros da Praia do Futuro.",
             "rooms": [{
-                "id": "1",
-                "description": "Quarto com beliche e ar condicionado",
-                "mealPlan": "CafÃ© da ManhÃ£",
-                "category": "Quarto Quintuplo Economico",
-                "minGuests": 1,
-                "maxGuests": 2,
+                "id": 1,
+                "group": "34755|BedBreakfast|false|Apto Standard Twin |Café da Manhã|true|13031",
+                "mealPlan": "Café da Manhã",
+                "category": "Apto Standard Twin ",
                 "quantityAvailable": 2,
-                "available": true,
+                "isAvailable": true,
                 "rates": [{
-                    "id": ".aa15449184b8Osw4HCq3A==",
+                    "packageGroup": "PACKAGE",
+                    "rateToken": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYWltPSJmYWxzZSIgYnJpPSIxMDAzIiBjYXQ9IkFwdG8gU3RhbmRhcmQgVHdpbiAiIGNpZD0iNTkwMDEiIGNtaT0iNTkiIGNtcD0iQmVkQnJlYWtmYXN0IiBjbXo9IjI1MTYzMDQiIGNwcD0iMzUuMDg3NzIiIGN1cj0iQlJMIiBkdGY9IjIwMTktMDktMTMiIGR0aT0iMjAxOS0wOS0wOCIgZWN0PSJCUiIgZXN0PSJQRSIgZXppPSI1NTQxIiBmZWI9ImZhbHNlIiBob3Q9IjU5NDE4MSIgbGFuPSJwdF9CUiIgbWtpPSI5NzkxNjYiIG1rcD0iMC42NzMiIHBjcT0iMS4wMDAwMDAwMDAwIiBwaWQ9IjU5NDE4MSIgcGtnPSJQQUNLQUdFIiBwbGE9IjU2IiBwbGM9IkJSTCIgcGxkPSJFWFQiIHBvdD0iNDUwLjAwIiBwcHQ9IlZvdWNoZXIiIHBweT0iOTkwMjg0MiIgcHJkPSJIT1QiIHB3dD0iNDUwLjAwIiBweG89IjMwLDMwIiBweHM9IjMwLDMwIiByb209IjM0NzU1IiBycGg9IjEiIHJ0Yz0iMTMwMzEiIHJ0bj0iMTAwMDIiIHNjdD0iQlIiIHNkdD0iMjAxOS0wOC0xOS0wMzowMCIgc290PSI2NjguNjUiIHNzdD0iU1AiIHN3dD0iNjY4LjY1IiBzemk9Ijg5MTQiLz4=",
                     "currency": "PTS",
-                    "priceWithTax": 1657.34,
-                    "priceWithoutTax": 1726.87,
-                    "pricePerDayWithTax": 1657.34,
-                    "pricePerDayWithoutTax": 1726.87,
-                    "pricePerGuestWithTax": 1657.34,
-                    "pricePerGuestWithoutTax": 1726.87,
-                    "contents": [{
-                        "items": {
-                            "code": "XXX",
-                            "name": "Description Agreement",
-                            "description": "DIÃ�RIA(S) COM CAFÃ‰ DA MANHÃƒ - (RÃ‰VEILLON E CARNAVAL GARANTIA DE NO-SHOW IRREVOGÃ�VEL)- BRASIL FÃ�CIL"
-                        }
-                    }]
+                    "priceWithTax": 23500,
+                    "priceWithoutTax": 23500,
+                    "pricePerDayWithTax": 4700,
+                    "pricePerDayWithoutTax": 4700,
+                    "pricePerPaxWithTax": 11800,
+                    "pricePerPaxWithoutTax": 11800
+                }],
+                "cancellationPolicy": [{
+                    "nonRefundable": true
                 }]
             }],
-            "partnerCode": "CVC"
+            "images": {
+                "thumbnailImage": {
+                    "href": "https://omni-img-server-pull.services.cvc.com.br/Images/4181/Property/32364.jpeg"
+                }
+            },
+            "chain": "EXCLUSIVE INN HOTEL"
         },
         "flight": {
             "validatingAirline": {
-                "iata": "06",
-                "name": "AVIANCA BRASIL"
+                "name": "LATAM",
+                "iata": "LA"
             },
             "fareGroup": {
-                "currency": "BRL",
-                "priceWithTax": 1657.34,
-                "priceWithoutTax": 1726.87,
-                "fares": [
-                    [{
-                        "passengerCategory": "ADULT",
-                        "passengersCount": 1,
-                        "priceWithoutTax": 1657.34,
-                        "priceWithTax": 1726.87,
-                        "taxes": [{
-                            "code": "string",
-                            "description": "Taxa de embarque",
-                            "currency": "BRL",
-                            "amount": 62.16
-                        }]
-                    }]
-                ]
-            },
-            "segments": [
-                [{
-                    "id": ".aa15449184b8Osw4HCq3V3w4zDpExuN8O6w4fDkmfDsH8TPMKiw4_DjxPDuEBXwr_5_Cnx5VGA==",
-                    "departureAirport": {
-                        "name": "Aeroporto Internacional de SÃ£o Paulo",
-                        "iata": "GRU",
-                        "location": {
-                            "name": "Guarulhos"
-                        }
-                    },
-                    "departureDate": "2018-12-17T05:30:00",
-                    "arrivalAirport": {
-                        "name": "Amsterdam Schiphol",
-                        "iata": "AMS",
-                        "location": {
-                            "name": "AmsterdÃ£"
-                        }
-                    },
-                    "arrivalDate": "2018-12-17T13:00:00",
-                    "numberOfStops": 2,
-                    "route": "GO",
-                    "duration": 510,
-                    "profile": {
-                        "baggage": {
-                            "type": "PIECE",
-                            "isIncluded": false,
-                            "uom": "KG",
-                            "quantity": 1,
-                            "weight": 32
-                        },
-                        "services": {
-                            "type": "EXTRA_SPACE",
-                            "isIncluded": true,
-                            "description": "Esta tarifa permite reembolso, multa de USD 300,00."
-                        },
-                        "fareFamily": "ECONOMY BR"
-                    },
-                    "legs": [{
-                        "managedBy": {
-                            "name": "AVIANCA BRASIL",
-                            "iata": "O6"
-                        },
-                        "operatedBy": {
-                            "name": "AVIANCA BRASIL",
-                            "iata": "O6"
-                        },
-                        "status": "UNDEFINED",
-                        "flightNumber": 3503,
-                        "numberOfStops": 0,
-                        "duration": 110,
-                        "departureAirport": {
-                            "name": "Aeroporto Internacional de SÃ£o Paulo",
-                            "iata": "GRU",
-                            "location": {
-                                "name": "Guarulhos"
-                            }
-                        },
-                        "arrivalAirport": {
-                            "name": "Amsterdam Schiphol",
-                            "iata": "AMS",
-                            "location": {
-                                "name": "AmsterdÃ£"
-                            }
-                        },
-                        "departureDate": "2018-12-17T05:55:00",
-                        "arrivalDate": "2018-12-17T07:45:00",
-                        "aircraftCode": "320",
-                        "seatClass": {
-                            "code": "ECONOMY_CLASS",
-                            "description": "EconÃ´mica"
-                        },
-                        "fareBasis": "BE0X0G8",
-                        "fareClass": "B"
+                "currency": "PTS",
+                "priceWithTax": 115200,
+                "priceWithoutTax": 110600,
+                "fares": [{
+                    "passengerCategory": "ADT",
+                    "passengersCount": 2,
+                    "priceWithTax": 57600,
+                    "priceWithoutTax": 55300,
+                    "taxes": [{
+                        "code": "BR3",
+                        "description": "",
+                        "currency": "BRL",
+                        "amount": 31.08
+                    }, {
+                        "code": "BR3",
+                        "description": "",
+                        "currency": "BRL",
+                        "amount": 32.95
                     }]
                 }]
-            ],
-            "partnerCode": "CVC"
+            },
+            "segments": [{
+                "departure": "POA",
+                "departureDate": "2019-09-08T12:30:00",
+                "arrival": "REC",
+                "arrivalDate": "2019-09-08T19:00:00",
+                "id": ".aa15661728YRrCmlfDhxoNKUdEGC0oGMKKZnDDosO9FCB-wrDCnVPDgmcowrzCkgrCnsKtw7taJWrDocK7woJhRMKGTcK4ecO6dT9sw5Zqwp8Mwp9DwqxtTMKDd8K7w6HClcKQwrXDmikGw73CgHc5w7MfCTPCtR1nZ8KNCBbCu8OjwpQkAsO4XzM5w4zDiEnDt0_Di8KeFMO9OcOwwp8WwqlcwogeRsKdbnrDt8OIwpR-V0UkwpDCrsONwqXDuMKfwrXDpsOkw4sDWHnCgcKMwqfDoVUxEsOvcHkfwrIiC8KEKsOGXToSE8OlSRVfwqBcYsKVwrRkw4pEw7PCsMO2w6N8dBHDmsO4w4kAWMOYw7QFw6bCsMKow67ClzbCpcOjVRkoUsK9woxdDMOIVcK1Hzw8w59VEBtbBcOeVVXDmjk1wpPCr8Kpwq7DlMOiEXjCrlLCuSDDjxg_w63DlMK1THjCvMOuaxdRf8K2w6HClg7CuxJZwqYTw5skRRHDh8KAw4fCj8OIW8Kzw43DpRFkwowuPQpyKcKhwoYCwrTCksKBw5fCqMKwcsObbsKhccO1ZCsYwqoDw59XVcOywr1eOsOEBm_Cs8OEwrUFw6oFF8OIVDfDqcOgYXsoJibChMOSP0nCk3xCSUHCg2DCqRNEwo8iw7sEX1F_BChNwpjDrsKFHcOYw6dTZ3nDmUwwYsK3w6vDpcO-w7dcwrd2Qxlww7DCvMOdw5p7E8K4w4bClsO9I8KHwoU_W8OwYBUvw78-dMKowqF4wpF0XB_Du3UpbhUFS8OVbT_DlHPDucKvw7rCkMOwwrBww4jCk3IGwrJkZ8OuwoTDl8Oiw5t_w5vDm8Oewq3DncOCM3PCkMOTICR8wq7DsMKKS8KUJUfCn8KhMjUSe8Kmw5PCnsOmw7XCkEnDhMO5XcOTLGpTw7rDp8K6CcKsbcOGP8O6w5UjwoHCmsKewp0UwrnDnVnDkQTCg8ONw5oQXRRzwoHDli3Dv8OIHFLDqcOpw7vChH1ibgAHQlo4wq7DnsOPwoXDu8ONwrBzw7rCkRLDnMOKwpvDrMKhH1MnJMKCYyYeTCDCoyEQw7DCpcKmw7xmwo3DssKUScKsC8Klwo_DmSnCixTDrsOpw43ClTppw7hqX23CicKeNywZwoF6w6Fkw5srwq8YSMKVUMO4wrvDrnpjK8OhSV3CgVXDqSLDjArChVfDkS0uacKBXcOXGgMaTcOjQUHCvXHDosO8w7sKKiTCkF1Nw6HCjsOnwqPDisOAwrzCrcO0w6LDuMO0BMOsRsOEwpjDiktkw5bDvcOvY8KmVMOodMOdcXNzGcK_BijCkgMuwp3DrV3DuHbDgGk9Az3CvsKsw5RvIcOqEMOgesKcwpPDmUcVf8OIQmwiw7w4NX_CmQ9Twp8MDcKRODnDozjDjcOOIQ0OOVPCvcOmwrNaLMO3wo7CuMKILMK1wpLDpxHCpzHCqMOCfQkiw43CgEteZjIswpIKUzfCiFbDi8K3JWHDrxMjQSZAdhrDtElpfsOFFMO8WcOqRMONdhgqw6saDnwkw4YYw6d_w4YowqJVU8Kcw7zCksK0wo5yw7BGw6fCg0XCu8KqOsOUXGRwEcOmwojCvS7Cr2vChVDCqhVgPzXDrALCvhPCm8KQf8KOLMOywrJyZSFBw7k9e8OPZMKNcCXCsDLDq3fDkQvCmsO1w4QwIATDr11xw7fCjsO5a1fDrBnCtQLDu8KvTTcnWyvCt27CkcOYw5bCtcOjwoNGw7dTLhhFwqJLYQ==",
+                "packageGroup": "PACKAGE",
+                "route": "GO",
+                "rph": 1,
+                "numberOfStops": 1,
+                "duration": 390,
+                "profile": {
+                    "baggage": {
+                        "isIncluded": false,
+                        "type": "PIECE",
+                        "quantity": 0
+                    },
+                    "services": [{
+                        "type": "REFUNDABLE",
+                        "isIncluded": false,
+                        "description": "Esta tarifa não permite reembolso."
+                    }, {
+                        "type": "FIDELITY_PROGRAM",
+                        "isIncluded": false,
+                        "description": "Não acumula pontos"
+                    }, {
+                        "type": "SEAT_RESERVATION",
+                        "isIncluded": false,
+                        "description": "Esta tarifa não permite."
+                    }, {
+                        "type": "CHANGE",
+                        "isIncluded": true,
+                        "description": "Multa de até R$ 310,00."
+                    }, {
+                        "type": "EXTRA_SPACE",
+                        "isIncluded": false
+                    }, {
+                        "isIncluded": true,
+                        "description": "Multa de 100%."
+                    }, {
+                        "type": "HAND_LUGGAGE",
+                        "isIncluded": true,
+                        "description": "01 Bagagem de mão (até 10kg)."
+                    }],
+                    "fareFamily": "LIGHT"
+                },
+                "legs": [{
+                    "managedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "operatedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "status": "UNDEFINED",
+                    "flightNumber": 4555,
+                    "numberOfStops": 0,
+                    "stops": [],
+                    "duration": 140,
+                    "departure": "POA",
+                    "arrival": "BSB",
+                    "departureDate": "2019-09-08T12:30:00",
+                    "arrivalDate": "2019-09-08T14:50:00",
+                    "aircraftCode": "321",
+                    "seatClass": {
+                        "code": "X",
+                        "description": "Economica"
+                    },
+                    "fareBasis": "XOBNET1/O15",
+                    "fareClass": "X"
+                }, {
+                    "managedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "operatedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "status": "UNDEFINED",
+                    "flightNumber": 3523,
+                    "numberOfStops": 0,
+                    "stops": [],
+                    "duration": 155,
+                    "departure": "BSB",
+                    "arrival": "REC",
+                    "departureDate": "2019-09-08T16:25:00",
+                    "arrivalDate": "2019-09-08T19:00:00",
+                    "aircraftCode": "321",
+                    "seatClass": {
+                        "code": "X",
+                        "description": "Economica"
+                    },
+                    "fareBasis": "XOBNET1/O15",
+                    "fareClass": "X"
+                }]
+            }, {
+                "departure": "POA",
+                "departureDate": "2019-09-08T20:00:00",
+                "arrival": "REC",
+                "arrivalDate": "2019-09-09T02:25:00",
+                "id": ".aa15661728YRrCmlfDhxoNKUdEGC0oGMKKZnDDosO9FCB-wrDCnVPDgmcowrzCkgrCnsKtw7taJWrDocK7woJhRMKGTcK4ecO6dT9sw5Zqwp8Mwp9DwqxtTMKDd8K7w6HClcKQwrXDmikGw73CgHc5w7MfCTPCtR1nwoogQ3h_ZnMTOFbCgTVRwr3DtcKLw57DkU7DuMKRw57DghrDjAUwYsKYcwptwpwGwrnClMOBQz4MR2XChsKOe8OLw4EJwrXChXTCgMOrHEIRNMKVw4nDkFfDisKnwpnCoMKtw6TDp28GwqzCs8KHMMKXMcONDsKOwoIjVcKKbHxow7vCjiHCs8K8wqIuw5rCp1XCuMKaw4rCmW5Nw7zClcKbw7krVsOtwrbDj8KGIRPCugoPw7l_fsKow7PCjMKwVsKADkHDnF9hP8K2cWLCvzJzwr3DuMK5w6PDjcKRHMO6MnkGwrXChxsvan9_ZcOeZsO8w4N-Dx5xGzc2bC5Vw48Iw6EzwqQaw5hAfcKewpnCshXCoQ4hasK8BnnCnSjCv0_Dj8OPwpLCiDXDiMK_IWRGXMOHw57Co8OlLFd8ERrCsyHCg8OcS8KnwqVAbMKVw5zDjSzDlcO2wrDDuy5dMx3Cu1TDmMKiMBLCh3YuOsO5RcOlwpXClXN8RznDiXjClQHCq8KSC1jDksODwpt1asKxw7rDtcOBImEhGmHDjVFgw5ckw7FlwrEUwojCunfClsKmaAQ4bi7CpTzDlULCo8KHw5sDdcOhw7_DoMKww4s_w7N7UcKgw617MD85OcKAZMKbw4ZjOsKDe8OTwp9uATsiNCHDuUd8w7jCgcOQJcKgwr5fw6zDom_DlMKQXEnDs27DpAXCisOMNMKUwrrCijwMIsOmw5DCm0sxwozCsGM7RwDDgWQCP8Oswp3DrmHDnTbCi8K-wqp9H8O5wr_CgMOjOwwkw4MZXzDDn8KrYsOpw7oEw4E3CSxXw5TDk3xuXcOMw5zDh3NPwpnDosK9ScOkw7PDlcKUwoTCmMOMV8OLw7oKw7ROwoABZWNCWWlyG8OeDlDDp8OIOAsVSyfCo8OIDCA9JcKLOldOwpluOynCm8KfwpUxOcK8wqHCsB_CsMOyY8OIPlJKIcKcwo9QI8OhwpYaw6wpRsK1ZSnCjGTCuldhIAfCr3N3woTDpVXDncOoXw1Mw78LwrUuwoYUwqrDrMOUVCXDvMKKwp1MDWPCksKxD8KLSVXDo8Kcwq1Rwo9Lw6XCvx7Cg8O4wrMhbljCu1bDs8K8YcO2RSAHwoRCN2_Dh8O7woDDjsOAAcKCFUBew40cwrfDhgnCkm5AH33DoMOBTMKwasKEXFPDqsKjw7rDgxNqw73CikkSVMKuE01mw4w6w7HDjzjCsgttIy9ZCMKvwr3DicKIw4cNw5gacsKsRzrCrlfCo8KBbSPDt3t5w5DCjB_Dm8K_IcOpCx9iwqMVaRIyY8KNJhvCgDfCtn00wq0_w7bCk8KGwoxLNsK5w40TIhzCksK5wqkJw6J8VsO-w6XCncK_AMOtwplPwr3DqMOBwpkIKBI0JTMGwrtBB8OCSQPCksObSsOwwqLDvsOqNsKLw7PDiSA3w6TCrx8VWHAvw7nCtB9jw4rDj0TCqwZjbjMnw79MdMODwr1mUFbCh0rCvQPCoA19e8K8w61JNsO2V8K4OcOKw7JLw4zCr3UNVsKWNMKYwpXCgS42w4bCp3dADBXDrDTDgSNQY8KIwqslRcOGPWQ2woJPwqLDkVU=",
+                "packageGroup": "PACKAGE",
+                "route": "GO",
+                "rph": 2,
+                "numberOfStops": 1,
+                "duration": 385,
+                "profile": {
+                    "baggage": {
+                        "isIncluded": false,
+                        "type": "PIECE",
+                        "quantity": 0
+                    },
+                    "services": [{
+                        "type": "REFUNDABLE",
+                        "isIncluded": false,
+                        "description": "Esta tarifa não permite reembolso."
+                    }, {
+                        "type": "FIDELITY_PROGRAM",
+                        "isIncluded": false,
+                        "description": "Não acumula pontos"
+                    }, {
+                        "type": "SEAT_RESERVATION",
+                        "isIncluded": false,
+                        "description": "Esta tarifa não permite."
+                    }, {
+                        "type": "CHANGE",
+                        "isIncluded": true,
+                        "description": "Multa de até R$ 310,00."
+                    }, {
+                        "type": "EXTRA_SPACE",
+                        "isIncluded": false
+                    }, {
+                        "isIncluded": true,
+                        "description": "Multa de 100%."
+                    }, {
+                        "type": "HAND_LUGGAGE",
+                        "isIncluded": true,
+                        "description": "01 Bagagem de mão (até 10kg)."
+                    }],
+                    "fareFamily": "LIGHT"
+                },
+                "legs": [{
+                    "managedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "operatedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "status": "UNDEFINED",
+                    "flightNumber": 4723,
+                    "numberOfStops": 0,
+                    "stops": [],
+                    "duration": 150,
+                    "departure": "POA",
+                    "arrival": "BSB",
+                    "departureDate": "2019-09-08T20:00:00",
+                    "arrivalDate": "2019-09-08T22:30:00",
+                    "aircraftCode": "321",
+                    "seatClass": {
+                        "code": "X",
+                        "description": "Economica"
+                    },
+                    "fareBasis": "XOBNET1/O15",
+                    "fareClass": "X"
+                }, {
+                    "managedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "operatedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "status": "UNDEFINED",
+                    "flightNumber": 3094,
+                    "numberOfStops": 0,
+                    "stops": [],
+                    "duration": 150,
+                    "departure": "BSB",
+                    "arrival": "REC",
+                    "departureDate": "2019-09-08T23:55:00",
+                    "arrivalDate": "2019-09-09T02:25:00",
+                    "aircraftCode": "320",
+                    "seatClass": {
+                        "code": "X",
+                        "description": "Economica"
+                    },
+                    "fareBasis": "XOBNET1/O15",
+                    "fareClass": "X"
+                }]
+            }, {
+                "departure": "REC",
+                "departureDate": "2019-09-13T04:25:00",
+                "arrival": "POA",
+                "arrivalDate": "2019-09-13T11:50:00",
+                "id": ".aa15661728YRrCmlfDhxoNKUdEGC0oGMKKZnDDosO9FCB-wrDCnVPDgmcowrzCkgrCnsKtw7taJWrDocK7woJhRMKGTcK4ecO6dRbCk8KdNwRmB1Q3NsKJQsKTXsO9w5sewqzDh1HCmThywr7Ci8OWw4sKSC7Dg0XDgMOpfBl4wrzDq8OleMO0XB1Kwo7CngIpwozDrcO_UD3Cj8OPw6_CrkNJwqslwo0OVMKFOsONwrzDhwvDuihcw6XCgiAjw6wKw7jCsMO4wq_Dp258d8KTUhLDiWLDmQMGH8ORfALDlyYrfMOqYAXDlMKAXHgfw5LDu8OWwqfCujbDgMOmw7LDmsKSwofDisKAwofDoi7Cm3Amw4lWaErDrcOiRsKQIMKAw7TCk14IKsO3JUZ4J8OAwoPCv0F1XMKGc8OrX8OKwqrCpBkOE1LDv8OPQsOccmnDrHXCvRbCocKHdxcgVz8vVsK_wr7CuMKGK1g3CsKqIxTCkcKeAMKtNQTDjl_Diyx-w6_CqcOxw5VNwqvDgjwwRsOqXMKVbsKkw5PDhQUTwpEtwqLDp3Rtw7vDm3Vbw4oxw5PCriNww7HDkEbClMK1JMKVwrrCqBvDssKcZ8KPwpDDpsO7w51dw5Q5wpABw47Cg8KuwrBwCxXCjgthwqAMTDbDsQ7CjmfCoV7Cvi7CjMOKw6pGwrV_w5g_HMK-w7_CvsOED8KXwpQbw5oSw7VEUsKGwq8Zf8O8w5rCgwXDm8OTw78cw4jCpXfCsgrCn8OBw7A9wr7Cu8OGwrDCg1YEwpjCrlvDgBwJwpfCgB7DlMOuAwB-GFYAEhYbLU86w67DpcKedCUmwrEOw4PCjWtcHAJ0wrQbw4l0N8OgwrjDmSo3w7nCpWTDuAfCpcOSWsK5FhjCil_DsQrCiUXDpyXCpcORw7JpwprDuG0KflbDkn7Cg8KDw5vCtXXDqEkMQANme1rCpXfCj8Oawp3Dg3E4w6XCt8KwIgJXDsKaaULCrm7DrMKYwr8eb03CvQPCvQfCkMOHw5rDnsK9fcOxNsOjwprChMOqwqfCqQQ6RcK4wr9XwrMRwrnCkcOQSzJCFQrCuMO6PzNWw6RMwq9eS3Utfy5vw6d9w61hw4vDpzUsBQ3Dim9Jw7nDmA5gwprCuGQWw6zCvFwdw5B-wpVtDF4ww5VGw7B3wqPDqipDw4N3wpDCnMO2Ok9pwqN_B8K8wro=",
+                "packageGroup": "PACKAGE",
+                "routeRPH": 1,
+                "rph": 3,
+                "numberOfStops": 1,
+                "duration": 445,
+                "profile": {
+                    "baggage": {
+                        "isIncluded": false,
+                        "type": "PIECE",
+                        "quantity": 0
+                    },
+                    "services": [{
+                        "type": "REFUNDABLE",
+                        "isIncluded": false,
+                        "description": "Esta tarifa não permite reembolso."
+                    }, {
+                        "type": "FIDELITY_PROGRAM",
+                        "isIncluded": false,
+                        "description": "Não acumula pontos"
+                    }, {
+                        "type": "SEAT_RESERVATION",
+                        "isIncluded": false,
+                        "description": "Esta tarifa não permite."
+                    }, {
+                        "type": "CHANGE",
+                        "isIncluded": true,
+                        "description": "Multa de até R$ 310,00."
+                    }, {
+                        "type": "EXTRA_SPACE",
+                        "isIncluded": false
+                    }, {
+                        "isIncluded": true,
+                        "description": "Multa de 100%."
+                    }, {
+                        "type": "HAND_LUGGAGE",
+                        "isIncluded": true,
+                        "description": "01 Bagagem de mão (até 10kg)."
+                    }],
+                    "fareFamily": "LIGHT"
+                },
+                "legs": [{
+                    "managedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "operatedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "status": "UNDEFINED",
+                    "flightNumber": 3566,
+                    "numberOfStops": 0,
+                    "stops": [],
+                    "duration": 160,
+                    "departure": "REC",
+                    "arrival": "BSB",
+                    "departureDate": "2019-09-13T04:25:00",
+                    "arrivalDate": "2019-09-13T07:05:00",
+                    "aircraftCode": "321",
+                    "seatClass": {
+                        "code": "N",
+                        "description": "Economica"
+                    },
+                    "fareBasis": "NOBNET1/O15",
+                    "fareClass": "N"
+                }, {
+                    "managedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "operatedBy": {
+                        "name": "LATAM",
+                        "iata": "LA"
+                    },
+                    "status": "UNDEFINED",
+                    "flightNumber": 3479,
+                    "numberOfStops": 0,
+                    "stops": [],
+                    "duration": 155,
+                    "departure": "BSB",
+                    "arrival": "POA",
+                    "departureDate": "2019-09-13T09:15:00",
+                    "arrivalDate": "2019-09-13T11:50:00",
+                    "aircraftCode": "321",
+                    "seatClass": {
+                        "code": "N",
+                        "description": "Economica"
+                    },
+                    "fareBasis": "NOBNET1/O15",
+                    "fareClass": "N"
+                }]
+            }]
         }
     }
 }
