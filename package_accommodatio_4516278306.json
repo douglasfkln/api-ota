@@ -4,7 +4,11 @@
     "description": "Localizado no Centro, a seis quadras da passarela do Descobrimento, esse hotel possui piscina, bar e restaurante. Café da manhã incluído e o estacionamento gratuito. Os 100 apartamentos possuem banheiro privativo, varanda, TV e ar-condicionado. O Wi-Fi é gratuito nas áreas sociais.  \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
     "isPreferential": false,
     "location": {
-        "address": "Rua Pitangueiras, 257, Porto Seguro, BA, Brasil"
+        "address": "Rua PITANGUEIRAS, 257 Centro Porto Seguro  , Porto Seguro, Brasil",
+        "coordinates": {
+            "latitude": "-16,445332",
+            "longitude": "-39,070811"
+        }
     },
     "contents": [{
         "code": "hotel-resort-fee",
