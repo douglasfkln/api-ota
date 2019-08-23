@@ -4602,8 +4602,8 @@
                         "priceWithoutTax": 23500,
                         "pricePerDayWithTax": 4700,
                         "pricePerDayWithoutTax": 4700,
-                        "pricePerPaxWithTax": 11800,
-                        "pricePerPaxWithoutTax": 11800
+                        "pricePerGuestWithTax": 11800,
+                        "pricePerGuestWithoutTax": 11800
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": true
@@ -4644,8 +4644,8 @@
                         "priceWithoutTax": 24800,
                         "pricePerDayWithTax": 5320,
                         "pricePerDayWithoutTax": 4960,
-                        "pricePerPaxWithTax": 13300,
-                        "pricePerPaxWithoutTax": 12400,
+                        "pricePerGuestWithTax": 13300,
+                        "pricePerGuestWithoutTax": 12400,
                         "taxes": [{
                             "description": "TaxAndServiceFee",
                             "percent": 6.44,
@@ -4689,8 +4689,8 @@
                         "priceWithoutTax": 26100,
                         "pricePerDayWithTax": 5220,
                         "pricePerDayWithoutTax": 5220,
-                        "pricePerPaxWithTax": 13100,
-                        "pricePerPaxWithoutTax": 13100
+                        "pricePerGuestWithTax": 13100,
+                        "pricePerGuestWithoutTax": 13100
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -4729,8 +4729,8 @@
                         "priceWithoutTax": 26100,
                         "pricePerDayWithTax": 5220,
                         "pricePerDayWithoutTax": 5220,
-                        "pricePerPaxWithTax": 13100,
-                        "pricePerPaxWithoutTax": 13100
+                        "pricePerGuestWithTax": 13100,
+                        "pricePerGuestWithoutTax": 13100
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -4769,8 +4769,8 @@
                         "priceWithoutTax": 30000,
                         "pricePerDayWithTax": 6000,
                         "pricePerDayWithoutTax": 6000,
-                        "pricePerPaxWithTax": 15000,
-                        "pricePerPaxWithoutTax": 15000
+                        "pricePerGuestWithTax": 15000,
+                        "pricePerGuestWithoutTax": 15000
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -4811,8 +4811,8 @@
                         "priceWithoutTax": 30300,
                         "pricePerDayWithTax": 6480,
                         "pricePerDayWithoutTax": 6060,
-                        "pricePerPaxWithTax": 16200,
-                        "pricePerPaxWithoutTax": 15200,
+                        "pricePerGuestWithTax": 16200,
+                        "pricePerGuestWithoutTax": 15200,
                         "taxes": [{
                             "description": "TaxAndServiceFee",
                             "percent": 6.45,
@@ -4858,8 +4858,8 @@
                         "priceWithoutTax": 30300,
                         "pricePerDayWithTax": 6780,
                         "pricePerDayWithoutTax": 6060,
-                        "pricePerPaxWithTax": 17000,
-                        "pricePerPaxWithoutTax": 15200,
+                        "pricePerGuestWithTax": 17000,
+                        "pricePerGuestWithoutTax": 15200,
                         "taxes": [{
                             "description": "TaxAndServiceFee",
                             "percent": 10.6,
@@ -4903,8 +4903,8 @@
                         "priceWithoutTax": 30800,
                         "pricePerDayWithTax": 6160,
                         "pricePerDayWithoutTax": 6160,
-                        "pricePerPaxWithTax": 15400,
-                        "pricePerPaxWithoutTax": 15400
+                        "pricePerGuestWithTax": 15400,
+                        "pricePerGuestWithoutTax": 15400
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": true
@@ -4944,8 +4944,8 @@
                         "priceWithoutTax": 31300,
                         "pricePerDayWithTax": 6260,
                         "pricePerDayWithoutTax": 6260,
-                        "pricePerPaxWithTax": 15700,
-                        "pricePerPaxWithoutTax": 15700
+                        "pricePerGuestWithTax": 15700,
+                        "pricePerGuestWithoutTax": 15700
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -4985,8 +4985,8 @@
                         "priceWithoutTax": 31300,
                         "pricePerDayWithTax": 6260,
                         "pricePerDayWithoutTax": 6260,
-                        "pricePerPaxWithTax": 15700,
-                        "pricePerPaxWithoutTax": 15700
+                        "pricePerGuestWithTax": 15700,
+                        "pricePerGuestWithoutTax": 15700
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -5027,8 +5027,8 @@
                         "priceWithoutTax": 31500,
                         "pricePerDayWithTax": 7360,
                         "pricePerDayWithoutTax": 6300,
-                        "pricePerPaxWithTax": 18400,
-                        "pricePerPaxWithoutTax": 15800,
+                        "pricePerGuestWithTax": 18400,
+                        "pricePerGuestWithoutTax": 15800,
                         "taxes": [{
                             "description": "TaxAndServiceFee",
                             "percent": 15.17,
@@ -5072,8 +5072,8 @@
                         "priceWithoutTax": 32000,
                         "pricePerDayWithTax": 6400,
                         "pricePerDayWithoutTax": 6400,
-                        "pricePerPaxWithTax": 16000,
-                        "pricePerPaxWithoutTax": 16000
+                        "pricePerGuestWithTax": 16000,
+                        "pricePerGuestWithoutTax": 16000
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -5113,8 +5113,8 @@
                         "priceWithoutTax": 31900,
                         "pricePerDayWithTax": 6380,
                         "pricePerDayWithoutTax": 6380,
-                        "pricePerPaxWithTax": 16000,
-                        "pricePerPaxWithoutTax": 16000
+                        "pricePerGuestWithTax": 16000,
+                        "pricePerGuestWithoutTax": 16000
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -5154,8 +5154,8 @@
                         "priceWithoutTax": 32200,
                         "pricePerDayWithTax": 6440,
                         "pricePerDayWithoutTax": 6440,
-                        "pricePerPaxWithTax": 16100,
-                        "pricePerPaxWithoutTax": 16100
+                        "pricePerGuestWithTax": 16100,
+                        "pricePerGuestWithoutTax": 16100
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -5194,8 +5194,8 @@
                         "priceWithoutTax": 32200,
                         "pricePerDayWithTax": 6760,
                         "pricePerDayWithoutTax": 6440,
-                        "pricePerPaxWithTax": 16900,
-                        "pricePerPaxWithoutTax": 16100,
+                        "pricePerGuestWithTax": 16900,
+                        "pricePerGuestWithoutTax": 16100,
                         "taxes": [{
                             "description": "IMPOSTO SOBRE SERVIÇO",
                             "percent": 5,
@@ -5240,8 +5240,8 @@
                         "priceWithoutTax": 32400,
                         "pricePerDayWithTax": 6800,
                         "pricePerDayWithoutTax": 6480,
-                        "pricePerPaxWithTax": 17000,
-                        "pricePerPaxWithoutTax": 16200,
+                        "pricePerGuestWithTax": 17000,
+                        "pricePerGuestWithoutTax": 16200,
                         "taxes": [{
                             "description": "ISS -  Imposto sobre serviço",
                             "percent": 5,
@@ -5286,8 +5286,8 @@
                         "priceWithoutTax": 32900,
                         "pricePerDayWithTax": 6580,
                         "pricePerDayWithoutTax": 6580,
-                        "pricePerPaxWithTax": 16500,
-                        "pricePerPaxWithoutTax": 16500
+                        "pricePerGuestWithTax": 16500,
+                        "pricePerGuestWithoutTax": 16500
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -5326,8 +5326,8 @@
                         "priceWithoutTax": 33100,
                         "pricePerDayWithTax": 6620,
                         "pricePerDayWithoutTax": 6620,
-                        "pricePerPaxWithTax": 16600,
-                        "pricePerPaxWithoutTax": 16600
+                        "pricePerGuestWithTax": 16600,
+                        "pricePerGuestWithoutTax": 16600
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": true
@@ -5367,8 +5367,8 @@
                         "priceWithoutTax": 33800,
                         "pricePerDayWithTax": 7100,
                         "pricePerDayWithoutTax": 6760,
-                        "pricePerPaxWithTax": 17800,
-                        "pricePerPaxWithoutTax": 16900,
+                        "pricePerGuestWithTax": 17800,
+                        "pricePerGuestWithoutTax": 16900,
                         "taxes": [{
                             "description": "Sera cobrado 5% de ISS.",
                             "percent": 5,
@@ -5412,8 +5412,8 @@
                         "priceWithoutTax": 34000,
                         "pricePerDayWithTax": 6800,
                         "pricePerDayWithoutTax": 6800,
-                        "pricePerPaxWithTax": 17000,
-                        "pricePerPaxWithoutTax": 17000
+                        "pricePerGuestWithTax": 17000,
+                        "pricePerGuestWithoutTax": 17000
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -5454,8 +5454,8 @@
                         "priceWithoutTax": 34600,
                         "pricePerDayWithTax": 7420,
                         "pricePerDayWithoutTax": 6920,
-                        "pricePerPaxWithTax": 18600,
-                        "pricePerPaxWithoutTax": 17300,
+                        "pricePerGuestWithTax": 18600,
+                        "pricePerGuestWithoutTax": 17300,
                         "taxes": [{
                             "description": "TaxAndServiceFee",
                             "percent": 6.45,
@@ -5499,8 +5499,8 @@
                         "priceWithoutTax": 34600,
                         "pricePerDayWithTax": 6920,
                         "pricePerDayWithoutTax": 6920,
-                        "pricePerPaxWithTax": 17300,
-                        "pricePerPaxWithoutTax": 17300
+                        "pricePerGuestWithTax": 17300,
+                        "pricePerGuestWithoutTax": 17300
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": true
@@ -5539,8 +5539,8 @@
                         "priceWithoutTax": 34700,
                         "pricePerDayWithTax": 6940,
                         "pricePerDayWithoutTax": 6940,
-                        "pricePerPaxWithTax": 17400,
-                        "pricePerPaxWithoutTax": 17400
+                        "pricePerGuestWithTax": 17400,
+                        "pricePerGuestWithoutTax": 17400
                     }],
                     "cancellationPolicy": [{
                         "nonRefundable": false
@@ -5581,8 +5581,8 @@
                         "priceWithoutTax": 34900,
                         "pricePerDayWithTax": 7500,
                         "pricePerDayWithoutTax": 6980,
-                        "pricePerPaxWithTax": 18800,
-                        "pricePerPaxWithoutTax": 17500,
+                        "pricePerGuestWithTax": 18800,
+                        "pricePerGuestWithoutTax": 17500,
                         "taxes": [{
                             "description": "TaxAndServiceFee",
                             "percent": 6.46,
@@ -5628,8 +5628,8 @@
                         "priceWithoutTax": 35800,
                         "pricePerDayWithTax": 7660,
                         "pricePerDayWithoutTax": 7160,
-                        "pricePerPaxWithTax": 19200,
-                        "pricePerPaxWithoutTax": 17900,
+                        "pricePerGuestWithTax": 19200,
+                        "pricePerGuestWithoutTax": 17900,
                         "taxes": [{
                             "description": "TaxAndServiceFee",
                             "percent": 6.45,
@@ -5849,8 +5849,8 @@
                     "priceWithoutTax": 23500,
                     "pricePerDayWithTax": 4700,
                     "pricePerDayWithoutTax": 4700,
-                    "pricePerPaxWithTax": 11800,
-                    "pricePerPaxWithoutTax": 11800
+                    "pricePerGuestWithTax": 11800,
+                    "pricePerGuestWithoutTax": 11800
                 }],
                 "cancellationPolicy": [{
                     "nonRefundable": true
