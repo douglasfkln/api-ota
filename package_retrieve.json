@@ -1,0 +1,139 @@
+{
+    "package": {
+        "id": 232916875,
+        "startDate": "2019-09-14",
+        "endDate": "2019-09-21",
+        "days": 8,
+        "type": "AIR",
+        "isAvailable": true,
+        "token": "PHJhdGVUb2tlbiBhZ3M9IkxJViIgYmRlPSIzNjMiIGJyaT0iMTAwMyIgY3BwPSIzNS4wODc3MiIgZHRmPSIyMDE5LTA5LTIxIiBkdGk9IjIwMTktMDktMTQiIGVjdD0iQlIiIGVzdD0iQkEiIGV6aT0iMTAzMiIgZmdyPSI5NDM0IiBta2k9Ijk4MjE0NTMiIG1rcD0iMC42MDAiIG5tdD0idHJ1ZSIgcGFja2FnZVR5cGU9IkFJUiIgcGNxPSIxLjAwMDAwMDAwMDAiIHBpZD0iMjMyOTE2ODc1IiBwa2c9IlBBQ0tBR0UiIHBraT0iMjMyOTE2ODc1IiBwb3Q9IjE5NTYuNjIiIHBweD0iMzAsOTc4LjMxLDE2MzAuNTJ8MzAsOTc4LjMxLDE2MzAuNTIiIHBweT0iMTE3MzkzMjkiIHByZD0iUEFDIiBwd3Q9IjIwODMuNSIgcHhzPSIzMCwzMCIgc2N0PSJCUiIgc2R0PSIyMDE5LTA4LTI3LTAzOjAwIiBzb3Q9IjMyNjEuMDMiIHNzdD0iUlMiIHN3dD0iMzM4Ny45MSIgc3ppPSI4MDAyIiB0eHI9IjE0NjgsOCwwLjAyLFJFQ3wxMTczOTMyOSw5LDQyMCxIT1R8Nzc0OTIwLDEwLDc1OC4zLEFJUnw3NzQ5MjAsMTEsNzM4LjMsQUlSfDExLDEyLDQwLE9USCIvPg==",
+        "price": {
+            "priceWithTax": 119000,
+            "priceWithoutTax": 114500,
+            "pricePerDayWithTax": 14875,
+            "pricePerDayWithoutTax": 14312.5,
+            "pricePerPersonWithTax": 59500,
+            "pricePerPersonWithoutTax": 57250,
+            "currency": "PTS"
+        },
+        "baseDestination": 363,
+        "accommodations": [{
+            "id": 4511739329,
+            "name": "HOTEL CASABLANCA PORTO SEGURO.",
+            "description": "TRÊS ESTRELAS",
+            "award": 3,
+            "isPreferential": true,
+            "timeSpan": {
+                "nights": 7,
+                "checkIn": "2019-09-14",
+                "checkOut": "2019-09-21"
+            },
+            "location": {
+                "address": "RUA - DA CONSOLAÇÃO, 282",
+                "coordinates": {
+                    "latitude": -16.4408323213052,
+                    "longitude": -39.0712327
+                }
+            },
+            "room": {
+                "description": "Standard",
+                "mealPlan": "Diária com café da manhã",
+                "category": "6690",
+                "links": [{
+                    "href": "http://www.cvc.com.br/images/461782.jpg"
+                }]
+            },
+            "category": "Standard"
+        }],
+        "flight": {
+            "id": 286852380,
+            "flightGroupId": 9434,
+            "outbound": {
+                "number": "9307",
+                "period": "D",
+                "departureLocation": {
+                    "iata": "BPS",
+                    "description": "PORTO SEGURO"
+                },
+                "arrivalLocation": {
+                    "iata": "POA",
+                    "description": "PORTO ALEGRE"
+                },
+                "departureDate": "2019-09-22T01:40:00-03:00",
+                "duration": 180,
+                "arrivalDate": "2019-09-22T04:40:00-03:00",
+                "operatingAirline": {
+                    "code": "LA",
+                    "name": "LA"
+                },
+                "class": "Economico",
+                "legs": [{
+                    "departureLocation": {
+                        "iata": "BPS",
+                        "description": "PORTO SEGURO"
+                    },
+                    "arrivalLocation": {
+                        "iata": "POA",
+                        "description": "PORTO ALEGRE"
+                    },
+                    "departureDate": "2019-09-22T01:40:00-03:00",
+                    "arrivalDate": "2019-09-22T04:40:00-03:00",
+                    "flightNumber": "9307",
+                    "operatingAirline": {
+                        "code": "LA",
+                        "name": null
+                    },
+                    "duration": 180
+                }]
+            },
+            "inbound": {
+                "number": "9306",
+                "period": "D",
+                "departureLocation": {
+                    "iata": "POA",
+                    "description": "PORTO ALEGRE"
+                },
+                "arrivalLocation": {
+                    "iata": "BPS",
+                    "description": "PORTO SEGURO"
+                },
+                "departureDate": "2019-09-14T22:15:00-03:00",
+                "duration": 165,
+                "arrivalDate": "2019-09-15T01:00:00-03:00",
+                "operatingAirline": {
+                    "code": "LA",
+                    "name": "LA"
+                },
+                "class": "Economico",
+                "legs": [{
+                    "departureLocation": {
+                        "iata": "POA",
+                        "description": "PORTO ALEGRE"
+                    },
+                    "arrivalLocation": {
+                        "iata": "BPS",
+                        "description": "PORTO SEGURO"
+                    },
+                    "departureDate": "2019-09-14T22:15:00-03:00",
+                    "arrivalDate": "2019-09-15T01:00:00-03:00",
+                    "flightNumber": "9306",
+                    "operatingAirline": {
+                        "code": "LA",
+                        "name": "LA"
+                    },
+                    "duration": 165
+                }]
+            },
+            "baggageRule": {
+                "description": "Regra da Bagagem",
+                "rules": ["Inclui 1 bagagem despachada de 23 quilos e + 1 bagagem de mão de até 10Kg.", "Inclui 1 bagagem despachada de até 23Kg."]
+            }
+        },
+        "taxes": [{
+            "code": "E",
+            "description": "TAXA DE EMBARQUE",
+            "currency": "PTS",
+            "amount": 4500
+        }]
+    }
+}
